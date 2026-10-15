@@ -6,8 +6,8 @@ category: Courses & Travel
 readTime: 8 min read
 featured: false
 image: /images/articles/best-value-public-golf-courses-california.png
-imageAlt: "California state map with numbered golf-ball markers for all ten courses in this guide."
-imageCaption: "Approximate course areas in California. Numbers match the guide; nearby or shared-property courses are grouped. Open each course map for directions."
+imageAlt: "California course-guide title with a state map on the right and small branded golf balls at all ten course locations."
+imageCaption: "Approximate course locations in California. Courses at the same property may overlap. Open the individual course maps below for directions."
 seoTitle: 10 Best Value Public Golf Courses in California
 updated: '2026-10-15'
 ---

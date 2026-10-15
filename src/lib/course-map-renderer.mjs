@@ -13,11 +13,18 @@ export function ball(x,y,r=12){return `<g transform="translate(${x.toFixed(2)} $
 function start(w,h,title){return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img"><title>${E(title)}</title><rect width="100%" height="100%" fill="#141b17"/><g font-family="DejaVu Sans,Arial,sans-serif">`}
 function text(x,y,s,size=18,color='#f7f8f4',weight=400){return `<text x="${x}" y="${y}" font-size="${size}" fill="${color}" font-weight="${weight}">${E(s)}</text>`}
 export function singleMap(geometry,state,course){const {path,point}=projector(geometry,{x:20,y:59,w:285,h:224});const [x,y]=point([course.lon,course.lat]);return start(500,330,`${course.name}: approximate location in ${state}`)+text(20,30,'BREAK 90 GOLF / COURSE LOCATION',14,'#c7ff35',700)+`<path d="${path}" fill="#2b4433" stroke="#839a7e" stroke-width="1.3" fill-rule="evenodd"/>`+ball(x,y,11)+text(329,111,state.toUpperCase(),17,'#f7f8f4',700)+text(329,143,course.locality.length>20?course.locality.slice(0,19)+'…':course.locality,14,'#b7c3b8')+ball(343,183,10)+text(365,189,'Course area',12,'#b7c3b8')+text(20,311,'Approximate location · Open map for directions',12,'#b7c3b8')+'</g></svg>'}
-export function overviewMap(geometry,state,courses,value){const {path,point}=projector(geometry,{x:46,y:182,w:540,h:350});let s=start(1200,630,`${state}: all ${courses.length} courses in this guide`)+`<rect x="48" y="40" width="1104" height="6" fill="#c7ff35"/>`+text(48,80,'BREAK 90 GOLF / THE PLAYBOOK',18,'#c7ff35',700)+text(48,137,state.toUpperCase()+' / '+(value?'PLAY FOR VALUE':'PLAN THE TRIP'),37,'#f7f8f4',700)+`<path d="${path}" fill="#2b4433" stroke="#839a7e" stroke-width="1.5" fill-rule="evenodd"/>`;
- const groups=[];
- // Connected geographic clusters keep nearby markers/number labels readable at card size.
- const remaining=courses.map(c=>{const [x,y]=point([c.lon,c.lat]);return{x,y,number:c.number}});
- while(remaining.length){const members=[remaining.shift()];let changed=true;while(changed){changed=false;for(let i=remaining.length-1;i>=0;i--){if(members.some(m=>Math.hypot(m.x-remaining[i].x,m.y-remaining[i].y)<32)){members.push(remaining.splice(i,1)[0]);changed=true}}}groups.push({x:members.reduce((s,m)=>s+m.x,0)/members.length,y:members.reduce((s,m)=>s+m.y,0)/members.length,numbers:members.map(m=>m.number).sort((a,b)=>a-b)})}
- for(const g of groups){s+=ball(g.x,g.y,10);const label=g.numbers.join(',');const width=label.length*8+12;const labelX=Math.min(599-width,Math.max(30,g.x-width/2));const labelY=Math.min(526,g.y+13);s+=`<rect x="${labelX}" y="${labelY}" width="${width}" height="19" rx="3" fill="#f7f8f4"/>`+text(labelX+6,labelY+14,label,12,'#141b17',700)}
- for(const c of courses){const y=197+(c.number-1)*34;s+=text(646,y,String(c.number).padStart(2,'0'),16,'#c7ff35',700)+text(683,y,c.name,15,'#f7f8f4')}
- s+=`<line x1="48" y1="552" x2="1152" y2="552" stroke="#435347"/>`+text(48,581,'APPROXIMATE COURSE AREAS · NUMBERS MATCH THE GUIDE',13,'#b7c3b8')+text(870,581,'BREAKINGNINETYGOLF.COM',12,'#c7ff35');return s+'</g></svg>'}
+export function overviewMap(geometry,state,courses,value){
+ const {path,point}=projector(geometry,{x:635,y:142,w:500,h:372});
+ let s=start(1200,630,`${state}: approximate locations of all ${courses.length} courses in this guide`)+`<rect x="48" y="40" width="1104" height="6" fill="#c7ff35"/>`+text(48,80,'BREAK 90 GOLF / THE PLAYBOOK',18,'#c7ff35',700)+ball(1135,83,11);
+ const title=state.toUpperCase()+' / '+(value?'PLAY FOR VALUE':'PLAN THE TRIP');let line='',y=206;
+ for(const word of title.split(' ')){if((line+' '+word).trim().length>20&&line){s+=text(48,y,line,43,'#f7f8f4',700);y+=57;line=word}else line=(line+' '+word).trim()}
+ s+=text(48,y,line,43,'#f7f8f4',700);y+=66;
+ const subtitles=value?['Compare the complete cost','of your round.']:['Book the course before','booking the trip.'];
+ for(const line of subtitles){s+=text(50,y,line,23,'#b7c3b8');y+=33}
+ s+=`<path d="${path}" fill="#2b4433" stroke="#839a7e" stroke-width="1.4" fill-rule="evenodd"/>`;
+ // Retain each property's actual approximate position; shared properties naturally overlap.
+ for(const c of courses){const [x,y]=point([c.lon,c.lat]);s+=ball(x,y,7)}
+ s+=text(648,534,`${courses.length} COURSES / APPROXIMATE LOCATIONS`,13,'#b7c3b8');
+ s+=`<line x1="48" y1="552" x2="1152" y2="552" stroke="#435347"/>`+text(48,589,'LESS THINKING. BETTER GOLF.',18,'#c7ff35',700)+text(872,589,'BREAKINGNINETYGOLF.COM',12,'#b7c3b8');
+ return s+'</g></svg>';
+}
