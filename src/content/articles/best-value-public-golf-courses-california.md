@@ -6,8 +6,8 @@ category: Courses & Travel
 readTime: 8 min read
 featured: false
 image: /images/articles/best-value-public-golf-courses-california.png
-imageAlt: 'California golf planning graphic: green fee plus cart plus booking fees equals the round cost.'
-imageCaption: Original planning illustration, not a photograph or map of a named golf course. Compare equivalent walking or riding totals.
+imageAlt: "California state map with numbered golf-ball markers for all ten courses in this guide."
+imageCaption: "Approximate course areas in California. Numbers match the guide; nearby or shared-property courses are grouped. Open each course map for directions."
 seoTitle: 10 Best Value Public Golf Courses in California
 updated: '2026-10-15'
 ---

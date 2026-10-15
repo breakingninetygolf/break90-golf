@@ -6,8 +6,8 @@ category: Courses & Travel
 readTime: 8 min read
 featured: false
 image: /images/articles/top-public-golf-courses-michigan.png
-imageAlt: 'Michigan golf planning graphic: confirm the tee time, check course conditions, then plan travel.'
-imageCaption: Original planning illustration, not a photograph or map of a named golf course. Confirm access, maintenance and cancellation terms before traveling.
+imageAlt: "Michigan state map with numbered golf-ball markers for all ten courses in this guide."
+imageCaption: "Approximate course areas in Michigan. Numbers match the guide; nearby or shared-property courses are grouped. Open each course map for directions."
 seoTitle: 10 Best Public Golf Courses in Michigan
 updated: '2026-10-15'
 ---

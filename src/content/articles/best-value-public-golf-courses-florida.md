@@ -6,8 +6,8 @@ category: Courses & Travel
 readTime: 7 min read
 featured: true
 image: /images/articles/best-value-public-golf-courses-florida.png
-imageAlt: 'Florida golf planning graphic: green fee plus cart plus booking fees equals the round cost.'
-imageCaption: Original planning illustration, not a photograph or map of a named golf course. Compare equivalent walking or riding totals.
+imageAlt: "Florida state map with numbered golf-ball markers for all ten courses in this guide."
+imageCaption: "Approximate course areas in Florida. Numbers match the guide; nearby or shared-property courses are grouped. Open each course map for directions."
 seoTitle: 10 Best Value Public Golf Courses in Florida
 updated: '2026-10-15'
 ---
