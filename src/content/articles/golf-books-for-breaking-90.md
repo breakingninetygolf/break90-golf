@@ -119,7 +119,7 @@ The book's retail description emphasizes target selection, risk-reward decisions
 
 Start with the book that addresses your most repeatable problem. Read enough to identify one useful action, then give it a fair trial in practice. Buying four books is not the same as building a routine.
 
-Use our [score calculator](/calculator/) to choose an area to work on, and pair your reading with the [30-minute practice plan](/articles/30-minute-practice-plan/). Track what you did, not just the score you hoped to shoot.
+Review your last few scorecards to choose an area to work on, and pair your reading with the [30-minute practice plan](/articles/30-minute-practice-plan/). Track what you did, not just the score you hoped to shoot.
 
 ### Research and buying notes
 

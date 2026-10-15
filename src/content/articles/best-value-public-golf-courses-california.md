@@ -144,6 +144,6 @@ Buenaventura offers a more traditional course setting than nearby Olivas Links. 
 
 A green fee can be the smallest-looking number in a booking that also carries a cart charge and an advance-reservation fee. Compare those totals first. Resident and association-member discounts can help eligible golfers, but the visitor prices here do not assume those qualifications.
 
-For repeat play, group courses near your accommodation rather than driving across California to save a few dollars. Ask about course conditions before buying a deal, and use our [scoring calculator](/calculator/) to set a realistic target for the tees you choose.
+For repeat play, group courses near your accommodation rather than driving across California to save a few dollars. Ask about course conditions before buying a deal, and review the [math of breaking 90](/#break-90-math) to set a realistic target for the tees you choose.
 
 Continue with our [California destination-course shortlist](/articles/top-public-golf-courses-california/), or compare our [Florida public-course picks](/articles/top-public-golf-courses-florida/).

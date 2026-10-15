@@ -94,7 +94,7 @@ Use the first sessions to build a small, honest carry chart. Keep conditions con
  <figcaption>Original practice framework. Track repeatable shots and useful patterns rather than chasing a personal-best number.</figcaption>
 </figure>
 
-Pair that chart with our [30-minute practice plan](/articles/30-minute-practice-plan/) and [tee-shot decision guide](/articles/should-you-hit-driver-on-every-par-four/). Then use the [scoring calculator](/calculator/) to decide whether approach play is actually where you are losing strokes.
+Pair that chart with our [30-minute practice plan](/articles/30-minute-practice-plan/) and [tee-shot decision guide](/articles/should-you-hit-driver-on-every-par-four/). Then review your last few rounds to decide whether approach play is actually where you are losing strokes.
 
 ## Should you buy one now?
 

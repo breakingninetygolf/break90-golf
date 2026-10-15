@@ -17,7 +17,7 @@ Breaking 90 does not require every part of your game to improve at once. Start b
 
 On a par-72 course, seventeen bogeys and one par total 89. Eighteen bogeys total 90. That is one useful way to picture the target, not a rule that you must follow on every hole. Birdies, pars and doubles will still appear on real scorecards.
 
-The point is to stop treating a routine bogey as a reason to attempt a risky shot on the next hole. Use our [score calculator](/calculator/) to see how penalties, three-putts and avoidable short-game shots fit into your own round.
+The point is to stop treating a routine bogey as a reason to attempt a risky shot on the next hole. Review your last few scorecards to see how penalties, three-putts and avoidable short-game shots fit into your own round.
 
 ## Choose targets for your usual shot
 

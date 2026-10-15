@@ -35,7 +35,7 @@ For a long par 4, a safe approach short of the green may leave a straightforward
 
 A par does not give you permission to take an unnecessary risk on the next tee. A double does not mean the round is over. Return to the same sequence: assess the lie, choose the target, choose the club and commit.
 
-Try this approach for nine holes. Track penalties and three-putts alongside the total, then review your decisions after the round. Use our [calculator](/calculator/) to organize those notes.
+Try this approach for nine holes. Track penalties and three-putts alongside the total, then review your decisions after the round. Review your last few scorecards for recurring mistakes, and keep the [math of breaking 90](/#break-90-math) in mind.
 
 ## Take one task to practice
 

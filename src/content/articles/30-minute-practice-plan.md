@@ -41,4 +41,4 @@ Include both driver and an alternative you actually use on the course. Record wh
 
 Write down one result and one next step. For example: “Four of nine lag putts finished in the zone; repeat the same distances next visit.” Avoid judging an entire practice session by the last ball you hit.
 
-Use our [score calculator](/calculator/) to choose which block deserves more attention next week. If penalties repeatedly cost you shots, review the [driver decision guide](/articles/should-you-hit-driver-on-every-par-four/). If you are considering a purchase, first identify what a [practice tool](/articles/golf-practice-tools-for-breaking-90/) would add to the task.
+Review your last few scorecards to choose which block deserves more attention next week. If penalties repeatedly cost you shots, review the [driver decision guide](/articles/should-you-hit-driver-on-every-par-four/). If you are considering a purchase, first identify what a [practice tool](/articles/golf-practice-tools-for-breaking-90/) would add to the task.

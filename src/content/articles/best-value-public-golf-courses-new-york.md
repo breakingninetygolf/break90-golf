@@ -148,6 +148,6 @@ Blue, Green and Yellow do not carry the Black/Red nonresident green-fee distinct
 
 Fall prices are seasonal opportunities, not year-round guarantees. Check aeration, frost policies, course closure dates and daylight. Compare equivalent hole counts and walking or riding totals. At county facilities, confirm which routing you are booking; at resort courses, confirm whether a listed price requires a guest or rewards category.
 
-Pick a manageable scoring goal with our [calculator](/calculator/), then keep the tee selection comfortable. A value round should give you more chances to enjoy golf and improve.
+Pick a manageable scoring goal with the [math of breaking 90](/#break-90-math), then keep the tee selection comfortable. A value round should give you more chances to enjoy golf and improve.
 
 Continue with our [New York destination-course shortlist](/articles/top-public-golf-courses-new-york/), or compare our [Florida public-course picks](/articles/top-public-golf-courses-florida/).

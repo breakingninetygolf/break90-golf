@@ -72,7 +72,7 @@ A chipping net gives you a visible destination and helps structure a short sessi
 
 ## Buy for the routine you will repeat
 
-Start with your [score calculator](/calculator/), identify one area to work on, and follow a [30-minute practice plan](/articles/30-minute-practice-plan/). If you can do the drill with equipment you already own, start there. Add a tool when it makes the task clearer or the routine easier to repeat.
+Start with your last few scorecards, identify one area to work on, and follow a [30-minute practice plan](/articles/30-minute-practice-plan/). If you can do the drill with equipment you already own, start there. Add a tool when it makes the task clearer or the routine easier to repeat.
 
 ### Product information
 

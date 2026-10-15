@@ -144,6 +144,6 @@ Sweetgrass crosses into both of our Michigan lists because value is not limited 
 
 Compare cart, tax and range-ball inclusions before deciding which fee is lower. Check league availability at local courses and ask about aeration recovery before choosing a shoulder-season deal. A long drive can erase a small saving.
 
-For a Grand Rapids-area start, compare Scott Lake, Glenkerry, The Mines and Diamond Springs on your actual date. Choose the course that fits your time and budget, then use our [scoring calculator](/calculator/) to keep the round focused on a manageable goal.
+For a Grand Rapids-area start, compare Scott Lake, Glenkerry, The Mines and Diamond Springs on your actual date. Choose the course that fits your time and budget, then review the [math of breaking 90](/#break-90-math) to keep the round focused on a manageable goal.
 
 Continue with our [Michigan destination-course shortlist](/articles/top-public-golf-courses-michigan/), or compare our [Florida public-course picks](/articles/top-public-golf-courses-florida/).
