@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in New York for the Money"
-description: "Ten New York public golf picks for the money, with course overviews, visitor rates, seasonal deals and official booking links."
+title: Top 10 Public Golf Courses in New York for the Money
+description: Ten New York public golf picks for the money, with course overviews, visitor rates, seasonal deals and official booking links.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: false
+image: /images/articles/best-value-public-golf-courses-new-york.png
+imageAlt: 'New York golf planning graphic: green fee plus cart plus booking fees equals the round cost.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Compare equivalent walking or riding totals.
+seoTitle: 10 Best Value Public Golf Courses in New York
+updated: '2026-10-15'
 ---
 
 New York has an unusually useful public-golf menu: state parks, county courses and resort-area options that do not all carry a resort-size fee. The strongest value often comes from choosing the right season and walking when practical. This guide includes nine full-round destinations and one clearly marked nine-hole option.

@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in Florida: Our No-Budget-Limit Shortlist"
-description: "Ten standout Florida courses you can book without a private membership, with course overviews, visitor pricing and practical booking advice."
+title: 'Top 10 Public Golf Courses in Florida: Our No-Budget-Limit Shortlist'
+description: Ten standout Florida courses you can book without a private membership, with course overviews, visitor pricing and practical booking advice.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: true
+image: /images/articles/top-public-golf-courses-florida.png
+imageAlt: 'Florida golf planning graphic: confirm the tee time, check course conditions, then plan travel.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Confirm access, maintenance and cancellation terms before traveling.
+seoTitle: 10 Best Public Golf Courses in Florida
+updated: '2026-10-15'
 ---
 
 Florida offers more than palm trees and water carries. Its public-access golf includes dramatic dunes, adventurous greens and tournament venues that make a round feel like a special occasion.

@@ -1,10 +1,15 @@
 ---
-title: "Golf Books Worth Reading When You Want to Break 90"
-description: "A practical reading list for smarter decisions, a calmer mental game and clearer golf fundamentals."
+title: Golf Books Worth Reading When You Want to Break 90
+description: A practical reading list for smarter decisions, a calmer mental game and clearer golf fundamentals.
 date: 2026-10-15
-category: "Books & Improvement"
-readTime: "7 min read"
+category: Books & Improvement
+readTime: 7 min read
 featured: true
+image: /images/articles/golf-books-for-breaking-90.png
+imageAlt: Reading choices grouped by strategy, mental game and short lessons.
+imageCaption: Start with one topic and take one useful idea to practice. These are reading categories, not book-cover reproductions.
+seoTitle: Golf Books Worth Reading When You Want to Break 90
+updated: '2026-10-15'
 ---
 
 **Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through links in this article, at no extra cost to you.**
@@ -119,4 +124,3 @@ Use our [score calculator](/calculator/) to choose an area to work on, and pair 
 ### Research and buying notes
 
 Author and publisher pages checked October 15, 2026: [The Four Foundations of Golf](https://fourfoundationsofgolf.com/book), [Golf Is Not a Game of Perfect](https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647), [Harvey Penick's Little Red Book](https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219), and [Ben Hogan's Five Lessons](https://www.simonandschuster.com/books/Ben-Hogans-Five-Lessons/Ben-Hogan/9781668024119). Additional listing references: [How To Not Suck at Golf](https://www.amazon.com/dp/B0GGNQMG2T) and [Golf Course Strategy For Lower Scores](https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290). The first four affiliate links open Amazon title searches; the final two link to specific books. Prices, editions, sellers and availability may change.
-

@@ -1,4 +1,12 @@
 ---
-import Base from '../../layouts/Base.astro';import {getCollection} from 'astro:content';const articles=(await getCollection('articles')).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf());
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import {getCollection} from 'astro:content';
+const articles=(await getCollection('articles')).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf()||a.id.localeCompare(b.id));
+const groups=[{id:'scoring',title:'Scoring, practice & tee shots',items:articles.filter(a=>!a.id.includes('golf-courses-')&&!['Books & Improvement','Gear & Practice'].includes(a.data.category))},{id:'courses',title:'Public golf course guides',items:articles.filter(a=>a.id.includes('golf-courses-'))},{id:'gear',title:'Gear & books',items:articles.filter(a=>['Books & Improvement','Gear & Practice'].includes(a.data.category))}];
 ---
-<Base title="The Playbook | Break 90 Golf"><section class="section dark-section"><div class="container"><div class="eyebrow lime">THE PLAYBOOK</div><h1>GOOD ADVICE.<br/><span class="lime">NO FLUFF.</span></h1><p>Practical golf ideas for the weekend golfer who wants to break 90.</p></div></section><section class="section"><div class="container grid3">{articles.map(article=><a class="card" href={`/articles/${article.id}/`}><span class="eyebrow muted">{article.data.category} · {article.data.readTime}</span><h3>{article.data.title}</h3><p>{article.data.description}</p><div class="bottom">READ THE ARTICLE ↗</div></a>)}</div></section></Base>
+<Base title="Golf Tips, Public Course Guides & Books | The Playbook" description="Explore practical golf tips, public course guides for four states, practice drills and books to help you build a plan for breaking 90.">
+ <section class="page-heading dark-section"><div class="container"><div class="eyebrow lime">THE PLAYBOOK</div><h1>GOLF ADVICE.<br/><span class="lime">A PLAN FOR 89.</span></h1><p>Choose a scoring task, plan a public-course trip or find a useful practice tool. Every guide gives you something to use on your next golf day.</p><nav aria-label="Article topics" class="hub-links">{groups.map(g=><a class="btn outline" href={`#${g.id}`}>{g.title}</a>)}</nav></div></section>
+ {groups.map(g=><section class="section topic-section" id={g.id}><div class="container"><div class="section-head"><h2>{g.title}</h2>{g.id==='courses'&&<a class="btn dark" href="/courses/">COMPARE BY STATE ↗</a>}</div><div class="grid3">{g.items.map(article=><ArticleCard article={article}/>)}</div></div></section>)}
+</Base>
+<style>.topic-section{scroll-margin-top:75px}.topic-section:nth-of-type(odd){background:#eaf0e3}.section-head h2{font-size:clamp(2.4rem,4vw,3.7rem)}</style>

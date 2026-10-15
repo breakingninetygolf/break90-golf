@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in Michigan: Our No-Budget-Limit Shortlist"
-description: "Ten standout public-access golf courses in Michigan, with course overviews, visitor pricing and practical trip-planning advice."
+title: 'Top 10 Public Golf Courses in Michigan: Our No-Budget-Limit Shortlist'
+description: Ten standout public-access golf courses in Michigan, with course overviews, visitor pricing and practical trip-planning advice.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: false
+image: /images/articles/top-public-golf-courses-michigan.png
+imageAlt: 'Michigan golf planning graphic: confirm the tee time, check course conditions, then plan travel.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Confirm access, maintenance and cancellation terms before traveling.
+seoTitle: 10 Best Public Golf Courses in Michigan
+updated: '2026-10-15'
 ---
 
 Michigan can deliver a Lake Michigan bluff, a rocky Upper Peninsula landscape and a forested resort round in the same golf trip. The best itinerary starts with the course experience you want, then groups the rounds so you spend less time in the car.

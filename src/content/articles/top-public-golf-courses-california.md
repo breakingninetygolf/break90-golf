@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in California: Our No-Budget-Limit Shortlist"
-description: "Ten standout public-access golf courses in California, with course overviews, visitor pricing and practical trip-planning advice."
+title: 'Top 10 Public Golf Courses in California: Our No-Budget-Limit Shortlist'
+description: Ten standout public-access golf courses in California, with course overviews, visitor pricing and practical trip-planning advice.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: false
+image: /images/articles/top-public-golf-courses-california.png
+imageAlt: 'California golf planning graphic: confirm the tee time, check course conditions, then plan travel.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Confirm access, maintenance and cancellation terms before traveling.
+seoTitle: 10 Best Public Golf Courses in California
+updated: '2026-10-15'
 ---
 
 California offers several different golf trips in one state: a Monterey Peninsula bucket-list visit, San Diego municipal golf and a desert tournament course. Price is not the selection limit in this guide. Public access, an individual course identity and a reason to travel are.

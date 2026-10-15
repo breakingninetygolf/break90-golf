@@ -1,0 +1,15 @@
+---
+import type { CollectionEntry } from 'astro:content';
+interface Props { article: CollectionEntry<'articles'> }
+const {article}=Astro.props;
+const image=article.data.image;
+const webp=image?.replace(/\.png$/,'.webp');
+const thumb=image?.replace(/\.png$/,'-600.webp');
+---
+<a class="card article-card" href={`/articles/${article.id}/`}>
+ {image && <picture><source type="image/webp" srcset={`${thumb} 600w, ${webp} 1200w`} sizes="(max-width:800px) 100vw, 380px"/><img src={image} alt={article.data.imageAlt || article.data.title} width="1200" height="630" loading="lazy" decoding="async"/></picture>}
+ <span class="eyebrow muted">{article.data.category} · {article.data.readTime}</span>
+ <h3>{article.data.title}</h3><p>{article.data.description}</p>
+ <span class="bottom">READ THE ARTICLE ↗</span>
+</a>
+<style>.article-card picture{display:block;margin:-26px -26px 24px}.article-card img{width:100%;height:auto;display:block;aspect-ratio:1200/630}.article-card h3{font-size:1.9rem;line-height:1.08}.article-card:hover{border-color:#749b27}</style>

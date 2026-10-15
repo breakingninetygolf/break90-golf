@@ -1,10 +1,15 @@
 ---
-title: "Useful Golf Practice Tools for Breaking 90"
-description: "Three practice tools worth considering, the drills to use with them, and when you can skip buying anything."
+title: Useful Golf Practice Tools for Breaking 90
+description: Three practice tools worth considering, the drills to use with them, and when you can skip buying anything.
 date: 2026-10-15
-category: "Gear & Practice"
-readTime: "5 min read"
+category: Gear & Practice
+readTime: 5 min read
 featured: true
+image: /images/articles/golf-practice-tools-for-breaking-90.png
+imageAlt: 'Three practice tasks: alignment for setup, a putting target for pace, and a chipping target for landing control.'
+imageCaption: Choose the task first. A spare club, coin or towel may do the job before you buy a training aid.
+seoTitle: Useful Golf Practice Tools for Breaking 90
+updated: '2026-10-15'
 ---
 
 **Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through the links in this guide, at no extra cost to you.**

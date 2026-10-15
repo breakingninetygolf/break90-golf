@@ -1,5 +1,42 @@
 ---
-import Base from '../../layouts/Base.astro';import Newsletter from '../../components/Newsletter.astro';import {getCollection,render} from 'astro:content';export async function getStaticPaths(){const articles=await getCollection('articles');return articles.map(article=>({params:{slug:article.id},props:{article}}))}const {article}=Astro.props;const {Content}=await render(article);
+import Base from '../../layouts/Base.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import {getCollection,render} from 'astro:content';
+export async function getStaticPaths(){return (await getCollection('articles')).map(article=>({params:{slug:article.id},props:{article}}));}
+const {article}=Astro.props;
+const {Content,headings}=await render(article);
+const toc=headings.filter(h=>h.depth===2);
+const site=Astro.site!;
+const url=new URL(`/articles/${article.id}/`,site).href;
+const published=article.data.date.toISOString().slice(0,10);
+const modified=(article.data.updated||article.data.date).toISOString().slice(0,10);
+const dateLabel=new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}).format(article.data.date);
+const all=await getCollection('articles');
+const isCourse=article.id.includes('golf-courses-');
+const related=all.filter(a=>a.id!==article.id).map(a=>({article:a,score:(a.data.category===article.data.category?3:0)+(isCourse && a.id.split('golf-courses-')[1]===article.id.split('golf-courses-')[1]?10:0)+(a.id==='how-to-break-90-without-changing-your-swing'?1:0)})).sort((a,b)=>b.score-a.score||a.article.id.localeCompare(b.article.id)).slice(0,3).map(x=>x.article);
+const schema=[
+ {'@type':'BlogPosting','@id':url+'#article',headline:article.data.title,description:article.data.description,datePublished:published,dateModified:modified,inLanguage:'en-US',articleSection:article.data.category,
+ author:{'@type':'Organization',name:'Break 90 Golf',url:new URL('/about/',site).href},publisher:{'@id':new URL('/#organization',site).href},mainEntityOfPage:{'@id':url+'#webpage'},...(article.data.image?{image:[new URL(article.data.image,site).href]}:{})},
+ {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:site.href},{'@type':'ListItem',position:2,name:'The Playbook',item:new URL('/articles/',site).href},{'@type':'ListItem',position:3,name:article.data.title,item:url}]}
+];
 ---
-<Base title={`${article.data.title} | Break 90 Golf`} description={article.data.description}><section class="article-head dark-section"><div class="container"><div class="eyebrow lime">{article.data.category} / {article.data.readTime}</div><h1>{article.data.title}</h1><p>{article.data.description}</p></div></section><article class="section"><div class="container"><div class="prose"><Content/></div><div class="return"><a class="btn dark" href="/articles/">← BACK TO THE PLAYBOOK</a><a class="btn" href="/calculator/">FIND YOUR MISSING STROKES ↗</a></div></div></article><Newsletter/></Base>
-<style>.article-head{padding:85px 0}.article-head h1{font-size:clamp(3.8rem,8vw,7.5rem);max-width:980px;margin:20px 0}.article-head p{font-size:1.2rem;color:#c4cdc4;max-width:650px;line-height:1.6}.return{display:flex;gap:12px;flex-wrap:wrap;margin-top:60px}</style>
+<Base title={`${article.data.seoTitle || article.data.title} | Break 90 Golf`} description={article.data.description} image={article.data.image} imageAlt={article.data.imageAlt} type="article" published={published} modified={modified} structuredData={schema}>
+ <header class="article-head dark-section"><div class="container">
+  <nav aria-label="Breadcrumb" class="breadcrumbs"><a href="/">Home</a><span>/</span><a href="/articles/">The Playbook</a><span>/</span><span>{article.data.category}</span></nav>
+  <div class="eyebrow lime">{article.data.category} / {article.data.readTime}</div><h1>{article.data.title}</h1><p>{article.data.description}</p>
+  <div class="byline">By <a href="/about/">Break 90 Golf</a> · <time datetime={published}>{dateLabel}</time></div>
+ </div></header>
+ <article class="section"><div class="container">
+  {article.data.image && <figure class="article-figure"><picture><source type="image/webp" srcset={`${article.data.image.replace('.png','-600.webp')} 600w, ${article.data.image.replace('.png','.webp')} 1200w`} sizes="(max-width:800px) 100vw, 900px"/><img src={article.data.image} alt={article.data.imageAlt} width="1200" height="630" fetchpriority="high" decoding="async"/></picture><figcaption>{article.data.imageCaption}</figcaption></figure>}
+  <div class="reading-grid">
+   <aside><nav class="contents" aria-label="On this page"><h2>ON THIS PAGE</h2><ol>{toc.map(h=><li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav></aside>
+   <div class="prose"><Content/><div class="editor-note"><strong>About our guides</strong><p>Our recommendations distinguish editorial research from firsthand testing. Check current course conditions, prices and product details with the operator or seller. <a href="/about/">Read our editorial approach</a>.</p></div></div>
+  </div>
+  <div class="return"><a class="btn dark" href="/articles/">← BACK TO THE PLAYBOOK</a><a class="btn" href="/calculator/">FIND YOUR MISSING STROKES ↗</a></div>
+ </div></article>
+ <section class="section related"><div class="container"><div class="eyebrow">KEEP YOUR NEXT SHOT SIMPLE</div><h2>READ NEXT.</h2><div class="grid3">{related.map(a=><ArticleCard article={a}/>)}</div></div></section><Newsletter/>
+</Base>
+<style>
+.article-head{padding:38px 0 58px}.article-head h1{font-size:clamp(2.6rem,6vw,5.4rem);max-width:1000px;margin:24px 0;line-height:1.02;overflow-wrap:anywhere}.article-head p{font-size:1.15rem;color:#c4cdc4;max-width:720px;line-height:1.6}.breadcrumbs{display:flex;flex-wrap:wrap;gap:10px;font-size:.8rem;color:#bcc7bf;margin-bottom:32px}.breadcrumbs a,.byline a{text-decoration:underline;text-underline-offset:4px}.byline{font-size:.82rem;color:#bcc7bf;line-height:1.8}.article-figure{max-width:900px;margin:0 auto 55px}.article-figure img{display:block;width:100%;height:auto}.article-figure figcaption{font-size:.8rem;line-height:1.6;color:#5e6b61;margin-top:12px}.reading-grid{display:grid;grid-template-columns:250px minmax(0,760px);gap:55px}.contents{position:sticky;top:105px;background:#eaf0e3;padding:22px}.contents h2{font-size:1.2rem;line-height:1.2}.contents ol{padding-left:19px;font-size:.8rem;line-height:1.5;margin-bottom:0}.contents li{margin:0 0 12px}.contents a:hover{text-decoration:underline}.return{display:flex;gap:12px;flex-wrap:wrap;margin-top:45px}.editor-note{border-top:1px solid #c5cebe;margin-top:40px;padding-top:22px;font-size:.85rem}.editor-note p{margin:8px 0}.related{background:#eaf0e3}.related h2{margin:18px 0 30px}@media(max-width:850px){.reading-grid{grid-template-columns:1fr;gap:28px}.contents{position:static}.contents ol{columns:2;column-gap:26px}.contents li{break-inside:avoid}.article-figure{margin-bottom:30px}}@media(max-width:480px){.contents ol{columns:1}}
+</style>

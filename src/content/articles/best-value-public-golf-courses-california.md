@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in California for the Money"
-description: "Ten California public golf picks for the money, with course overviews, visitor rates, seasonal deals and official booking links."
+title: Top 10 Public Golf Courses in California for the Money
+description: Ten California public golf picks for the money, with course overviews, visitor rates, seasonal deals and official booking links.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: false
+image: /images/articles/best-value-public-golf-courses-california.png
+imageAlt: 'California golf planning graphic: green fee plus cart plus booking fees equals the round cost.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Compare equivalent walking or riding totals.
+seoTitle: 10 Best Value Public Golf Courses in California
+updated: '2026-10-15'
 ---
 
 California golf can be expensive, but a visitor does not need a resort budget for every round. Walking, flexible weekdays and a careful look at booking charges can uncover useful alternatives. This guide mixes full-length public courses with one clearly identified shorter, par-65 layout.

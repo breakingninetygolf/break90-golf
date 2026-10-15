@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in Florida for the Money"
-description: "A practical Florida value-golf shortlist with visitor rates, course overviews, seasonal savings and two clearly marked nine-hole options."
+title: Top 10 Public Golf Courses in Florida for the Money
+description: A practical Florida value-golf shortlist with visitor rates, course overviews, seasonal savings and two clearly marked nine-hole options.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "7 min read"
+category: Courses & Travel
+readTime: 7 min read
 featured: true
+image: /images/articles/best-value-public-golf-courses-florida.png
+imageAlt: 'Florida golf planning graphic: green fee plus cart plus booking fees equals the round cost.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Compare equivalent walking or riding totals.
+seoTitle: 10 Best Value Public Golf Courses in Florida
+updated: '2026-10-15'
 ---
 
 A good-value golf course gives you a reason to come back without turning every round into a vacation expense. For golfers trying to break 90, that can mean a distinctive layout, affordable walking or enough room in the budget to play again next week.

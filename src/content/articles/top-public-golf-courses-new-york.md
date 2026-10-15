@@ -1,10 +1,15 @@
 ---
-title: "Top 10 Public Golf Courses in New York: Our No-Budget-Limit Shortlist"
-description: "Ten standout public-access golf courses in New York, with course overviews, visitor pricing and practical trip-planning advice."
+title: 'Top 10 Public Golf Courses in New York: Our No-Budget-Limit Shortlist'
+description: Ten standout public-access golf courses in New York, with course overviews, visitor pricing and practical trip-planning advice.
 date: 2026-10-15
-category: "Courses & Travel"
-readTime: "8 min read"
+category: Courses & Travel
+readTime: 8 min read
 featured: false
+image: /images/articles/top-public-golf-courses-new-york.png
+imageAlt: 'New York golf planning graphic: confirm the tee time, check course conditions, then plan travel.'
+imageCaption: Original planning illustration, not a photograph or map of a named golf course. Confirm access, maintenance and cancellation terms before traveling.
+seoTitle: 10 Best Public Golf Courses in New York
+updated: '2026-10-15'
 ---
 
 New York’s public golf runs from Long Island state-park courses to Westchester daily-fee golf and multi-course Upstate resorts. This shortlist is about finding a round worth building a visit around, without treating the price as the deciding factor.

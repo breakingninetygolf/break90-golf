@@ -1,23 +1,47 @@
 ---
-title: "Should You Hit Driver on Every Par 4?"
-description: "Sometimes the best club off the tee is the one that leaves you another shot."
+title: Should You Hit Driver on Every Par 4?
+description: Sometimes the best club off the tee is the one that leaves you another shot.
 date: 2026-10-15
-category: "Tee shots"
-readTime: "4 min read"
+category: Tee shots
+readTime: 3 min read
+image: /images/articles/should-you-hit-driver-on-every-par-four.png
+imageAlt: Schematic fairway with a wide safe landing area and trouble beside a narrow target.
+imageCaption: Illustrative hole, not a real course map. Compare the landing areas your normal shots can reach.
+seoTitle: Should You Hit Driver on Every Par 4?
+updated: '2026-10-15'
 ---
 
-## Driver is a choice
+Driver is a choice. Extra distance can leave a shorter approach, but it only helps when the resulting position is useful. A shorter club can reduce trouble on one hole and create a difficult second shot on another.
 
-Extra distance helps when it stays in play. It does not help when your usual miss brings penalties into play.
+## Start with two landing areas
 
-## Look at the landing area
+Before choosing a club, compare where your ordinary driver shot finishes with where a familiar alternative finishes. Include your common miss in that comparison. Do not build the plan around your longest straight drive or assume every iron stays on its intended line.
 
-Ask where your typical shot finishes, not where your best drive might go.
+Look for penalty areas, bunkers, out of bounds and ground that can kick a ball toward trouble. Also check whether the shorter landing area actually gives you room. A narrow lay-up can be just as awkward as a narrow driver target.
 
-## Have a safe club
+## Compare the next shot
 
-A fairway wood, hybrid or iron can be a smart alternative on tight holes.
+Suppose driver reaches a broad landing area and leaves a short iron. A shorter club that stops before that area may leave a long approach over trouble. In that situation, automatically putting driver away may be too conservative.
 
-## Do not get too conservative
+On a different hole, your normal driver distance may reach a penalty area that a shorter club cannot reach. If the shorter choice leaves a manageable approach, it can be a reasonable option. These are examples of the decision process, not fixed instructions for every hole.
 
-If the landing area is wide, driver may still be the best choice.
+## Choose a club you can actually use
+
+Your alternative might be a fairway wood, hybrid or iron. Use practice to learn its normal distance and direction. Do not label a club “safe” simply because it is shorter than driver.
+
+On the range, pick two clear targets with space between them to represent a landing area. Alternate driver and your alternative for a small set of shots. Record the finish pattern and useful carry information. Follow the range rules and keep any alignment aid safely clear of your swing.
+
+## A quick tee-box checklist
+
+- Where does my normal shot finish?
+- What trouble is inside that pattern?
+- Where does the alternative finish?
+- Which option leaves a next shot I am comfortable playing?
+
+Make the choice before addressing the ball. Repeatedly changing your mind over the shot is unlikely to make the target clearer.
+
+## Keep the round in perspective
+
+One poor drive does not prove the club choice was wrong. One perfect hybrid does not make it the answer on every par 4. Review the pattern after several rounds and adjust your plan with better information.
+
+For a broader scoring approach, read [how to break 90 without rebuilding your swing](/articles/how-to-break-90-without-changing-your-swing/). Give the final ten minutes of our [practice plan](/articles/30-minute-practice-plan/) to tee-shot decisions instead of hitting a bucket with one club.
