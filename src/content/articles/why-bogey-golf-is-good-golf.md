@@ -40,3 +40,5 @@ Try this approach for nine holes. Track penalties and three-putts alongside the 
 ## Take one task to practice
 
 If your notes show repeated long first putts followed by difficult second putts, work on [distance control](/articles/stop-three-putting/). If tee shots bring trouble into play, review [when to use driver](/articles/should-you-hit-driver-on-every-par-four/). Choose one focus rather than changing everything because of a single scorecard.
+
+For the full scoring breakdown and a review template for your last three rounds, read [The Math of Breaking 90: Find the Strokes You Can Save](/articles/break-90-golf-scoring-math-find-lost-strokes/).

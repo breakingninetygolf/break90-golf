@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import {getCollection} from 'astro:content';
 const all=await getCollection('articles');
-const order=['how-to-break-90-without-changing-your-swing','why-bogey-golf-is-good-golf','should-you-hit-driver-on-every-par-four','stop-three-putting','30-minute-practice-plan','simple-grip-adjustment-for-a-slice'];
+const order=['break-90-golf-scoring-math-find-lost-strokes','how-to-break-90-without-changing-your-swing','why-bogey-golf-is-good-golf','should-you-hit-driver-on-every-par-four','stop-three-putting','30-minute-practice-plan','simple-grip-adjustment-for-a-slice'];
 const articles=order.map(id=>all.find(a=>a.id===id)!);
 ---
 <Base title="How to Break 90 in Golf: Start with a Simple Scoring Plan" description="Start your plan to break 90 with scoring basics, smarter tee shots, lag-putting practice and a focused 30-minute routine for everyday golfers.">
