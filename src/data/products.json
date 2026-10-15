@@ -4,7 +4,6 @@
     "name": "SKLZ Golf Alignment Sticks",
     "category": "Setup & aim",
     "description": "A simple reference for checking your target line and ball position at the range.",
-    "why": "Consider these if your setup changes from shot to shot. A spare club laid safely on the ground can also provide an alignment reference.",
     "url": "https://www.amazon.com/dp/B008RATH18?tag=breakingninet-20",
     "image": "",
     "featured": true
@@ -14,7 +13,6 @@
     "name": "PuttOUT Premium Pressure Putt Trainer",
     "category": "Putting practice",
     "description": "A folding putting target with a ramp and a small pace-control target.",
-    "why": "Consider it if you want feedback during short-putt practice at home. You still need a suitable rolling surface.",
     "url": "https://www.amazon.com/dp/B08VWH6Y58?tag=breakingninet-20",
     "image": "",
     "featured": true
@@ -24,8 +22,88 @@
     "name": "Callaway Chip Shot Chipping Net",
     "category": "Short-game practice",
     "description": "A portable target for structured chipping practice.",
-    "why": "Consider it if a visible target helps you practice regularly. It does not reproduce how a ball releases on a real green.",
     "url": "https://www.amazon.com/dp/B0047I2EQO?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "rapsodo-mlm2pro",
+    "name": "Rapsodo MLM2PRO",
+    "category": "Launch monitors",
+    "description": "Radar and camera-based shot feedback for practice and simulation. Check room space, device compatibility and membership requirements.",
+    "url": "https://www.amazon.com/dp/B0BTPZMCSF?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "redtiger-rangefinder",
+    "name": "REDTIGER Golf Rangefinder",
+    "category": "Distances & course management",
+    "description": "Laser rangefinder with selectable slope mode for checking distances to targets. Confirm the selected model and included accessories.",
+    "url": "https://www.amazon.com/dp/B0BVFP6KXC?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "perfect-practice-mat",
+    "name": "Perfect Practice Standard Putting Mat",
+    "category": "Putting practice",
+    "description": "An indoor putting surface with targets and a ball-return arrangement for focused short-putt practice. Check the selected edition and dimensions.",
+    "url": "https://www.amazon.com/dp/B07YQ7935B?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "odyssey-putting-mirror",
+    "name": "Odyssey Putting Mirror",
+    "category": "Setup & aim",
+    "description": "A 12-inch putting mirror that provides visual references for checking a consistent setup before rolling putts.",
+    "url": "https://www.amazon.com/dp/B07YMJ7ZPM?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "gosports-hitting-mat",
+    "name": "GoSports Elite Hitting Mat",
+    "category": "Home practice",
+    "description": "A full-size stance and hitting surface for a home practice area. Confirm the selected size and thickness; the 5-by-4-foot, 15 mm version is our starting option.",
+    "url": "https://www.amazon.com/dp/B08BXBDRDY?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "titleist-pro-v1",
+    "name": "Titleist Pro V1 Golf Balls",
+    "category": "Golf balls",
+    "description": "A premium ball option for golfers who already play or want to try Pro V1. Confirm the generation, quantity, color and condition on the listing.",
+    "url": "https://www.amazon.com/dp/B0BPF2D5P9?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "grooveit-brush",
+    "name": "Grooveit Wet Club Scrub",
+    "category": "Bag essentials",
+    "description": "A water-brush option for cleaning clubs during a round. Check the selected version and attachment arrangement for your bag.",
+    "url": "https://www.amazon.com/dp/B0FD8TX982?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "frogger-towel",
+    "name": "Frogger Amphibian Golf Towel",
+    "category": "Bag essentials",
+    "description": "A wet-and-dry golf towel for club-cleaning routines. Confirm the towel size and bag attachment before buying.",
+    "url": "https://www.amazon.com/dp/B002KW71N0?tag=breakingninet-20",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "gosports-elite-net",
+    "name": "GoSports Elite Practice Net",
+    "category": "Home practice",
+    "description": "A full-swing practice net for a suitable hitting area. Check the selected dimensions, installation instructions and clearance around the net.",
+    "url": "https://www.amazon.com/dp/B0CQSVW2BT?tag=breakingninet-20",
     "image": "",
     "featured": true
   }

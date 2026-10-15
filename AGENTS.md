@@ -19,3 +19,7 @@ Run the build and check the generated article has one location map per numbered 
 User preference (October 15, 2026): recommend only products with a direct Amazon affiliate product link using `breakingninet-20`. Do not use manufacturer shopping links or Amazon search links as recommendation CTAs. If an exact suitable listing cannot be established, replace or omit that recommendation; never invent an ASIN. Keep editorial source citations separate from purchase CTAs. Never imply guaranteed commissions or paid brand sponsorship.
 
 Every purchase CTA must use the approved dark rectangular style: `<a class="btn dark" href="https://www.amazon.com/dp/VERIFIED_ASIN?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check PRODUCT on Amazon ↗</a>`. Retain a clear affiliate disclosure. Confirm model, format, selected variant and source evidence; current availability and commission eligibility cannot be guaranteed. The user does not need to supply links if a product listing can be identified independently.
+
+## Gear-page cards
+
+Keep gear cards simple: category, product name, short description and the approved dark Amazon affiliate button. Do not include a “Why it matters” section. Leave product images out until the user requests adding approved images.
