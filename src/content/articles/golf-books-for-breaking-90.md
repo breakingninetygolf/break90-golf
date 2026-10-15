@@ -124,3 +124,7 @@ Use our [score calculator](/calculator/) to choose an area to work on, and pair 
 ### Research and buying notes
 
 Author and publisher pages checked October 15, 2026: [The Four Foundations of Golf](https://fourfoundationsofgolf.com/book), [Golf Is Not a Game of Perfect](https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647), [Harvey Penick's Little Red Book](https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219), and [Ben Hogan's Five Lessons](https://www.simonandschuster.com/books/Ben-Hogans-Five-Lessons/Ben-Hogan/9781668024119). Additional listing references: [How To Not Suck at Golf](https://www.amazon.com/dp/B0GGNQMG2T) and [Golf Course Strategy For Lower Scores](https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290). The first four affiliate links open Amazon title searches; the final two link to specific books. Prices, editions, sellers and availability may change.
+
+## Buying a golf book as a gift?
+
+See our [Christmas golf gifts for Dad](/articles/best-christmas-golf-gifts-for-dad/) for book pairings, putting practice ideas and useful accessories.
