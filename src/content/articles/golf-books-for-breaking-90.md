@@ -41,7 +41,7 @@ Sherman's framework covers expectations, strategy, practice and the mental game.
 
 **Choose something else if:** you want a narrowly focused technical manual for one part of your swing.
 
-<a href="https://www.amazon.com/s?k=The+Four+Foundations+of+Golf+Jon+Sherman&amp;tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Find The Four Foundations of Golf on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B0B3RCFYCL?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check The Four Foundations of Golf on Amazon ↗</a>
 
 ## Golf Is Not a Game of Perfect — Dr. Bob Rotella
 
@@ -55,7 +55,7 @@ Rotella's book addresses the mental side of golf through stories and guidance ab
 
 **Choose something else if:** you need illustrated mechanical instruction.
 
-<a href="https://www.amazon.com/s?k=Golf+Is+Not+a+Game+of+Perfect+Bob+Rotella&amp;tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Find Golf Is Not a Game of Perfect on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/068480364X?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Golf Is Not a Game of Perfect on Amazon ↗</a>
 
 ## Harvey Penick's Little Red Book — Harvey Penick with Bud Shrake
 
@@ -69,7 +69,7 @@ Penick's collection combines teaching observations with stories from a lifetime 
 
 **Choose something else if:** you want a modern statistical framework or a tightly sequenced training program.
 
-<a href="https://www.amazon.com/s?k=Harvey+Penick+Little+Red+Book&amp;tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Find Harvey Penick's Little Red Book on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/0671759922?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Harvey Penick's Little Red Book on Amazon ↗</a>
 
 ## Ben Hogan's Five Lessons: The Modern Fundamentals of Golf — Ben Hogan
 
@@ -83,7 +83,7 @@ Hogan's illustrated instruction organizes fundamentals such as grip, stance and 
 
 **Choose something else if:** more mechanical detail tends to leave you overthinking every shot. Start with a strategy or mental-game title instead.
 
-<a href="https://www.amazon.com/s?k=Ben+Hogan+Five+Lessons+Modern+Fundamentals+Golf&amp;tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Find Ben Hogan's Five Lessons on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/0671612972?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Ben Hogan's Five Lessons on Amazon ↗</a>
 
 ## How To Not Suck at Golf: Golf Is Hard, But You’re Making It Worse — J Parlo
 
@@ -97,7 +97,7 @@ This book takes a sarcastic approach to common amateur habits. Its Amazon descri
 
 **Choose something else if:** you prefer a formal, detailed instructional reference.
 
-<a href="https://link.amazon/B09gFdoA2" target="_blank" rel="sponsored nofollow noopener noreferrer">View How To Not Suck at Golf on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B0GGNQMG2T?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check How To Not Suck at Golf on Amazon ↗</a>
 
 ## Golf Course Strategy For Lower Scores: The Mindset of a Strategic Golfer — J Parlo
 
@@ -113,7 +113,7 @@ The book's retail description emphasizes target selection, risk-reward decisions
 
 **Choose something else if:** you primarily want detailed mechanical instruction.
 
-<a href="https://www.amazon.com/dp/B0F4RG41F4?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">View Golf Course Strategy For Lower Scores on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B0F4RG41F4?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Golf Course Strategy For Lower Scores on Amazon ↗</a>
 
 ## Read one. Try one thing. Keep notes.
 
@@ -123,7 +123,7 @@ Use our [score calculator](/calculator/) to choose an area to work on, and pair 
 
 ### Research and buying notes
 
-Author and publisher pages checked October 15, 2026: [The Four Foundations of Golf](https://fourfoundationsofgolf.com/book), [Golf Is Not a Game of Perfect](https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647), [Harvey Penick's Little Red Book](https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219), and [Ben Hogan's Five Lessons](https://www.simonandschuster.com/books/Ben-Hogans-Five-Lessons/Ben-Hogan/9781668024119). Additional listing references: [How To Not Suck at Golf](https://www.amazon.com/dp/B0GGNQMG2T) and [Golf Course Strategy For Lower Scores](https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290). The first four affiliate links open Amazon title searches; the final two link to specific books. Prices, editions, sellers and availability may change.
+Author and publisher pages checked October 15, 2026: [The Four Foundations of Golf](https://fourfoundationsofgolf.com/book), [Golf Is Not a Game of Perfect](https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647), [Harvey Penick's Little Red Book](https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219), and [Ben Hogan's Five Lessons](https://www.simonandschuster.com/books/Ben-Hogans-Five-Lessons/Ben-Hogan/9781668024119). Additional listing references are the tagged book pages above. All shopping buttons link to specific Amazon product pages with our affiliate tag. Prices, editions, sellers and availability may change.
 
 ## Buying a golf book as a gift?
 

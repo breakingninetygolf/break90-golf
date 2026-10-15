@@ -16,7 +16,7 @@ updated: '2026-10-15'
 
 A training aid earns its place when it gives your practice a clear purpose. Before buying one, name the problem you want to work on: inconsistent aim, short putts without a routine, or chips without a landing target.
 
-These are research-based recommendations, not hands-on reviews. We selected each tool for a specific practice task using the product information linked below. We have not independently tested them or verified that they lower scores. Amazon links open search results for the named product; confirm the model, seller and current availability before buying.
+These are research-based recommendations, not hands-on reviews. We selected each tool for a specific practice task using the product information linked below. We have not independently tested them or verified that they lower scores. Shopping buttons open specific Amazon product listings; confirm the selected model, seller and current availability before buying.
 
 ## The quick choice
 
@@ -40,7 +40,7 @@ Alignment sticks let you compare where you think you are aiming with a visible l
 
 **Skip the purchase if:** a spare club placed safely on the ground already gives you the reference you need.
 
-<a href="https://www.amazon.com/s?k=SKLZ+Golf+Alignment+Sticks&amp;tag=breakingninet-20" rel="sponsored nofollow noopener noreferrer" target="_blank">Find SKLZ Golf Alignment Sticks on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B008RATH18?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check SKLZ Golf Alignment Sticks on Amazon ↗</a>
 
 ## 2. PuttOUT Premium Pressure Putt Trainer: put a goal into short-putt practice
 
@@ -54,7 +54,7 @@ PuttOUT's trainer combines a folding ramp with a small target designed to reward
 
 **Skip the purchase if:** a coin target and a simple gate made from two tees already keep your practice focused.
 
-<a href="https://www.amazon.com/s?k=PuttOUT+Premium+Pressure+Putt+Trainer&amp;tag=breakingninet-20" rel="sponsored nofollow noopener noreferrer" target="_blank">Find the PuttOUT Premium Pressure Putt Trainer on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B08VWH6Y58?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check PuttOUT Premium Pressure Putt Trainer on Amazon ↗</a>
 
 ## 3. Callaway Chip Shot Chipping Net: make your target obvious
 
@@ -68,7 +68,7 @@ A chipping net gives you a visible destination and helps structure a short sessi
 
 **Skip the purchase if:** a towel landing target at an appropriate practice area does the job.
 
-<a href="https://www.amazon.com/s?k=Callaway+Chip+Shot+Chipping+Net&amp;tag=breakingninet-20" rel="sponsored nofollow noopener noreferrer" target="_blank">Find the Callaway Chip Shot Chipping Net on Amazon (affiliate link)</a>
+<a class="btn dark" href="https://www.amazon.com/dp/B0047I2EQO?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Callaway Chip Shot Chipping Net on Amazon ↗</a>
 
 ## Buy for the routine you will repeat
 
@@ -76,7 +76,7 @@ Start with your [score calculator](/calculator/), identify one area to work on, 
 
 ### Product information
 
-Product details checked October 15, 2026: [SKLZ alignment sticks listing](https://www.amazon.com/clp/B008RATH18), [PuttOUT manufacturer information](https://puttout.golf/products/premium-pressure-putt-trainer), and [Callaway TAG's net collection](https://callawaytag.com/collections/hitting-nets). These sources describe the products; they do not establish a scoring benefit.
+Product details checked October 15, 2026: the SKLZ listing linked above, [PuttOUT manufacturer information](https://puttout.golf/products/premium-pressure-putt-trainer), and [Callaway TAG's net collection](https://callawaytag.com/collections/hitting-nets). These sources describe the products; they do not establish a scoring benefit.
 
 ## Considering a launch monitor?
 

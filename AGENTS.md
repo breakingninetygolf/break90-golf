@@ -13,3 +13,9 @@ Use slugs containing `golf-courses-` for state roundups, with numbered `## 1. Ex
 `npm run build` runs the map generator, creates responsive title images and individual SVGs, and rejects missing or stale map entries. The remark plugin inserts maps beside matching course headings automatically. Never silently omit maps to get a build to pass.
 
 Run the build and check the generated article has one location map per numbered course. Visually inspect each new state's outline/overview, marker placement, and mobile readability. State maps show approximate areas, not hole layouts or driving directions. Preserve Michigan's Upper Peninsula and New York's Long Island.
+
+## Affiliate product recommendations and purchase buttons
+
+User preference (October 15, 2026): recommend only products with a direct Amazon affiliate product link using `breakingninet-20`. Do not use manufacturer shopping links or Amazon search links as recommendation CTAs. If an exact suitable listing cannot be established, replace or omit that recommendation; never invent an ASIN. Keep editorial source citations separate from purchase CTAs. Never imply guaranteed commissions or paid brand sponsorship.
+
+Every purchase CTA must use the approved dark rectangular style: `<a class="btn dark" href="https://www.amazon.com/dp/VERIFIED_ASIN?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check PRODUCT on Amazon ↗</a>`. Retain a clear affiliate disclosure. Confirm model, format, selected variant and source evidence; current availability and commission eligibility cannot be guaranteed. The user does not need to supply links if a product listing can be identified independently.
