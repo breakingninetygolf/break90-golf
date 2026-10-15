@@ -73,6 +73,7 @@ for slug,(title,sub,kind,alt,caption) in specs.items():
  im.resize((600,315),Image.Resampling.LANCZOS).save(OUT/(slug+'-600.webp'),quality=84,method=6)
  metadata[slug]=dict(image='/images/articles/'+slug+'.png',imageAlt=alt,imageCaption=caption)
 for f in (ROOT/'src/content/articles').glob('*.md'):
+ if f.stem not in metadata:continue
  _,raw,body=f.read_text().split('---',2);data=yaml.safe_load(raw);data.update(metadata[f.stem]);data['seoTitle']=data['title']
  if 'golf-courses-' in f.stem:
   state=f.stem.split('golf-courses-')[1].replace('-',' ').title();data['seoTitle']=f'10 Best '+('Value ' if f.stem.startswith('best-value') else '')+f'Public Golf Courses in {state}'

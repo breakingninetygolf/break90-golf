@@ -77,3 +77,7 @@ Start with your [score calculator](/calculator/), identify one area to work on, 
 ### Product information
 
 Product details checked October 15, 2026: [SKLZ alignment sticks listing](https://www.amazon.com/clp/B008RATH18), [PuttOUT manufacturer information](https://puttout.golf/products/premium-pressure-putt-trainer), and [Callaway TAG's net collection](https://callawaytag.com/collections/hitting-nets). These sources describe the products; they do not establish a scoring benefit.
+
+## Considering a launch monitor?
+
+Read our [Rapsodo MLM2PRO buying guide](/articles/launch-monitors-rapsodo-mlm2pro-guide/) for room requirements, membership checks and Garmin R10 and FlightScope Mevo Gen2 alternatives. Start with the practice task before building the setup.
