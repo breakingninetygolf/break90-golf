@@ -1,0 +1,36 @@
+media:
+  input: public/images
+  output: /images
+content:
+  - name: articles
+    label: Golf Articles
+    type: collection
+    path: src/content/articles
+    view:
+      fields: [title, category, date]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Summary, type: text, required: true }
+      - { name: date, label: Publication Date, type: date, required: true }
+      - { name: category, label: Category, type: string, required: true }
+      - { name: readTime, label: Reading Time, type: string, default: '4 min read' }
+      - { name: body, label: Article Body, type: rich-text }
+  - name: products
+    label: Affiliate Products
+    type: file
+    path: src/data/products.json
+    format: json
+    fields:
+      - name: products
+        label: Products
+        type: object
+        list: true
+        fields:
+          - { name: id, label: Unique ID, type: string, required: true }
+          - { name: name, label: Product or Category Name, type: string, required: true }
+          - { name: category, label: Category, type: string }
+          - { name: description, label: Description, type: text }
+          - { name: why, label: Why It Helps, type: text }
+          - { name: url, label: Affiliate URL, type: string }
+          - { name: image, label: Image URL, type: string }
+          - { name: featured, label: Featured, type: boolean }

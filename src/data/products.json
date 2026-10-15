@@ -1,0 +1,6 @@
+[
+ {"id":"rangefinder","name":"Golf Rangefinders","category":"Course management","description":"Know the number, choose the club, and commit to the shot.","why":"A clear yardage can simplify decisions. Compare slope modes, accuracy and ease of use.","url":"","image":"","featured":true},
+ {"id":"putting-mat","name":"Putting Practice Mats","category":"Putting","description":"Make your start line more consistent without leaving home.","why":"Useful for building a repeatable routine on short putts.","url":"","image":"","featured":true},
+ {"id":"alignment-sticks","name":"Golf Alignment Sticks","category":"Practice","description":"Simple feedback for setup, aim and ball position.","why":"A low-cost training aid with plenty of uses at the range.","url":"","image":"","featured":true},
+ {"id":"golf-balls","name":"Everyday Golf Balls","category":"Essentials","description":"Reliable balls that don't make every water hazard expensive.","why":"Consistency and value matter more than chasing a tour-level label.","url":"","image":"","featured":false}
+]

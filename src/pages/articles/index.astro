@@ -1,0 +1,4 @@
+---
+import Base from '../../layouts/Base.astro';import {getCollection} from 'astro:content';const articles=(await getCollection('articles')).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf());
+---
+<Base title="The Playbook | Break 90 Golf"><section class="section dark-section"><div class="container"><div class="eyebrow lime">THE PLAYBOOK</div><h1>GOOD ADVICE.<br/><span class="lime">NO FLUFF.</span></h1><p>Practical golf ideas for the weekend golfer who wants to break 90.</p></div></section><section class="section"><div class="container grid3">{articles.map(article=><a class="card" href={`/articles/${article.id}/`}><span class="eyebrow muted">{article.data.category} · {article.data.readTime}</span><h3>{article.data.title}</h3><p>{article.data.description}</p><div class="bottom">READ THE ARTICLE ↗</div></a>)}</div></section></Base>
