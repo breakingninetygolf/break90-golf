@@ -28,6 +28,16 @@ const json=JSON.stringify({'@context':'https://schema.org','@graph':graph}).repl
 <html lang="en">
  <head>
   <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-B7CP6JTGSL"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B7CP6JTGSL', {
+      allow_google_signals: false,
+      allow_ad_personalization_signals: false
+    });
+  </script>
   <meta name="theme-color" content="#141b17"/><meta name="description" content={description}/>
   <meta name="robots" content={noindex ? 'noindex,follow' : 'index,follow,max-image-preview:large'}/>
   <link rel="canonical" href={canonical}/><title>{title}</title>
