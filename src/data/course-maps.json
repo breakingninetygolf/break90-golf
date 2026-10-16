@@ -1507,6 +1507,260 @@
           "precision": "approximate property area"
         }
       ]
+    },
+    "top-public-golf-courses-texas": {
+      "state": "Texas",
+      "courses": [
+        {
+          "number": 1,
+          "name": "Black Jack's Crossing",
+          "locality": "Lajitas",
+          "lon": -103.77884,
+          "lat": 29.26045,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Black+Jack%27s+Crossing+Lajitas+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Black Jack's Crossing Golf Course",
+          "officialSource": "https://www.lajitasgolfresort.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Property match at Lajitas beside the Rio Grande; geocoder uses Alpine as postal locality."
+        },
+        {
+          "number": 2,
+          "name": "Fields Ranch \u2014 East Course",
+          "locality": "Frisco",
+          "lon": -96.8523645,
+          "lat": 33.213284,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Fields+Ranch+Golf+Course+Frisco+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Fields Ranch at PGA Frisco",
+          "officialSource": "https://fieldsranch.com/golf",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Shared approximate Fields Ranch property; East and West routing locations overlap at state-map scale."
+        },
+        {
+          "number": 3,
+          "name": "Pine Dunes Resort & Golf Club",
+          "locality": "Frankston",
+          "lon": -95.538863,
+          "lat": 31.978601,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Pine+Dunes+Golf+Course+Frankston+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Pine Dunes Resort Golf",
+          "officialSource": "https://www.pinedunes.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "The Rawls Course at Texas Tech",
+          "locality": "Lubbock",
+          "lon": -101.8955762,
+          "lat": 33.59842,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=The+Rawls+Course+Lubbock+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "The Rawls Course",
+          "officialSource": "https://www.therawlscourse.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "Omni Barton Creek \u2014 Fazio Canyons",
+          "locality": "Austin",
+          "lon": -97.870828,
+          "lat": 30.2731531,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Barton+Creek+Fazio+Canyons+Golf+Course+Austin+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Fazio Canyons at Barton Creek",
+          "officialSource": "https://www.omnihotels.com/hotels/austin-barton-creek/golf/fazio-canyons",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 6,
+          "name": "Omni Barton Creek \u2014 Fazio Foothills",
+          "locality": "Austin",
+          "lon": -97.860015,
+          "lat": 30.291875,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Barton+Creek+Fazio+Foothills+Golf+Course+Austin+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Barton Creek Fazio Foothills Golf Course",
+          "officialSource": "https://www.omnihotels.com/hotels/austin-barton-creek/golf/fazio-foothills",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "TPC San Antonio \u2014 Oaks Course",
+          "locality": "San Antonio",
+          "lon": -98.3999019,
+          "lat": 29.6599537,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=TPC+San+Antonio+Oaks+Course+San+Antonio+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "TPC San Antonio",
+          "officialSource": "https://tpc.com/sanantonio/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Fields Ranch \u2014 West Course",
+          "locality": "Frisco",
+          "lon": -96.8523645,
+          "lat": 33.213284,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Fields+Ranch+Golf+Course+Frisco+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Fields Ranch at PGA Frisco",
+          "officialSource": "https://fieldsranch.com/golf",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Shared approximate Fields Ranch property; East and West routing locations overlap at state-map scale."
+        },
+        {
+          "number": 9,
+          "name": "Lost Pines Golf Club (formerly Wolfdancer)",
+          "locality": "Lost Pines / Bastrop area",
+          "lon": -97.4474,
+          "lat": 30.1649,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Lost+Pines+Golf+Club+Bastrop+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lost Pines Golf Club",
+          "officialSource": "https://www.lostpinesresortandspa.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 10,
+          "name": "Golf Club of Houston \u2014 Tournament Course",
+          "locality": "Humble",
+          "lon": -95.2613566,
+          "lat": 29.9235156,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Golf+Club+of+Houston+Humble+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Golf Club of Houston",
+          "officialSource": "https://www.golfclubofhouston.com/golf/tournament-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
+    },
+    "best-value-public-golf-courses-texas": {
+      "state": "Texas",
+      "courses": [
+        {
+          "number": 1,
+          "name": "Brackenridge Park Golf Course",
+          "locality": "San Antonio",
+          "lon": -98.4770515,
+          "lat": 29.4494571,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Brackenridge+Park+Golf+Course+San+Antonio+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Brackenridge Park Golf Course",
+          "officialSource": "https://alamocitygolftrail.com/brackenridge-park-golf-course/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 2,
+          "name": "Gus Wortham Golf Course",
+          "locality": "Houston",
+          "lon": -95.3041995,
+          "lat": 29.7322367,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Gus+Wortham+Golf+Course+Houston+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Gus Wortham Golf Course",
+          "officialSource": "https://www.hga.org/gus-wortham-golf-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 3,
+          "name": "Cedar Crest Golf Course",
+          "locality": "Dallas",
+          "lon": -96.7907548,
+          "lat": 32.7268331,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Cedar+Crest+Golf+Course+Dallas+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Cedar Crest Golf Course",
+          "officialSource": "https://www.golfcedarcrest.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "Stevens Park Golf Course",
+          "locality": "Dallas",
+          "lon": -96.8472748,
+          "lat": 32.7565207,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Stevens+Park+Golf+Course+Dallas+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Stevens Park Golf Course",
+          "officialSource": "https://www.stevensparkgolf.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "Lions Municipal Golf Course",
+          "locality": "Austin",
+          "lon": -97.7770209,
+          "lat": 30.2903317,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Lions+Municipal+Golf+Course+Austin+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lions Municipal Golf Course",
+          "officialSource": "https://www.austintexas.gov/golfatx/lions-municipal-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 6,
+          "name": "Roy Kizer Golf Course",
+          "locality": "Austin",
+          "lon": -97.7322821,
+          "lat": 30.1858668,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Roy+Kizer+Golf+Course+Austin+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Roy Kizer Golf Course",
+          "officialSource": "https://www.austintexas.gov/golfatx/roy-kizer-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "Morris Williams Golf Course",
+          "locality": "Austin",
+          "lon": -97.694334,
+          "lat": 30.289377,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Morris+Williams+Golf+Course+Austin+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Morris Williams Golf Course",
+          "officialSource": "https://www.austintexas.gov/golfatx/morris-williams-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Butterfield Trail Golf Club",
+          "locality": "El Paso",
+          "lon": -106.338081,
+          "lat": 31.82325,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Butterfield+Trail+Golf+Club+El+Paso+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Butterfield Trail Golf Club",
+          "officialSource": "https://www.butterfieldtrailgolf.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 9,
+          "name": "Meadowbrook \u2014 Canyon Course",
+          "locality": "Lubbock",
+          "lon": -101.83284,
+          "lat": 33.602116,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Meadowbrook+Golf+Course+Lubbock+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Meadowbrook Golf Course",
+          "officialSource": "https://www.meadowbrooklubbock.com/Course/Canyon",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Approximate Meadowbrook shared property; book Canyon rather than Creek."
+        },
+        {
+          "number": 10,
+          "name": "Pine Dunes Resort & Golf Club",
+          "locality": "Frankston",
+          "lon": -95.538863,
+          "lat": 31.978601,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Pine+Dunes+Golf+Course+Frankston+Texas&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Pine Dunes Resort Golf",
+          "officialSource": "https://www.pinedunes.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
     }
   }
 }
