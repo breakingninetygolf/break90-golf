@@ -43,7 +43,7 @@
         },
         {
           "number": 4,
-          "name": "Torrey Pines — South Course",
+          "name": "Torrey Pines \u2014 South Course",
           "locality": "La Jolla",
           "lon": -117.244621,
           "lat": 32.904671,
@@ -67,7 +67,7 @@
         },
         {
           "number": 6,
-          "name": "Half Moon Bay Golf Links — Ocean Course",
+          "name": "Half Moon Bay Golf Links \u2014 Ocean Course",
           "locality": "Half Moon Bay",
           "lon": -122.440258,
           "lat": 37.434917,
@@ -79,7 +79,7 @@
         },
         {
           "number": 7,
-          "name": "PGA WEST — Pete Dye Stadium Course",
+          "name": "PGA WEST \u2014 Pete Dye Stadium Course",
           "locality": "La Quinta",
           "lon": -116.272428,
           "lat": 33.655962,
@@ -91,7 +91,7 @@
         },
         {
           "number": 8,
-          "name": "Torrey Pines — North Course",
+          "name": "Torrey Pines \u2014 North Course",
           "locality": "La Jolla",
           "lon": -117.244621,
           "lat": 32.904671,
@@ -115,7 +115,7 @@
         },
         {
           "number": 10,
-          "name": "Pelican Hill — Ocean South",
+          "name": "Pelican Hill \u2014 Ocean South",
           "locality": "Newport Coast",
           "lon": -117.843382,
           "lat": 33.588154,
@@ -132,7 +132,7 @@
       "courses": [
         {
           "number": 1,
-          "name": "Arcadia Bluffs — Bluffs Course",
+          "name": "Arcadia Bluffs \u2014 Bluffs Course",
           "locality": "Arcadia",
           "lon": -86.232599,
           "lat": 44.454412,
@@ -168,7 +168,7 @@
         },
         {
           "number": 4,
-          "name": "Arcadia Bluffs — South Course",
+          "name": "Arcadia Bluffs \u2014 South Course",
           "locality": "Arcadia",
           "lon": -86.213023,
           "lat": 44.437906,
@@ -240,7 +240,7 @@
         },
         {
           "number": 10,
-          "name": "Bay Harbor Golf Club — Links/Quarry",
+          "name": "Bay Harbor Golf Club \u2014 Links/Quarry",
           "locality": "Bay Harbor",
           "lon": -85.01574,
           "lat": 45.36887,
@@ -257,7 +257,7 @@
       "courses": [
         {
           "number": 1,
-          "name": "Sandridge Golf Club — Dunes Course",
+          "name": "Sandridge Golf Club \u2014 Dunes Course",
           "locality": "Vero Beach",
           "lon": -80.439223,
           "lat": 27.727373,
@@ -269,7 +269,7 @@
         },
         {
           "number": 2,
-          "name": "Sandridge Golf Club — Lakes Course",
+          "name": "Sandridge Golf Club \u2014 Lakes Course",
           "locality": "Vero Beach",
           "lon": -80.439223,
           "lat": 27.727373,
@@ -293,7 +293,7 @@
         },
         {
           "number": 4,
-          "name": "Winter Park Pines Golf Club — WP18",
+          "name": "Winter Park Pines Golf Club \u2014 WP18",
           "locality": "Winter Park",
           "lon": -81.313692,
           "lat": 28.596636,
@@ -317,7 +317,7 @@
         },
         {
           "number": 6,
-          "name": "Winter Park Golf Course — WP9",
+          "name": "Winter Park Golf Course \u2014 WP9",
           "locality": "Winter Park",
           "lon": -81.353412,
           "lat": 28.606074,
@@ -382,7 +382,7 @@
       "courses": [
         {
           "number": 1,
-          "name": "TPC Sawgrass — THE PLAYERS Stadium Course",
+          "name": "TPC Sawgrass \u2014 THE PLAYERS Stadium Course",
           "locality": "Ponte Vedra Beach",
           "lon": -81.392025,
           "lat": 30.198289,
@@ -430,7 +430,7 @@
         },
         {
           "number": 5,
-          "name": "Cabot Citrus Farms — Karoo",
+          "name": "Cabot Citrus Farms \u2014 Karoo",
           "locality": "Brooksville",
           "lon": -82.480301,
           "lat": 28.682619,
@@ -442,7 +442,7 @@
         },
         {
           "number": 6,
-          "name": "Cabot Citrus Farms — Roost",
+          "name": "Cabot Citrus Farms \u2014 Roost",
           "locality": "Brooksville",
           "lon": -82.480301,
           "lat": 28.682619,
@@ -454,7 +454,7 @@
         },
         {
           "number": 7,
-          "name": "TPC Sawgrass — Dye’s Valley",
+          "name": "TPC Sawgrass \u2014 Dye\u2019s Valley",
           "locality": "Ponte Vedra Beach",
           "lon": -81.392025,
           "lat": 30.198289,
@@ -478,7 +478,7 @@
         },
         {
           "number": 9,
-          "name": "Orange County National — Panther Lake",
+          "name": "Orange County National \u2014 Panther Lake",
           "locality": "Winter Garden",
           "lon": -81.581604,
           "lat": 28.549606,
@@ -543,7 +543,7 @@
         },
         {
           "number": 4,
-          "name": "Balboa Park — 18-Hole Course",
+          "name": "Balboa Park \u2014 18-Hole Course",
           "locality": "San Diego",
           "lon": -117.13767,
           "lat": 32.725057,
@@ -603,7 +603,7 @@
         },
         {
           "number": 9,
-          "name": "Haggin Oaks — Alister MacKenzie Course",
+          "name": "Haggin Oaks \u2014 Alister MacKenzie Course",
           "locality": "Sacramento",
           "lon": -121.403381,
           "lat": 38.633595,
@@ -632,7 +632,7 @@
       "courses": [
         {
           "number": 1,
-          "name": "Bethpage State Park — Black Course",
+          "name": "Bethpage State Park \u2014 Black Course",
           "locality": "Farmingdale",
           "lon": -73.458602,
           "lat": 40.741697,
@@ -644,7 +644,7 @@
         },
         {
           "number": 2,
-          "name": "Turning Stone — Atunyote",
+          "name": "Turning Stone \u2014 Atunyote",
           "locality": "Vernon",
           "lon": -75.532988,
           "lat": 43.09573,
@@ -668,7 +668,7 @@
         },
         {
           "number": 4,
-          "name": "Turning Stone — Kaluhyat",
+          "name": "Turning Stone \u2014 Kaluhyat",
           "locality": "Verona",
           "lon": -75.586677,
           "lat": 43.116781,
@@ -692,7 +692,7 @@
         },
         {
           "number": 6,
-          "name": "Bethpage State Park — Red Course",
+          "name": "Bethpage State Park \u2014 Red Course",
           "locality": "Farmingdale",
           "lon": -73.458602,
           "lat": 40.741697,
@@ -716,7 +716,7 @@
         },
         {
           "number": 8,
-          "name": "Turning Stone — Shenendoah",
+          "name": "Turning Stone \u2014 Shenendoah",
           "locality": "Verona",
           "lon": -75.586677,
           "lat": 43.116781,
@@ -728,7 +728,7 @@
         },
         {
           "number": 9,
-          "name": "Saratoga Spa — Championship Course",
+          "name": "Saratoga Spa \u2014 Championship Course",
           "locality": "Saratoga Springs",
           "lon": -73.797539,
           "lat": 43.054265,
@@ -769,7 +769,7 @@
         },
         {
           "number": 2,
-          "name": "Bethpage — Blue Course",
+          "name": "Bethpage \u2014 Blue Course",
           "locality": "Farmingdale",
           "lon": -73.458602,
           "lat": 40.741697,
@@ -781,7 +781,7 @@
         },
         {
           "number": 3,
-          "name": "Bethpage — Green Course",
+          "name": "Bethpage \u2014 Green Course",
           "locality": "Farmingdale",
           "lon": -73.458602,
           "lat": 40.741697,
@@ -793,7 +793,7 @@
         },
         {
           "number": 4,
-          "name": "Bethpage — Yellow Course",
+          "name": "Bethpage \u2014 Yellow Course",
           "locality": "Farmingdale",
           "lon": -73.458602,
           "lat": 40.741697,
@@ -829,7 +829,7 @@
         },
         {
           "number": 7,
-          "name": "Saratoga Spa — Championship Course",
+          "name": "Saratoga Spa \u2014 Championship Course",
           "locality": "Saratoga Springs",
           "lon": -73.797539,
           "lat": 43.054265,
@@ -865,7 +865,7 @@
         },
         {
           "number": 10,
-          "name": "Turning Stone — Pleasant Knolls",
+          "name": "Turning Stone \u2014 Pleasant Knolls",
           "locality": "Verona area",
           "lon": -75.589378,
           "lat": 43.11476,
@@ -954,7 +954,7 @@
         },
         {
           "number": 7,
-          "name": "Pilgrim’s Run Golf Club",
+          "name": "Pilgrim\u2019s Run Golf Club",
           "locality": "Pierson",
           "lon": -85.568738,
           "lat": 43.353692,
@@ -978,7 +978,7 @@
         },
         {
           "number": 9,
-          "name": "Marquette Golf Club — Heritage Course",
+          "name": "Marquette Golf Club \u2014 Heritage Course",
           "locality": "Marquette",
           "lon": -87.425635,
           "lat": 46.533388,
@@ -997,6 +997,512 @@
           "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Sweetgrass+Golf+Club+Harris+Michigan&f=json&sourceCountry=USA",
           "matchedPlace": "Sweetgrass Golf Club",
           "officialSource": "https://islandresortgolf.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
+    },
+    "top-public-golf-courses-wisconsin": {
+      "state": "Wisconsin",
+      "courses": [
+        {
+          "number": 1,
+          "name": "Whistling Straits \u2014 Straits Course",
+          "locality": "Sheboygan / Haven",
+          "lon": -87.7350514,
+          "lat": 43.8514959,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Whistling+Straits+Sheboygan+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Whistling Straits Golf Course",
+          "officialSource": "https://www.kohlerwisconsin.com/golf/whistling-straits",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 2,
+          "name": "Erin Hills",
+          "locality": "Erin",
+          "lon": -88.3985,
+          "lat": 43.24589,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Erin+Hills+Golf+Course+Erin+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Erin Hills Golf Course",
+          "officialSource": "https://erinhills.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 3,
+          "name": "Sand Valley",
+          "locality": "Nekoosa",
+          "lon": -89.858528,
+          "lat": 44.184361,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Sand+Valley+Golf+Resort+Nekoosa+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Sand Valley Golf Resort",
+          "officialSource": "https://www.sandvalley.com/golf-courses/sand-valley",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "Mammoth Dunes",
+          "locality": "Nekoosa",
+          "lon": -89.8554,
+          "lat": 44.1751,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Mammoth+Dunes+Nekoosa+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Mammoth Dunes",
+          "officialSource": "https://www.sandvalley.com/golf-courses/mammoth-dunes",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "Sedge Valley",
+          "locality": "Nekoosa",
+          "lon": -89.858528,
+          "lat": 44.184361,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Sand+Valley+Golf+Resort+Nekoosa+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Sand Valley Golf Resort",
+          "officialSource": "https://www.sandvalley.com/golf-courses/sedge-valley",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Approximate shared Sand Valley resort property; not a specific Sedge Valley hole or entrance."
+        },
+        {
+          "number": 6,
+          "name": "Blackwolf Run \u2014 River Course",
+          "locality": "Kohler",
+          "lon": -87.7747713,
+          "lat": 43.7263985,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Blackwolf+Run+Golf+Course+Kohler+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Blackwolf Run Golf Course",
+          "officialSource": "https://www.kohlerwisconsin.com/golf/blackwolf-run",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "Whistling Straits \u2014 Irish Course",
+          "locality": "Sheboygan / Haven",
+          "lon": -87.7350514,
+          "lat": 43.8514959,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Whistling+Straits+Sheboygan+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Whistling Straits Golf Course",
+          "officialSource": "https://www.kohlerwisconsin.com/golf/whistling-straits",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Blackwolf Run \u2014 Meadow Valleys Course",
+          "locality": "Kohler",
+          "lon": -87.7747713,
+          "lat": 43.7263985,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Blackwolf+Run+Golf+Course+Kohler+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Blackwolf Run Golf Course",
+          "officialSource": "https://www.kohlerwisconsin.com/golf/blackwolf-run",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 9,
+          "name": "SentryWorld",
+          "locality": "Stevens Point",
+          "lon": -89.573491,
+          "lat": 44.543797,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=SentryWorld+Stevens+Point+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Sentry World",
+          "officialSource": "https://www.sentryworld.com/golf",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 10,
+          "name": "Lawsonia \u2014 Links Course",
+          "locality": "Green Lake",
+          "lon": -89.0122913,
+          "lat": 43.8319169,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Lawsonia+Golf+Course+Green+Lake+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lawsonia Golf Courses",
+          "officialSource": "https://www.lawsonia.com/the-links",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
+    },
+    "best-value-public-golf-courses-wisconsin": {
+      "state": "Wisconsin",
+      "courses": [
+        {
+          "number": 1,
+          "name": "The Bog",
+          "locality": "Saukville",
+          "lon": -87.98457,
+          "lat": 43.392592,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=The+Bog+Saukville+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "The Bog",
+          "officialSource": "https://www.golfthebog.com/course_info/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 2,
+          "name": "Washington County Golf Course",
+          "locality": "Hartford",
+          "lon": -88.3549104,
+          "lat": 43.3369616,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Washington+County+Golf+Course+Hartford+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Washington County Golf Course",
+          "officialSource": "https://www.golfwcgc.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 3,
+          "name": "Brown Deer Golf Course",
+          "locality": "Milwaukee",
+          "lon": -87.951633,
+          "lat": 43.156263,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Brown+Deer+Park+Golf+Course+Milwaukee+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Brown Deer Park Golf Course",
+          "officialSource": "https://mke.golf/browndeer/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "Naga-Waukee War Memorial Golf Course",
+          "locality": "Pewaukee / Delafield area",
+          "lon": -88.361331,
+          "lat": 43.0567843,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Naga+Waukee+Golf+Course+Pewaukee+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Naga-Waukee Golf Course",
+          "officialSource": "https://www.waukeshacounty.gov/parks-and-land-use/parks-and-recreation/golf/naga-waukee-golf-course/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "Whitnall Golf Course",
+          "locality": "Franklin",
+          "lon": -88.031409,
+          "lat": 42.923207,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Whitnall+Park+Golf+Course+Franklin+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Whitnall Park Golf Course",
+          "officialSource": "https://mke.golf/whitnall/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 6,
+          "name": "Dretzka Golf Course",
+          "locality": "Milwaukee",
+          "lon": -88.0563802,
+          "lat": 43.1683515,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Dretzka+Golf+Course+Milwaukee+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Dretzka Park Golf Course",
+          "officialSource": "https://mke.golf/dretzka/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "Currie Golf Course",
+          "locality": "Wauwatosa",
+          "lon": -88.0521047,
+          "lat": 43.0842454,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Currie+Park+Golf+Course+Wauwatosa+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Currie Park Golf Course",
+          "officialSource": "https://mke.golf/currie/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Lawsonia \u2014 Woodlands Course",
+          "locality": "Green Lake",
+          "lon": -89.0122913,
+          "lat": 43.8319169,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Lawsonia+Golf+Course+Green+Lake+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lawsonia Golf Courses",
+          "officialSource": "https://www.lawsonia.com/the-woodlands",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 9,
+          "name": "University Ridge Golf Course",
+          "locality": "Madison",
+          "lon": -89.544941,
+          "lat": 43.02381,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=University+Ridge+Golf+Course+Madison+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "University Ridge Golf Course",
+          "officialSource": "https://www.universityridge.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 10,
+          "name": "Lawsonia \u2014 Links Course",
+          "locality": "Green Lake",
+          "lon": -89.0122913,
+          "lat": 43.8319169,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Lawsonia+Golf+Course+Green+Lake+Wisconsin&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lawsonia Golf Courses",
+          "officialSource": "https://www.lawsonia.com/the-links",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
+    },
+    "top-public-golf-courses-georgia": {
+      "state": "Georgia",
+      "courses": [
+        {
+          "number": 1,
+          "name": "Sea Island \u2014 Seaside Course",
+          "locality": "St. Simons Island",
+          "lon": -81.406286,
+          "lat": 31.1405383,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Sea+Island+Golf+Club+Saint+Simons+Island+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Sea Island Golf Club",
+          "officialSource": "https://www.seaisland.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 2,
+          "name": "McLemore \u2014 The Keep",
+          "locality": "Rising Fawn",
+          "lon": -85.443855722176,
+          "lat": 34.741170501682,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=McLemore+32+Clubhouse+Lane+Rising+Fawn+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "32 Clubhouse Ln, Rising Fawn, Georgia, 30738",
+          "officialSource": "https://www.themclemore.com/golf/the-keep-at-mclemore",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Approximate shared McLemore clubhouse/check-in property; The Keep is a separate nearby routing.",
+          "locationVerificationSource": "https://www.themclemore.com/contact"
+        },
+        {
+          "number": 3,
+          "name": "Reynolds Lake Oconee \u2014 Great Waters",
+          "locality": "Eatonton / Lake Oconee",
+          "lon": -83.233819,
+          "lat": 33.394053,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Great+Waters+Golf+Course+Eatonton+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Great Waters Golf Course Reynolds Lake Oconee",
+          "officialSource": "https://www.reynoldslakeoconee.com/life/golf/great-waters",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "Sea Island \u2014 Plantation Course",
+          "locality": "St. Simons Island",
+          "lon": -81.406286,
+          "lat": 31.1405383,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Sea+Island+Golf+Club+Saint+Simons+Island+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Sea Island Golf Club",
+          "officialSource": "https://www.seaisland.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "McLemore \u2014 Highlands Course",
+          "locality": "Rising Fawn",
+          "lon": -85.443855722176,
+          "lat": 34.741170501682,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=McLemore+32+Clubhouse+Lane+Rising+Fawn+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "32 Clubhouse Ln, Rising Fawn, Georgia, 30738",
+          "officialSource": "https://www.themclemore.com/golf/highlands-course",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationNote": "Approximate shared McLemore clubhouse/check-in property; The Keep is a separate nearby routing.",
+          "locationVerificationSource": "https://www.themclemore.com/contact"
+        },
+        {
+          "number": 6,
+          "name": "Old Toccoa Farm",
+          "locality": "Mineral Bluff",
+          "lon": -84.332729,
+          "lat": 34.926012,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Old+Toccoa+Farm+Mineral+Bluff+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Old Toccoa Farm",
+          "officialSource": "https://oldtoccoafarm.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "The Club at Savannah Harbor",
+          "locality": "Savannah / Hutchinson Island",
+          "lon": -81.084,
+          "lat": 32.0913,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=The+Club+at+Savannah+Harbor+Savannah+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "The Club at Savannah Harbor",
+          "officialSource": "https://www.theclubatsavannahharbor.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Barnsley Resort \u2014 Fazio Course",
+          "locality": "Adairsville",
+          "lon": -84.984574,
+          "lat": 34.299479,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Barnsley+Resort+Golf+Course+Adairsville+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Barnsley Resort",
+          "officialSource": "https://www.barnsleyresort.com/recreation/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 9,
+          "name": "Reynolds Lake Oconee \u2014 Oconee Course",
+          "locality": "Greensboro",
+          "lon": -83.197574989497,
+          "lat": 33.439620990977,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1031+Cottage+Cove+Greensboro+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "1031 Cottage Rd, Greensboro, Georgia, 30642",
+          "officialSource": "https://www.reynoldslakeoconee.com/life/golf/the-oconee",
+          "checked": "2026-10-15",
+          "precision": "approximate property area",
+          "locationVerificationSource": "https://exploregeorgia.org/greensboro/golf/golf-courses/the-oconee-golf-course"
+        },
+        {
+          "number": 10,
+          "name": "Stone Mountain Golf Club \u2014 Stonemont Course",
+          "locality": "Stone Mountain",
+          "lon": -84.130095,
+          "lat": 33.812031,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Stone+Mountain+Golf+Club+Stone+Mountain+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Stone Mountain Golf Club",
+          "officialSource": "https://www.stonemountaingolf.com/about-the-courses/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        }
+      ]
+    },
+    "best-value-public-golf-courses-georgia": {
+      "state": "Georgia",
+      "courses": [
+        {
+          "number": 1,
+          "name": "Arrowhead Pointe Golf Course",
+          "locality": "Elberton",
+          "lon": -82.730322,
+          "lat": 34.155725,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Arrowhead+Pointe+Golf+Course+Elberton+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Arrowhead Pointe",
+          "officialSource": "https://gastateparks.org/ArrowheadPointe",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 2,
+          "name": "The Creek at Hard Labor Creek",
+          "locality": "Rutledge / Social Circle area",
+          "lon": -83.613119,
+          "lat": 33.663126,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Hard+Labor+Creek+Golf+Course+Rutledge+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Creek at Hard Labor",
+          "officialSource": "https://gastateparks.org/TheCreek",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 3,
+          "name": "Highland Walk Golf Course",
+          "locality": "Royston",
+          "lon": -83.161681,
+          "lat": 34.306063,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Highland+Walk+Golf+Course+Royston+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Highland Walk Golf Course at Victoria Bryant State Park",
+          "officialSource": "https://gastateparks.org/HighlandWalk",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 4,
+          "name": "Brazell's Creek Golf Course",
+          "locality": "Reidsville",
+          "lon": -82.136822,
+          "lat": 32.090219,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Brazell%27s+Creek+Golf+Course+Reidsville+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Brazell's Creek Golf Course",
+          "officialSource": "https://gastateparks.org/BrazellsCreek",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 5,
+          "name": "Meadow Links Golf Course",
+          "locality": "Fort Gaines",
+          "lon": -85.0473447,
+          "lat": 31.6091242,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Meadow+Links+Golf+Course+Fort+Gaines+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Meadow Links",
+          "officialSource": "https://gastateparks.org/MeadowLinks",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 6,
+          "name": "The Lakes Golf Course at Laura S. Walker",
+          "locality": "Waycross",
+          "lon": -82.228455,
+          "lat": 31.134252,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=The+Lakes+Golf+Course+Laura+Walker+Waycross+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Lakes at Laura S Walker State Park Golf Course",
+          "officialSource": "https://gastateparks.org/thelakes",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 7,
+          "name": "Wallace Adams Golf Course",
+          "locality": "McRae-Helena",
+          "lon": -82.8886744,
+          "lat": 32.0910439,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Wallace+Adams+Golf+Course+Helena+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Wallace Adams Memorial Golf Course",
+          "officialSource": "https://littleocmulgeelodge.com/little-ocmulgee-golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 8,
+          "name": "Georgia Veterans Memorial Golf Course",
+          "locality": "Cordele",
+          "lon": -83.9028508,
+          "lat": 31.9658612,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Georgia+Veterans+Memorial+Golf+Course+Cordele+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Georgia Veterans Memorial Golf Course",
+          "officialSource": "https://www.lakeblackshearresort.com/golf/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 9,
+          "name": "The Fields Golf Club",
+          "locality": "LaGrange",
+          "lon": -84.96106,
+          "lat": 32.94054,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=The+Fields+Golf+Club+LaGrange+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "The Fields Golf Club",
+          "officialSource": "https://www.thefieldsgolfclub.com/",
+          "checked": "2026-10-15",
+          "precision": "approximate property area"
+        },
+        {
+          "number": 10,
+          "name": "Cobblestone Golf Course",
+          "locality": "Acworth",
+          "lon": -84.6724929,
+          "lat": 34.0501683,
+          "locationSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Cobblestone+Golf+Course+Acworth+Georgia&f=json&sourceCountry=USA&outFields=PlaceName%2CCity%2CRegion%2CAddr_type",
+          "matchedPlace": "Cobblestone Golf Course",
+          "officialSource": "https://www.cobblestonegolf.com/course-information/",
           "checked": "2026-10-15",
           "precision": "approximate property area"
         }
