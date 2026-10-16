@@ -1,0 +1,74 @@
+{
+  "top-public-golf-courses-michigan": {
+    "1": {
+      "id": "arcadia-bluffs",
+      "src": "/images/courses/arcadia-bluffs.webp",
+      "smallSrc": "/images/courses/arcadia-bluffs-600.webp",
+      "width": 1200,
+      "height": 862,
+      "caption": "The Bluffs Course overlooking the 10th and 11th holes and Lake Michigan.",
+      "author": "Benscripps",
+      "sourceTitle": "ArcadiaBluffs1011.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArcadiaBluffs1011.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArcadiaBluffs1011.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2005-10-15",
+      "changes": "Resized and converted to WebP; no cropping.",
+      "checked": "2026-10-15"
+    },
+    "2": {
+      "id": "forest-dunes",
+      "src": "/images/courses/forest-dunes.webp",
+      "smallSrc": "/images/courses/forest-dunes-600.webp",
+      "width": 1200,
+      "height": 900,
+      "caption": "Forest Dunes, looking back toward the clubhouse from the eighth hole.",
+      "author": "Benscripps",
+      "sourceTitle": "Forest Dunes 8th Hole.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_Dunes_8th_Hole.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Forest_Dunes_8th_Hole.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2014-09-24",
+      "changes": "Resized and converted to WebP; no cropping.",
+      "checked": "2026-10-15"
+    },
+    "6": {
+      "id": "harbor-shores",
+      "src": "/images/courses/harbor-shores.webp",
+      "smallSrc": "/images/courses/harbor-shores-600.webp",
+      "width": 1200,
+      "height": 900,
+      "caption": "A view of the seventh hole at Harbor Shores.",
+      "author": "Humbles Art",
+      "sourceTitle": "The Golf Club at Harbor Shores.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Golf_Club_at_Harbor_Shores.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Golf_Club_at_Harbor_Shores.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-08-28",
+      "changes": "Resized and converted to WebP; no cropping.",
+      "checked": "2026-10-15"
+    }
+  },
+  "best-value-public-golf-courses-michigan": {
+    "5": {
+      "id": "leslie-park",
+      "src": "/images/courses/leslie-park.webp",
+      "smallSrc": "/images/courses/leslie-park-600.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Leslie Park Golf Course viewed from neighboring Leslie Park in Ann Arbor.",
+      "author": "Dwight Burdette",
+      "sourceTitle": "Leslie Park Golf Course Viewed from Leslie Park, Ann Arbor, Michigan.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leslie_Park_Golf_Course_Viewed_from_Leslie_Park,_Ann_Arbor,_Michigan.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Leslie_Park_Golf_Course_Viewed_from_Leslie_Park%2C_Ann_Arbor%2C_Michigan.JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2013-07-13",
+      "changes": "Resized and converted to WebP; no cropping.",
+      "checked": "2026-10-15"
+    }
+  }
+}

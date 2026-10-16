@@ -23,3 +23,7 @@ Every purchase CTA must use the approved dark rectangular style: `<a class="btn 
 ## Gear-page cards
 
 Keep gear cards simple: category, product name, short description and the approved dark Amazon affiliate button. Do not include a “Why it matters” section. Leave product images out until the user requests adding approved images.
+
+## Course photographs
+
+Use only course-specific photos with documented reuse permission or a suitable license. Keep source URL, author, license URL, capture date and modifications in `src/data/course-photos.json`, and visible attribution in captions. Retain the source license for resized CC BY-SA photographs. Label archival photos with their date; never substitute another layout or AI scenery for a named course. Keep every course map even when a photo is added.

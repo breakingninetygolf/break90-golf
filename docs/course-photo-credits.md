@@ -1,0 +1,10 @@
+# Michigan course photo credits
+
+Checked October 15, 2026. These four archival photographs are licensed for reuse, including commercial use, under the linked Creative Commons terms. Source titles, original URLs, photographer, capture date, license and modifications are recorded in `src/data/course-photos.json` and shown in visible captions. Resized WebP copies retain the source license; BY-SA terms apply to the photographs, not unrelated site text. No endorsement is implied.
+
+- **arcadia-bluffs**: ArcadiaBluffs1011.jpg by Benscripps, 2005-10-15. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [source](https://commons.wikimedia.org/wiki/File:ArcadiaBluffs1011.jpg). Resized and converted to WebP; no cropping.
+- **forest-dunes**: Forest Dunes 8th Hole.jpg by Benscripps, 2014-09-24. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); [source](https://commons.wikimedia.org/wiki/File:Forest_Dunes_8th_Hole.jpg). Resized and converted to WebP; no cropping.
+- **harbor-shores**: The Golf Club at Harbor Shores.jpg by Humbles Art, 2012-08-28. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [source](https://commons.wikimedia.org/wiki/File:The_Golf_Club_at_Harbor_Shores.jpg). Resized and converted to WebP; no cropping.
+- **leslie-park**: Leslie Park Golf Course Viewed from Leslie Park, Ann Arbor, Michigan.JPG by Dwight Burdette, 2013-07-13. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0); [source](https://commons.wikimedia.org/wiki/File:Leslie_Park_Golf_Course_Viewed_from_Leslie_Park,_Ann_Arbor,_Michigan.JPG). Resized and converted to WebP; no cropping.
+
+Coverage: Bluffs Course only (not South Course), original Forest Dunes only (not The Loop), Harbor Shores, and Leslie Park. Remaining Michigan course sections retain their location maps. No permission is inferred from a photo appearing on an operator website; ordinary all-rights-reserved galleries are not imported. A Bay Harbor Commons result was a logo golf ball and was rejected as unsuitable.
