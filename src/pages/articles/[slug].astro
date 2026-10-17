@@ -31,7 +31,7 @@ const schema=[
   {article.data.image && <figure class="article-figure"><picture><source type="image/webp" srcset={`${article.data.image.replace('.png','-600.webp')} 600w, ${article.data.image.replace('.png','.webp')} 1200w`} sizes="(max-width:800px) 100vw, 900px"/><img src={article.data.image} alt={article.data.imageAlt} width="1200" height="630" fetchpriority="high" decoding="async"/></picture><figcaption>{article.data.imageCaption}</figcaption></figure>}
   <div class="reading-grid">
    <aside><nav class="contents" aria-label="On this page"><h2>ON THIS PAGE</h2><ol>{toc.map(h=><li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav></aside>
-   <div class="prose"><Content/><div class="editor-note"><strong>About our guides</strong><p>Our recommendations distinguish editorial research from firsthand testing. Check current course conditions, prices and product details with the operator or seller. <a href="/about/">Read our editorial approach</a>.</p></div></div>
+   <div class="prose"><Content/><div class="editor-note"><strong>{article.data.category==='Tour News'?'About this roundup':'About our guides'}</strong><p>{article.data.category==='Tour News'?'Tournament coverage is a dated editorial snapshot with linked sources. Check the stated round status and official leaderboards for later changes.':'Our recommendations distinguish editorial research from firsthand testing. Check current course conditions, prices and product details with the operator or seller.'} <a href="/about/">Read our editorial approach</a>.</p></div></div>
   </div>
   <div class="return"><a class="btn dark" href="/articles/">← BACK TO THE PLAYBOOK</a><a class="btn" href="/#break-90-math">SEE THE MATH OF 89 ↗</a></div>
  </div></article>

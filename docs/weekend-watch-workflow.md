@@ -1,0 +1,9 @@
+# Weekend Watch publishing
+
+Friday evening, America/Detroit. Publish dated original research in category `Tour News`, slug `weekend-golf-roundup-YYYY-MM-DD`. Archive at `/weekend-golf/`; homepage selects latest automatically.
+
+Check current official schedules for PGA TOUR, LPGA, DP World Tour, PGA TOUR Champions and other genuinely important events (majors, LIV, LET, national/amateur/team championships where relevant). Do not assume every tour plays every week. Prioritize official round reports and leaderboards, cross-check conflicts, never infer missing statistics. State one precise edition cutoff and each event's round, holes completed and provisional/final status. Overseas Saturday may begin on US Friday; do not mix later live scores with Friday-close snapshots. List selected players as selected, not a full leaderboard. Explain why events matter and what to watch; no invented player strategies. Broadcast times require current regional verification. Link sources inline and respect source summarization limits.
+
+No scraped copyrighted tournament photos or screenshot leaderboards. Use original branded editorial title graphics with descriptive alt/caption; do not fabricate course/athlete photos. Generate matching PNG, 1200 WebP and 600 WebP as existing cards expect them. No state course maps needed for tournament news.
+
+Build and verify article, source links, cutoff, assets, category/archive/home discovery, sitemap and existing map/affiliate checks. Fetch current GitHub main and files before edits; publish only the new article/assets and intended changes, using an expected-head ref update. Report build and publication status honestly. Never send email or post to social channels as part of this workflow. If scores cannot be established, state the limitation or omit the claim; do not fill from old event data.

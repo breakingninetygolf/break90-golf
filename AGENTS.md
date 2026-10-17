@@ -27,3 +27,7 @@ Keep gear cards simple: category, product name, short description and the approv
 ## Course photographs
 
 Use only course-specific photos with documented reuse permission or a suitable license. Keep source URL, author, license URL, capture date and modifications in `src/data/course-photos.json`, and visible attribution in captions. Retain the source license for resized CC BY-SA photographs. Label archival photos with their date; never substitute another layout or AI scenery for a named course. Keep every course map even when a photo is added.
+
+## Weekend Watch news
+
+Follow `docs/weekend-watch-workflow.md` for Friday tournament roundups. Use category `Tour News`, dated editions, explicit cutoff and round-completion status, inline primary sources and original editorial graphics. Keep news separate from evergreen scoring guides; never present a static article as live scoring.

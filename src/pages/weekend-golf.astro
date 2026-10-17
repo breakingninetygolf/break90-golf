@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import {getCollection} from 'astro:content';
+const editions=(await getCollection('articles')).filter(a=>a.data.category==='Tour News').sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf());
+---
+<Base title="Weekend Golf Roundups: Friday Recaps & Saturday Storylines" description="Break 90 Golf's dated Friday tournament recaps: professional golf leaders, unfinished rounds and what to watch over the weekend.">
+<section class="page-heading dark-section"><div class="container"><div class="eyebrow lime">BREAK 90 / WEEKEND WATCH</div><h1>THE WEEKEND.<br/><span class="lime">IN PLAY.</span></h1><p>Friday tournament recaps, the stories behind the scores, and what to watch next. Each edition states its scoring cutoff and links to official live results.</p></div></section>
+<section class="section"><div class="container"><p>These are dated editorial snapshots, not live leaderboards. Read the latest edition for its stated reporting period; older editions remain available as archives.</p><div class="grid3">{editions.map(article=><ArticleCard article={article}/>)}</div></div></section>
+</Base>
