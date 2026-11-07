@@ -9,10 +9,12 @@ image: /images/articles/golf-practice-tools-for-breaking-90.png
 imageAlt: 'Three practice tasks: alignment for setup, a putting target for pace, and a chipping target for landing control.'
 imageCaption: Choose the task first. A spare club, coin or towel may do the job before you buy a training aid.
 seoTitle: Useful Golf Practice Tools for Breaking 90
-updated: '2026-10-15'
+updated: '2026-11-07'
 ---
 
 **Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through the links in this guide, at no extra cost to you.**
+
+<p class="note">Product showcase images are AI-created illustrations based on product references. Check the linked listing for exact appearance and included accessories.</p>
 
 A training aid earns its place when it gives your practice a clear purpose. Before buying one, name the problem you want to work on: inconsistent aim, short putts without a routine, or chips without a landing target.
 
@@ -30,6 +32,8 @@ You do not need all three. Choose the task you will actually practice this week.
 
 ## 1. SKLZ Golf Alignment Sticks: give your setup a reference
 
+<figure class="product-showcase"><img src="/images/gear/alignment-sticks.webp" srcset="/images/gear/alignment-sticks-600.webp 600w, /images/gear/alignment-sticks.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="SKLZ Golf Alignment Sticks — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
+
 Alignment sticks let you compare where you think you are aiming with a visible line. The SKLZ set is one option for building that reference into range sessions.
 
 **Who should consider them:** golfers who want a repeatable way to check aim and ball position before working on their swing.
@@ -44,6 +48,8 @@ Alignment sticks let you compare where you think you are aiming with a visible l
 
 ## 2. PuttOUT Premium Pressure Putt Trainer: put a goal into short-putt practice
 
+<figure class="product-showcase"><img src="/images/gear/putting-trainer.webp" srcset="/images/gear/putting-trainer-600.webp 600w, /images/gear/putting-trainer.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="PuttOUT Premium Pressure Putt Trainer — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
+
 PuttOUT's trainer combines a folding ramp with a small target designed to reward a particular pace and line. That gives an at-home session a more defined task than rolling balls across the carpet without keeping score.
 
 **Who should consider it:** golfers with a suitable rolling surface who want a compact target for short-putt sessions.
@@ -57,6 +63,8 @@ PuttOUT's trainer combines a folding ramp with a small target designed to reward
 <a class="btn dark" href="https://www.amazon.com/dp/B08VWH6Y58?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check PuttOUT Premium Pressure Putt Trainer on Amazon ↗</a>
 
 ## 3. Callaway Chip Shot Chipping Net: make your target obvious
+
+<figure class="product-showcase"><img src="/images/gear/chipping-net.webp" srcset="/images/gear/chipping-net-600.webp 600w, /images/gear/chipping-net.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Callaway Chip Shot Chipping Net — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
 A chipping net gives you a visible destination and helps structure a short session. Callaway's Chip Shot is a portable option to consider for that role.
 
