@@ -97,7 +97,7 @@ Hogan's illustrated instruction organizes fundamentals such as grip, stance and 
 
 ## How To Not Suck at Golf: Golf Is Hard, But You’re Making It Worse — J Parlo
 
-<figure class="product-showcase"><img src="/images/gear/not-suck.webp" srcset="/images/gear/not-suck-600.webp 600w, /images/gear/not-suck.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="How To Not Suck at Golf — conceptual reading illustration — illustrated reading pick" width="1200" height="800" loading="lazy" decoding="async"/><figcaption class="note">Conceptual reading illustration; not the book cover.</figcaption></figure>
+<figure class="product-showcase"><img src="/images/gear/not-suck-cover.webp" srcset="/images/gear/not-suck-cover-600.webp 600w, /images/gear/not-suck-cover.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="How To Not Suck at Golf — illustrated showcase using the supplied red book cover" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
 **A lighter option for readers who like blunt humor with their golf advice.**
 
@@ -113,7 +113,7 @@ This book takes a sarcastic approach to common amateur habits. Its Amazon descri
 
 ## Golf Course Strategy For Lower Scores: The Mindset of a Strategic Golfer — J Parlo
 
-<figure class="product-showcase"><img src="/images/gear/course-strategy.webp" srcset="/images/gear/course-strategy-600.webp 600w, /images/gear/course-strategy.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Golf Course Strategy For Lower Scores — illustrated reading pick" width="1200" height="800" loading="lazy" decoding="async"/></figure>
+<figure class="product-showcase"><img src="/images/gear/course-strategy-cover.webp" srcset="/images/gear/course-strategy-cover-600.webp 600w, /images/gear/course-strategy-cover.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Golf Course Strategy For Lower Scores — illustrated reading pick" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
 **A focused option for readers interested in course management.**
 

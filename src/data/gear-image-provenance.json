@@ -96,13 +96,15 @@
     },
     {
       "productId": "course-strategy",
-      "image": "/images/gear/course-strategy.webp",
-      "referenceSource": "https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290"
+      "image": "/images/gear/course-strategy-cover.webp",
+      "referenceSource": "User-supplied book cover, November 7, 2026",
+      "note": "AI-created showcase updated to match the actual cover supplied by the user."
     },
     {
       "productId": "not-suck",
-      "image": "/images/gear/not-suck.webp",
-      "note": "Conceptual reading illustration, explicitly labeled; actual cover could not be verified. No fabricated cover."
+      "image": "/images/gear/not-suck-cover.webp",
+      "note": "AI-created showcase updated to match the actual cover supplied by the user.",
+      "referenceSource": "User-supplied book cover, November 7, 2026"
     },
     {
       "articleId": "golf-books-for-breaking-90",
