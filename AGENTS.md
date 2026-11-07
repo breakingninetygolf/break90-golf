@@ -31,3 +31,7 @@ Use only course-specific photos with documented reuse permission or a suitable l
 ## Weekend Watch news
 
 Follow `docs/weekend-watch-workflow.md` for Friday tournament roundups. Use category `Tour News`, dated editions, explicit cutoff and round-completion status, inline primary sources and original editorial graphics. Keep news separate from evergreen scoring guides; never present a static article as live scoring.
+
+## Gear & books articles
+
+Gear and book articles must appear on both the Playbook and the Gear page. Use category `Gear & Practice` or `Books & Improvement`; both pages use `src/lib/gear-articles.ts` to include every matching article automatically. Keep the Gear page’s article section below its product grid.
