@@ -1,0 +1,67 @@
+{
+  "created": "2026-11-07",
+  "method": "Built-in image generation, one graphic per product, with approved MLM2PRO card as style reference and product imagery as visual references. AI illustrations; not hands-on photography.",
+  "artDirection": "3:2 landscape; dark forest-green gradient on left; lime category and short underline; large condensed white product name; short factual supporting copy; product prominent on right; warm photographic setting; no prices or ratings.",
+  "assets": [
+    {
+      "productId": "alignment-sticks",
+      "image": "/images/gear/alignment-sticks.webp",
+      "referenceSource": "https://www.retailmarket.net/products/sklz-golf-alignment-sticks-training-aid-with-3-sticks/"
+    },
+    {
+      "productId": "putting-trainer",
+      "image": "/images/gear/putting-trainer.webp",
+      "referenceSource": "https://puttout.golf/products/premium-pressure-putt-trainer"
+    },
+    {
+      "productId": "chipping-net",
+      "image": "/images/gear/chipping-net.webp",
+      "referenceSource": "https://callawaytag.com/products/chip-shot-chipping-net"
+    },
+    {
+      "productId": "rapsodo-mlm2pro",
+      "image": "/images/gear/rapsodo-mlm2pro.webp",
+      "referenceSource": "https://rapsodo.com/products/mlm2pro-mobile-launch-monitor-golf-simulator"
+    },
+    {
+      "productId": "redtiger-rangefinder",
+      "image": "/images/gear/redtiger-rangefinder.webp",
+      "referenceSource": "https://redtigercam.com/products/redtiger-golf-rangefinder-with-slope-1200-yards-laser-range-finder-golfing-7x-magnification-flag-pole-locking-vibration-rechargeable-range-finders-with-magnet-stripe"
+    },
+    {
+      "productId": "perfect-practice-mat",
+      "image": "/images/gear/perfect-practice-mat.webp",
+      "referenceSource": "https://perfectpractice.com/products/putting-mat-1"
+    },
+    {
+      "productId": "odyssey-putting-mirror",
+      "image": "/images/gear/odyssey-putting-mirror.webp",
+      "referenceSource": "https://callawaytag.com/products/odyssey-putting-mirror"
+    },
+    {
+      "productId": "gosports-hitting-mat",
+      "image": "/images/gear/gosports-hitting-mat.webp",
+      "referenceSource": "https://www.playgosports.com/products/gosports-golf-hitting-mat-5x4-artificial-turf-mat-for-indoor-outdoor-training-includes-3-rubber-tees-for-variable-heights-1"
+    },
+    {
+      "productId": "titleist-pro-v1",
+      "image": "/images/gear/titleist-pro-v1.webp",
+      "referenceSource": "https://mediacenter.titleist.com/en-GB/221948-titleist-introduces-new-pro-v1-and-pro-v1x-golf-balls/"
+    },
+    {
+      "productId": "grooveit-brush",
+      "image": "/images/gear/grooveit-brush.webp",
+      "referenceSource": "https://grooveitbrush.com/products/grooveit-the-wet-club-scrub"
+    },
+    {
+      "productId": "frogger-towel",
+      "image": "/images/gear/frogger-towel.webp",
+      "referenceSource": "https://www.froggergolf.com/products/amphibian-towel"
+    },
+    {
+      "productId": "gosports-elite-net",
+      "image": "/images/gear/gosports-elite-net.webp",
+      "referenceSource": "https://www.playgosports.com/products/gosports-elite-golf-practice-net-with-steel-frame-choose-10-or-7-size"
+    }
+  ]
+}
