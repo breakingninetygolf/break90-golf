@@ -83,6 +83,31 @@
       "productId": "mevo-gen2",
       "image": "/images/gear/mevo-gen2.webp",
       "referenceSource": "https://flightscope.com/products/mevo-gen2"
+    },
+    {
+      "productId": "four-foundations",
+      "image": "/images/gear/four-foundations.webp",
+      "referenceSource": "https://fourfoundationsofgolf.com/book"
+    },
+    {
+      "productId": "five-lessons",
+      "image": "/images/gear/five-lessons.webp",
+      "referenceSource": "https://covers.openlibrary.org/b/isbn/0671612972-L.jpg"
+    },
+    {
+      "productId": "course-strategy",
+      "image": "/images/gear/course-strategy.webp",
+      "referenceSource": "https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290"
+    },
+    {
+      "productId": "not-suck",
+      "image": "/images/gear/not-suck.webp",
+      "note": "Conceptual reading illustration, explicitly labeled; actual cover could not be verified. No fabricated cover."
+    },
+    {
+      "articleId": "golf-books-for-breaking-90",
+      "image": "/images/articles/golf-books-read-with-purpose.png",
+      "note": "AI-created generic course scene, not a photograph of a named course; Read with a Purpose headline and original subtitle."
     }
   ]
 }

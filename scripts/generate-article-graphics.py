@@ -28,13 +28,13 @@ specs={
 'should-you-hit-driver-on-every-par-four':('CHOOSE THE LANDING AREA','Judge your usual miss, not your best drive.','driver','Schematic fairway with a wide safe landing area and trouble beside a narrow target.','Illustrative hole, not a real course map. Compare the landing areas your normal shots can reach.'),
 'simple-grip-adjustment-for-a-slice':('ONE CHANGE AT A TIME','Use ball flight as feedback.','grip','Three-step range checklist: check setup, make one small grip adjustment, observe the ball flight.','A small grip experiment belongs on the range. It is not a guarantee of a straighter shot.'),
 'stop-three-putting':('LEAVE AN EASIER SECOND PUTT','Practice pace from three starting distances.','putting','Lag-putting drill from 15, 25 and 35 feet, aiming to finish within three feet of the cup.','Schematic drill: use a three-foot finishing radius and count successful putts from each distance.'),
-'golf-books-for-breaking-90':('READ WITH A PURPOSE','Pick the book that fits your next task.','books','Reading choices grouped by strategy, mental game and short lessons.','Start with one topic and take one useful idea to practice. These are reading categories, not book-cover reproductions.'),
 'golf-practice-tools-for-breaking-90':('BUY FOR THE DRILL','A useful tool gives practice a clear task.','gear','Three practice tasks: alignment for setup, a putting target for pace, and a chipping target for landing control.','Choose the task first. A spare club, coin or towel may do the job before you buy a training aid.')}
 for state in ['florida','michigan','california','new-york']:
  name=state.replace('-',' ').title()
  for value in [False,True]:
   slug=('best-value-public-golf-courses-' if value else 'top-public-golf-courses-')+state
   specs[slug]=(name.upper()+(' / PLAY FOR VALUE' if value else ' / PLAN THE TRIP'),('Compare the complete cost of your round.' if value else 'Book the course before booking the trip.'),'value' if value else 'course',f'{name} golf planning graphic: '+('green fee plus cart plus booking fees equals the round cost.' if value else 'confirm the tee time, check course conditions, then plan travel.'),'Original planning illustration, not a photograph or map of a named golf course. '+('Compare equivalent walking or riding totals.' if value else 'Confirm access, maintenance and cancellation terms before traveling.'))
+# The golf-books guide uses maintained imagegen artwork; do not overwrite its header.
 metadata={}
 for slug,(title,sub,kind,alt,caption) in specs.items():
  im=Image.new('RGB',(1200,630),BG);d=ImageDraw.Draw(im)
