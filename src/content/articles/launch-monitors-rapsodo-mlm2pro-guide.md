@@ -3,7 +3,7 @@ title: "Golf Launch Monitors for Breaking 90: Start With the Rapsodo MLM2PRO"
 seoTitle: "Rapsodo MLM2PRO Buying Guide: R10 & Mevo Gen2 Compared"
 description: "Compare the Rapsodo MLM2PRO, Garmin Approach R10 and FlightScope Mevo Gen2, with setup advice, membership checks and a practical scoring drill."
 date: 2026-10-15
-updated: 2026-10-15
+updated: 2026-11-07
 category: Gear & Practice
 readTime: 6 min read
 featured: true
@@ -13,6 +13,8 @@ imageCaption: "Original Break 90 Golf buying checklist. Choose a monitor around 
 ---
 
 **Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through links in this guide, at no extra cost to you.**
+
+<p class="note">Product showcase images are AI-created illustrations based on product references. Check the linked listing for exact appearance and included accessories.</p>
 
 A launch monitor can answer a useful question: how far does your normal shot carry, and where does it usually finish? That is more valuable to a golfer chasing 89 than a screenshot of one unusually long drive.
 
@@ -29,6 +31,8 @@ The **Rapsodo MLM2PRO is our starting recommendation to consider** if you want v
 These are different packages, not a tested accuracy ranking. Software compatibility, bundles and pricing can change. The shopping buttons below link to **specific product listings**, not Amazon searches. Check the selected version, seller, warranty and included accessories.
 
 ## Why start with the Rapsodo MLM2PRO?
+
+<figure class="product-showcase"><img src="/images/gear/rapsodo-mlm2pro.webp" srcset="/images/gear/rapsodo-mlm2pro-600.webp 600w, /images/gear/rapsodo-mlm2pro.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Rapsodo MLM2PRO — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
 Rapsodo combines radar with two cameras. Its Shot Vision and Impact Vision features give you a way to connect shot data with what happened at impact. Its listed metrics include carry distance, ball speed, launch direction and club speed; advanced features include spin, club path and angle of attack. Some outputs are calculated rather than directly measured. [Rapsodo’s product page explains the feature set](https://rapsodo.com/products/mlm2pro-mobile-launch-monitor-golf-simulator).
 
@@ -55,6 +59,8 @@ If the room cannot accommodate your longest club comfortably, a bargain monitor 
 
 ## Alternative 1: Garmin Approach R10
 
+<figure class="product-showcase"><img src="/images/gear/garmin-r10.webp" srcset="/images/gear/garmin-r10-600.webp 600w, /images/gear/garmin-r10.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Garmin Approach R10 — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
+
 The R10 is worth comparing when you want portable practice and a simpler starting shortlist. Garmin describes club statistics, training mode, swing-video recording through a paired phone, and dispersion charts based on estimated ball flight. Some virtual golf features require a subscription. Review the [official Garmin overview](https://www.garmin.com/en-US/newsroom/press-release/outdoor/tee-up-from-home-or-the-driving-range-with-garmins-approach-r10-portable-golf-launch-monitor/) alongside current plan details.
 
 It also needs room: [Garmin’s setup instructions](https://www8.garmin.com/manuals/webhelp/GUID-E2BBF6BE-4276-436F-B697-59ABEFD61933/EN-GB/GUID-88F65277-47D4-403D-8F79-719CAA256D6B.html) place it **6–8 feet behind the ball**, with **at least 8 feet to the net** indoors. Do not choose it expecting to remove the depth needed by a behind-the-ball radar setup.
@@ -64,6 +70,8 @@ It also needs room: [Garmin’s setup instructions](https://www8.garmin.com/manu
 <a class="btn dark" href="https://www.amazon.com/dp/B095QX1FSR?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Garmin Approach R10 on Amazon ↗</a>
 
 ## Alternative 2: FlightScope Mevo Gen2
+
+<figure class="product-showcase"><img src="/images/gear/mevo-gen2.webp" srcset="/images/gear/mevo-gen2-600.webp 600w, /images/gear/mevo-gen2.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="FlightScope Mevo Gen2 — illustrated product showcase" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
 Mevo Gen2 deserves a closer look if you want core data without a required subscription. FlightScope says its core parameters, firmware updates and fixes do not require an ongoing fee; optional analysis upgrades and third-party software can still cost extra.
 

@@ -73,6 +73,16 @@
       "productId": "golf-not-perfect",
       "image": "/images/gear/golf-not-perfect.webp",
       "referenceSource": "https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647"
+    },
+    {
+      "productId": "garmin-r10",
+      "image": "/images/gear/garmin-r10.webp",
+      "referenceSource": "https://www.garmin.com.sg/products/wearables/approach-r10/"
+    },
+    {
+      "productId": "mevo-gen2",
+      "image": "/images/gear/mevo-gen2.webp",
+      "referenceSource": "https://flightscope.com/products/mevo-gen2"
     }
   ]
 }
