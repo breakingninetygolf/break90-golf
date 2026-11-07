@@ -62,6 +62,17 @@
       "productId": "gosports-elite-net",
       "image": "/images/gear/gosports-elite-net.webp",
       "referenceSource": "https://www.playgosports.com/products/gosports-elite-golf-practice-net-with-steel-frame-choose-10-or-7-size"
+    },
+    {
+      "productId": "little-red-book",
+      "image": "/images/gear/little-red-book.webp",
+      "referenceSource": "https://covers.openlibrary.org/b/isbn/0671759922-L.jpg",
+      "publisherSource": "https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219"
+    },
+    {
+      "productId": "golf-not-perfect",
+      "image": "/images/gear/golf-not-perfect.webp",
+      "referenceSource": "https://www.simonandschuster.com/books/Golf-is-Not-a-Game-of-Perfect/Bob-Rotella/9780684803647"
     }
   ]
 }
