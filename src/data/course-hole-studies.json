@@ -1,0 +1,152 @@
+{
+  "created": "2026-11-07",
+  "method": "Built-in image generation with user-supplied style and course routing or hole overview references. Original editorial illustrations; not photography or navigation maps.",
+  "artDirection": "Overhead miniature landscapes; dark forest-green backdrop; warm sunlight; sculptural trees; white course title and hole identification; lime eyebrow; not-to-scale footer.",
+  "guides": {
+    "best-value-public-golf-courses-michigan": {
+      "1": {
+        "id": "scott-lake",
+        "src": "/images/course-studies/scott-lake.webp",
+        "smallSrc": "/images/course-studies/scott-lake-600.webp",
+        "label": "Scott Lake · Gold Nine, holes 1 & 2",
+        "alt": "AI-created illustrative overhead study: Scott Lake · Gold Nine, holes 1 & 2. Not to scale.",
+        "sourceUrl": "https://www.scottlake.com/course-information",
+        "note": "Official routing and Gold Nine overview; the two holes are shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "scott-map.png"
+        ],
+        "promptNotes": "Use only the gold-numbered 1 and 2 from the routing map, NOT the white or red holes. Gold 1 is the long left-to-right hole east of the central road, from near clubhouse toward the right tree line, ending near the creek. Gold 2 continues southeast from that area toward the green near the eastern lake, shorter than 1. Show these as two separate illustrated hole vignettes, with the tee-to-green directions easy to see. Label each with GOLD 1 and GOLD 2. Do not include other routing."
+      },
+      "2": {
+        "id": "glenkerry",
+        "src": "/images/course-studies/glenkerry.webp",
+        "smallSrc": "/images/course-studies/glenkerry-600.webp",
+        "label": "Glenkerry · full-course study, holes 1–18",
+        "alt": "AI-created illustrative overhead study: Glenkerry · full-course study, holes 1–18. Not to scale.",
+        "sourceUrl": "https://www.golfcore.org/courses/glenkerry-gc/",
+        "note": "Interpretation of the GolfCore course overview, with landscape reference from Glenkerry’s official aerials.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "glenkerry-routing.png",
+          "glenkerry-overhead.jpg"
+        ],
+        "promptNotes": "Make an entire property overview from the reference routing image2. Keep the same silhouette and all eighteen greens/fairway groupings: far west two projecting holes, upper/north group of three long holes, central hub with small ponds, long diagonal east-west corridors in southeast, eastern group wrapping around ponds. Preserve the real complete course's routing arrangement and inland water in image2; do not invent island holes. Image3 is official course aerial for trees and atmosphere. Use overhead view, maintain geographic composition instead of rearranging holes. This is an atmospheric artistic overview of holes1–18, NOT a numbered navigational map. No individual hole numbers because this shows the whole course."
+      },
+      "3": {
+        "id": "diamond-springs",
+        "src": "/images/course-studies/diamond-springs.webp",
+        "smallSrc": "/images/course-studies/diamond-springs-600.webp",
+        "label": "Diamond Springs · holes 16 & 17",
+        "alt": "AI-created illustrative overhead study: Diamond Springs · holes 16 & 17. Not to scale.",
+        "sourceUrl": "https://www.diamondspringsgolf.com/images/documents/diamond-springs-scorecard.pdf",
+        "note": "Based on the official scorecard routing; terrain and spacing are simplified.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "diamond-1.png"
+        ],
+        "promptNotes": "Use only holes16 and17 from the official scorecard routing upper-right portion: both are par4 holes on opposite sides of the sandy creek ravine. 16 starts from the upper/right tee and runs southeast down right side of ravine toward green at lower end near label17. 17 starts from lower-right side with tee crossing creek and plays northwest back up left bank toward green at top near label16. Preserve real fairway bends and creek/ravine relationship; woodland beyond rough, exposed sandy ravine between. Keep actual pair together as in routing, omit all other holes. Label16 and17 next to their tees."
+      },
+      "4": {
+        "id": "mines",
+        "src": "/images/course-studies/mines.webp",
+        "smallSrc": "/images/course-studies/mines-600.webp",
+        "label": "The Mines · holes 7 & 8",
+        "alt": "AI-created illustrative overhead study: The Mines · holes 7 & 8. Not to scale.",
+        "sourceUrl": "https://minesgc.com/course-info/",
+        "note": "Based on the official routing and hole descriptions; shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "mines-map.png"
+        ],
+        "promptNotes": "Extract only hole 7 and hole 8 from the southeast of the routing map. Both par 3. 7 runs from tee low/left to small green above, with a sandy dune behind green. 8 runs right-to-left across sandy waste, big green at left with bunkers left/back. Preserve the relative shapes from the reference, show in two separate carefully composed vignettes. Label 7 and 8."
+      },
+      "5": {
+        "id": "leslie-park",
+        "src": "/images/course-studies/leslie-park.webp",
+        "smallSrc": "/images/course-studies/leslie-park-600.webp",
+        "label": "Leslie Park · holes 1 & 2",
+        "alt": "AI-created illustrative overhead study: Leslie Park · holes 1 & 2. Not to scale.",
+        "sourceUrl": "https://leslieparkgolf.com/course-information/",
+        "note": "Based on the official scorecard routing; shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "leslie-map1.jpg"
+        ],
+        "promptNotes": "Use holes 1 and 2 from official routing on left of reference: hole 1 is long and generally northeast uphill from lower tees near the clubhouse/Traver Road to green at the upper end left of hole 2, slightly curving. Hole 2 is short, from top tee back down/south to green near road, with one bunker left/front of green. Isolate these two holes as separate vignettes, preserve their contrasting lengths and directions. No water on these holes. Label 1 and 2."
+      },
+      "6": {
+        "id": "calderone",
+        "src": "/images/course-studies/calderone.webp",
+        "smallSrc": "/images/course-studies/calderone-600.webp",
+        "label": "Calderone · holes 1 & 2",
+        "alt": "AI-created illustrative overhead study: Calderone · holes 1 & 2. Not to scale.",
+        "sourceUrl": "https://www.calderonegolfclub.com/course",
+        "note": "Based on the official hole diagrams and descriptions; shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "calderone-1.png",
+          "calderone-2.png"
+        ],
+        "promptNotes": "Image 2 is hole 1 layout, image 3 is hole 2 layout. Preserve their shapes, exact bunker positions and tee-green order; may rotate both so tees sit lower and greens higher. Hole1 par5 long gently bending, sand on left of central fairway and beside green. Hole2 par3 uphill with shallow green and deep front bunker. Show two separate vignettes, label 1 and 2. No water."
+      },
+      "7": {
+        "id": "pilgrims-run",
+        "src": "/images/course-studies/pilgrims-run.webp",
+        "smallSrc": "/images/course-studies/pilgrims-run-600.webp",
+        "label": "Pilgrim’s Run · full-course study, holes 1–18",
+        "alt": "AI-created illustrative overhead study: Pilgrim’s Run · full-course study, holes 1–18. Not to scale.",
+        "sourceUrl": "https://www.golfcore.org/courses/pilgrim-s-run-gc/",
+        "note": "Interpretation of the GolfCore routing overview, cross-checked against the official course guide.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "pilgrim-routing.png"
+        ],
+        "promptNotes": "Create entire course overview based on image2 routing plan. Preserve same southwest-to-northeast wooded property silhouette, all18 green positions, fairway shapes and interior ponds. Dense Michigan forest fills dark areas between real holes. Keep actual long narrow southwest hole, northern and eastern clusters, ponds near center and southeast. Do not make property into floating islands. Show complete holes1–18 arrangement artistically, not individual labeled holes because wholecourse is shown. No extra invented fairways or water."
+      },
+      "8": {
+        "id": "rouge-park",
+        "src": "/images/course-studies/rouge-park.webp",
+        "smallSrc": "/images/course-studies/rouge-park-600.webp",
+        "label": "Rouge Park · holes 1 & 6",
+        "alt": "AI-created illustrative overhead study: Rouge Park · holes 1 & 6. Not to scale.",
+        "sourceUrl": "https://rouge.golf/course-layout/",
+        "note": "Based on the official routing updated April 1, 2025; shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "rouge-map.jpg"
+        ],
+        "promptNotes": "Use current 2025 routing reference: Hole1 par4 tees at far east/right near clubhouse, plays northwest over Rouge River into fairway at center-right marked1, turns hard left/west and approach crosses river to green near centerleft just right of15 label. Hole6 par4 tee at left/southwest near green5, tee crosses river heading east then hard right dogleg down/southeast along narrow fairway south of river into green lower-right below18. Show the two holes as SEPARATE vignettes preserving those characteristic shapes and river crossings. Do not mix in18 or12. Label1 and6. Never copy Google logos or aerial pixels, this is original illustrative interpretation."
+      },
+      "9": {
+        "id": "heritage",
+        "src": "/images/course-studies/heritage.webp",
+        "smallSrc": "/images/course-studies/heritage-600.webp",
+        "label": "Marquette Golf Club — Heritage · hole 5",
+        "alt": "AI-created illustrative overhead study: Marquette Golf Club — Heritage · hole 5. Not to scale.",
+        "sourceUrl": "https://golfgreywalls.com/heritage-course-overview/",
+        "note": "Interpretive study based on the official hole 5 flyover and description; terrain is simplified.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "heritage-5-thumb.jpg"
+        ],
+        "promptNotes": "Create a single complete hole study for Heritage hole5, using image2, the official hole5 flyover still, as physical reference. It is a gently uphill par3 into a broad raised green surrounded by sand bunkers, mature deciduous trees ringing behind green. Reference has front-left/big left greenside bunker, smaller right-front bunker, and broad grassy closely mown approach. Show from high overhead looking from tee at bottom up broad grassy approach to elevated large green above. Use the official broad green shape and bunker arrangement, do not add water. Tree-lined land, not island. Label only5 near tee. This is an interpretive hole study informed by official description and flyover, not a precise survey."
+      },
+      "10": {
+        "id": "sweetgrass",
+        "src": "/images/course-studies/sweetgrass.webp",
+        "smallSrc": "/images/course-studies/sweetgrass-600.webp",
+        "label": "Sweetgrass · holes 14 & 15",
+        "alt": "AI-created illustrative overhead study: Sweetgrass · holes 14 & 15. Not to scale.",
+        "sourceUrl": "https://islandresortgolf.com/wp-content/uploads/2018/08/sweetgrass_yardage_booklet_website.pdf",
+        "note": "Based on the official yardage booklet; the two holes are shown as separate studies.",
+        "checked": "2026-11-07",
+        "referenceFiles": [
+          "sweetgrass-16.png",
+          "sweetgrass-17.png"
+        ],
+        "promptNotes": "Image2 is official hole14 yardage diagram: long par4 with fairway bending slightly right, a very long sand/waste area down RIGHT side, bunkers along LEFT side, green top end and bunkers around it. Image3 is hole15, the short par3 island green, elongated tee along near bank, water carry, island at far end, narrow bridge to RIGHT shore. Preserve these specific geometries in two separate vignettes. Label14 and15. Don't create a fairway across hole15's water, don't add island shape to14. Do not reproduce source logos or yardage numbers."
+      }
+    }
+  }
+}

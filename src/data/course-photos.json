@@ -51,24 +51,5 @@
       "changes": "Resized and converted to WebP; no cropping.",
       "checked": "2026-10-15"
     }
-  },
-  "best-value-public-golf-courses-michigan": {
-    "5": {
-      "id": "leslie-park",
-      "src": "/images/courses/leslie-park.webp",
-      "smallSrc": "/images/courses/leslie-park-600.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "Leslie Park Golf Course viewed from neighboring Leslie Park in Ann Arbor.",
-      "author": "Dwight Burdette",
-      "sourceTitle": "Leslie Park Golf Course Viewed from Leslie Park, Ann Arbor, Michigan.JPG",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leslie_Park_Golf_Course_Viewed_from_Leslie_Park,_Ann_Arbor,_Michigan.JPG",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Leslie_Park_Golf_Course_Viewed_from_Leslie_Park%2C_Ann_Arbor%2C_Michigan.JPG",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "date": "2013-07-13",
-      "changes": "Resized and converted to WebP; no cropping.",
-      "checked": "2026-10-15"
-    }
   }
 }

@@ -9,7 +9,7 @@ image: /images/articles/best-value-public-golf-courses-michigan.png
 imageAlt: "Michigan course-guide title with a state map on the right and small branded golf balls at all ten course locations."
 imageCaption: "Approximate course locations in Michigan. Courses at the same property may overlap. Open the individual course maps below for directions."
 seoTitle: 10 Best Value Public Golf Courses in Michigan
-updated: '2026-10-15'
+updated: '2026-11-07'
 ---
 
 Michigan value golf starts close to home: a weekday round near Grand Rapids, a walking municipal in Ann Arbor or a fall tee time in Detroit. It also includes destination courses whose day-golf prices leave room for another round. Scott Lake and Glenkerry lead this shortlist, alongside options across the state.
@@ -17,6 +17,8 @@ Michigan value golf starts close to home: a weekday round near Grand Rapids, a w
 This is Break 90 Golf’s research-based editorial shortlist, using course-operator and public-agency information. It is not an official statewide ranking or a firsthand review. We select for course character, accessible public play and a useful price proposition. Separate layouts at the same property may appear individually.
 
 **Rates and booking information checked October 15, 2026.** All prices are USD per player unless identified as per cart. They are published references, not guaranteed quotes. Taxes, booking fees, travel, lodging and gratuities are extra unless explicitly included. Seasonal rates apply only to the dates shown; availability is weather-dependent. Where a dependable adult price could not be confirmed, we link to a live quote instead of estimating.
+
+The hole studies below are AI-created illustrations based on linked course maps and hole guides. Hole numbers identify the features shown; shapes, spacing and terrain are simplified, and separate hole studies do not show their geographic relationship. Use the official course information for current routing and yardages.
 
 Looking for a special-occasion round? See our [Michigan no-budget-limit shortlist](/articles/top-public-golf-courses-michigan/).
 

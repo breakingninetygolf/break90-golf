@@ -35,3 +35,7 @@ Follow `docs/weekend-watch-workflow.md` for Friday tournament roundups. Use cate
 ## Gear & books articles
 
 Gear and book articles must appear on both the Playbook and the Gear page. Use category `Gear & Practice` or `Books & Improvement`; both pages use `src/lib/gear-articles.ts` to include every matching article automatically. Keep the Gear page’s article section below its product grid.
+
+## Michigan value-course hole studies
+
+The user requested AI-created overhead hole illustrations for the Michigan value-course guide (November 7, 2026). Keep them separate from course photographs and location maps. Source-ground each named hole in a documented routing map or hole guide, identify the hole numbers and named nine when relevant, and clearly label the result as an AI illustration, not to scale. Record sources and prompts in `src/data/course-hole-studies.json`. Never invent identifiable hole routing or use generic island scenery as a real course. Keep all location maps. The user requested removal of the old Leslie Park archival photograph.
