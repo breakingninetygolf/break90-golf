@@ -7,7 +7,6 @@ category: Tour News
 readTime: 5 min read
 image: /images/articles/weekend-golf-roundup-2026-10-30.png
 imageAlt: "Break 90 Weekend Watch graphic for October 30–November 1, highlighting Maybank, Mexico and Mallorca."
-imageCaption: "Original Break 90 editorial graphic. Scores in this edition are dated reporting snapshots, not live scoring."
 ---
 
 Miyu Yamashita is halfway toward a successful title defense in Malaysia, an amateur has joined the clubhouse leaders in Mexico, and careers are on the line in Mallorca. Add a PGA TOUR Champions playoff event and a close contest in Taiwan, and there is plenty to follow through Sunday.

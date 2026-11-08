@@ -7,14 +7,9 @@ readTime: 7 min read
 featured: true
 image: /images/articles/golf-books-read-with-purpose.png
 imageAlt: "Read with a Purpose: bold white and lime copy over an illustrated golf course at golden hour."
-imageCaption: "AI-created golf-course illustration. Pick one topic and take one useful idea to practice."
 seoTitle: Golf Books Worth Reading When You Want to Break 90
 updated: '2026-11-07'
 ---
-
-**Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through links in this article, at no extra cost to you.**
-
-<p class="note">Book showcase images are AI-created illustrations based on cover references where available. Covers and editions may vary; check the linked listing before buying.</p>
 
 A useful golf book should give you something to try on your next practice day or round. The right choice depends on what keeps showing up on your scorecard: poor decisions, frustration after a mistake, or a setup that changes every time you address the ball.
 

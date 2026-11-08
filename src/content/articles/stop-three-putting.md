@@ -6,7 +6,6 @@ category: Putting
 readTime: 3 min read
 image: /images/articles/stop-three-putting.png
 imageAlt: Lag-putting drill from 15, 25 and 35 feet, aiming to finish within three feet of the cup.
-imageCaption: 'Schematic drill: use a three-foot finishing radius and count successful putts from each distance.'
 seoTitle: How to Cut Down on Three-Putts
 updated: '2026-10-15'
 ---

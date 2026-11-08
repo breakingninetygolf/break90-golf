@@ -7,7 +7,6 @@ category: Tour News
 readTime: 4 min
 image: /images/articles/weekend-golf-roundup-2026-11-06.png
 imageAlt: "Break 90 Golf Weekend Watch graphic for November 6–8, 2026, highlighting Japan, Mexico and Abu Dhabi in lime and charcoal."
-imageCaption: "Original Break 90 Golf editorial artwork. This dated roundup is not a live leaderboard or a photograph of a tournament venue."
 ---
 
 A three-way tie in Abu Dhabi and a defending champion's surge in Japan give this weekend two very different lead stories. In China, one shot separates the leader from six pursuers. Mexico remains on our watch list, with an important limitation on the scoring we could verify.

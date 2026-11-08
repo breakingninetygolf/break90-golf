@@ -8,7 +8,6 @@ readTime: 9 min read
 featured: false
 image: /images/articles/best-value-public-golf-courses-wisconsin.png
 imageAlt: "Wisconsin course-guide title beside a state outline with branded golf balls marking all ten approximate course locations."
-imageCaption: "Approximate course locations in Wisconsin. Shared resort properties may overlap. Individual course maps link to directions."
 seoTitle: "10 Best Value Public Golf Courses in Wisconsin"
 ---
 

@@ -6,7 +6,6 @@ category: Tee shots
 readTime: 3 min read
 image: /images/articles/should-you-hit-driver-on-every-par-four.png
 imageAlt: Schematic fairway with a wide safe landing area and trouble beside a narrow target.
-imageCaption: Illustrative hole, not a real course map. Compare the landing areas your normal shots can reach.
 seoTitle: Should You Hit Driver on Every Par 4?
 updated: '2026-10-15'
 ---

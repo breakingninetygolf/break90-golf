@@ -6,7 +6,6 @@ category: Course management
 readTime: 3 min read
 image: /images/articles/how-to-break-90-without-changing-your-swing.png
 imageAlt: 'Scoring example on a par-72 course: 17 bogeys plus one par equals 89.'
-imageCaption: One route to 89 on a par-72 course. This is a planning example, not a required scorecard.
 seoTitle: How to Break 90 Without Changing Your Swing
 updated: '2026-10-15'
 ---

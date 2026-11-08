@@ -9,7 +9,6 @@ readTime: 8 min read
 featured: false
 image: /images/articles/best-value-public-golf-courses-texas.png
 imageAlt: "Texas golf guide beside a state outline with branded golf balls marking the ten approximate course locations."
-imageCaption: "Approximate course locations in Texas. Separate courses at the same resort may overlap. Individual maps link to directions."
 ---
 
 Texas value golf can mean a $25 walking round in Lubbock, a weekday municipal in Dallas or Austin, or a more expensive East Texas course whose included cart and practice balls make the whole day worthwhile. This shortlist mixes affordable repeat-play golf with one premium-value upgrade. It is not a list of the ten lowest prices in the state.

@@ -6,7 +6,6 @@ category: Driving
 readTime: 3 min read
 image: /images/articles/simple-grip-adjustment-for-a-slice.png
 imageAlt: 'Three-step range checklist: check setup, make one small grip adjustment, observe the ball flight.'
-imageCaption: A small grip experiment belongs on the range. It is not a guarantee of a straighter shot.
 seoTitle: A Simple Grip Check When You Slice
 updated: '2026-10-15'
 ---

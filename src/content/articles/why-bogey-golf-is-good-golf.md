@@ -6,7 +6,6 @@ category: Scoring strategy
 readTime: 3 min read
 image: /images/articles/why-bogey-golf-is-good-golf.png
 imageAlt: A par-72 scoring example shows 17 bogeys and one par totaling 89.
-imageCaption: A bogey does not end a good round. On par 72, seventeen bogeys and one par add up to 89.
 seoTitle: Why Bogey Golf Is Good Golf
 updated: '2026-10-15'
 ---

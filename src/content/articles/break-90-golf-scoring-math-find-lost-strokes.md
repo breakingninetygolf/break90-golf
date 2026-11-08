@@ -9,7 +9,6 @@ readTime: 7 min read
 featured: true
 image: /images/articles/break-90-golf-scoring-math-find-lost-strokes.png
 imageAlt: "On par 72, 17 bogeys and one par total 89; 15 bogeys, two pars and one double also total 89."
-imageCaption: "Two different scorecards, the same 89. Examples assume an 18-hole, par-72 course."
 ---
 
 Breaking 90 means shooting **89 or lower**. It does not mean making par on every hole, hitting every green, or suddenly finding another 30 yards with your driver.

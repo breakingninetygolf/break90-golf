@@ -9,12 +9,7 @@ readTime: 10 min read
 featured: true
 image: /images/articles/best-christmas-golf-gifts-for-dad.png
 imageAlt: "Christmas golf gift illustration with a wrapped present, golf ball and book, grouped around practice, playing and learning."
-imageCaption: "Original Break 90 Golf illustration. The best gift starts with how your golfer likes to play and practice."
 ---
-
-**Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through Amazon links in this guide, at no extra cost to you.**
-
-<p class="note">Product showcase images are AI-created illustrations based on product references. Book covers, editions and product appearance may vary; check the linked listing before buying.</p>
 
 The best Christmas golf gifts give someone a reason to play, practice or enjoy the game. If you are shopping for **golf gift ideas for Dad**, start with what he already uses and what he keeps talking about: winter practice, better putting, a golf trip or finally knowing his actual club distances.
 
@@ -177,7 +172,7 @@ The **GoSports Elite practice net** is another candidate for Dad’s home practi
 
 <a class="btn dark" href="https://www.amazon.com/dp/B0CQSVW2BT?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check GoSports Elite Net on Amazon ↗</a>
 
-<figure><img src="/images/articles/golf-gifts-space-check.webp" alt="Home golf gift checklist showing floor footprint, swing and ceiling clearance, and additional net clearance as separate checks." width="1200" height="630" loading="lazy" decoding="async"/><figcaption>Check the complete setup before gifting a monitor, net or hitting mat. Product dimensions alone do not confirm that a room will work.</figcaption></figure>
+<figure><img src="/images/articles/golf-gifts-space-check.webp" alt="Home golf gift checklist showing floor footprint, swing and ceiling clearance, and additional net clearance as separate checks." width="1200" height="630" loading="lazy" decoding="async"/></figure>
 
 ## 12. Callaway Chip Shot Chipping Net: give short-game practice a target
 
@@ -203,7 +198,7 @@ Ask three questions before checkout:
 
 For a smaller present, start with a book, brush or his usual balls. For a larger gift, consider the putting green. For a major shared purchase, talk through the MLM2PRO or hitting mat first. Those are gift categories, not guaranteed price brackets—check current totals.
 
-<figure><img src="/images/articles/golf-gifts-for-dad-pairings.webp" alt="Three golf gift bundles for Dad: book and a round together; putting green and alignment mirror; his preferred golf balls and a cleaning towel." width="1200" height="630" loading="lazy" decoding="async"/><figcaption>Build a thoughtful pair around how Dad enjoys golf. You do not need to buy every item in a category.</figcaption></figure>
+<figure><img src="/images/articles/golf-gifts-for-dad-pairings.webp" alt="Three golf gift bundles for Dad: book and a round together; putting green and alignment mirror; his preferred golf balls and a cleaning towel." width="1200" height="630" loading="lazy" decoding="async"/></figure>
 
 ## Christmas golf gift questions
 
@@ -227,4 +222,4 @@ Yes, when you match the recipient’s preferred model and condition. Buying the 
 
 Usually only when you know the exact specifications he wants. Loft, shaft, length, handedness and fitting preferences make a new driver or putter harder to choose than a book, accessory or a practice tool.
 
-*Published October 15, 2026. Product information is based on manufacturer specifications and the Amazon listings linked above. Check current specifications, availability, return terms and Christmas delivery estimates before purchasing. Original illustrations are conceptual guides, not photographs of named products.*
+*Published October 15, 2026. Product information is based on manufacturer specifications and the Amazon listings linked above. Check current specifications, availability, return terms and Christmas delivery estimates before purchasing.*

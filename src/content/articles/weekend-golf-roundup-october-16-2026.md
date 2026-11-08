@@ -9,7 +9,6 @@ readTime: 5 min read
 featured: false
 image: /images/articles/weekend-golf-roundup-october-16-2026.png
 imageAlt: "Break 90 Golf Weekend Watch graphic for October 16–18, 2026, highlighting Shanghai, New Delhi and Cary."
-imageCaption: "Original Break 90 Golf editorial graphic. Friday-round snapshots, not a live leaderboard or a photograph of any tournament venue."
 ---
 
 Hye-Jin Choi has the lead in Shanghai, the DP World India Championship has unfinished business, and Retief Goosen has made the early move in North Carolina. Here is the professional golf picture from Friday, October 16, with the key questions for the weekend.

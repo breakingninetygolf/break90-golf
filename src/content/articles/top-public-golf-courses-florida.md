@@ -7,7 +7,6 @@ readTime: 8 min read
 featured: true
 image: /images/articles/top-public-golf-courses-florida.png
 imageAlt: "Florida course-guide title with a state map on the right and small branded golf balls at all ten course locations."
-imageCaption: "Approximate course locations in Florida. Courses at the same property may overlap. Open the individual course maps below for directions."
 seoTitle: 10 Best Public Golf Courses in Florida
 updated: '2026-10-15'
 ---

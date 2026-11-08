@@ -6,7 +6,6 @@ category: Practice
 readTime: 3 min read
 image: /images/articles/30-minute-practice-plan.png
 imageAlt: 'Practice plan: minutes 0–10 short putts, 10–20 lag putting and chips, 20–30 tee-shot targets.'
-imageCaption: Three focused ten-minute blocks. Count successful repetitions rather than just the balls you hit.
 seoTitle: A 30-Minute Practice Plan for Busy Golfers
 updated: '2026-10-15'
 ---

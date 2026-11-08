@@ -9,7 +9,6 @@ readTime: 8 min read
 featured: false
 image: /images/articles/top-public-golf-courses-texas.png
 imageAlt: "Texas golf guide beside a state outline with branded golf balls marking the ten approximate course locations."
-imageCaption: "Approximate course locations in Texas. Separate courses at the same resort may overlap. Individual maps link to directions."
 ---
 
 Texas has more than one kind of destination golf: remote Big Bend scenery, championship golf in Frisco, East Texas pines, South Plains wind and Hill Country resort courses. These are our ten public-access picks when the experience matters more than the lowest green fee. Some are daily-fee public courses; others require an eligible resort stay.

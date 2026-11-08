@@ -9,12 +9,7 @@ readTime: 6 min read
 featured: true
 image: /images/articles/launch-monitors-rapsodo-mlm2pro-guide.png
 imageAlt: "Launch monitor buying checklist: measure your space, check software costs, and practice carry distance and dispersion."
-imageCaption: "Original Break 90 Golf buying checklist. Choose a monitor around your practice space and the decisions you want to improve."
 ---
-
-**Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. We may earn a commission when you buy through links in this guide, at no extra cost to you.**
-
-<p class="note">Product showcase images are AI-created illustrations based on product references. Check the linked listing for exact appearance and included accessories.</p>
 
 A launch monitor can answer a useful question: how far does your normal shot carry, and where does it usually finish? That is more valuable to a golfer chasing 89 than a screenshot of one unusually long drive.
 
@@ -52,7 +47,7 @@ For the MLM2PRO, Rapsodo specifies **6.5–8.5 feet behind the ball**, plus **8 
 
 <figure>
  <img src="/images/articles/mlm2pro-room-setup.webp" alt="MLM2PRO indoor tracking schematic: monitor 6.5 to 8.5 feet behind the ball, with 8 feet of ball flight to the net; about 14.5 to 16.5 feet combined, excluding additional clearance." width="1200" height="630" loading="lazy" decoding="async" />
- <figcaption>Manufacturer distances, illustrated schematically—not to scale. Additional ceiling, width, net and swing clearance is required. Follow the current setup instructions.</figcaption>
+
 </figure>
 
 If the room cannot accommodate your longest club comfortably, a bargain monitor does not solve the problem. Confirm phone or tablet compatibility, lighting, alignment and a suitable ball-catching setup before committing. A projector and full simulator enclosure are separate purchases, not prerequisites for every practice session.
@@ -99,7 +94,7 @@ Use the first sessions to build a small, honest carry chart. Keep conditions con
 
 <figure>
  <img src="/images/articles/launch-monitor-practice-plan.webp" alt="Three launch monitor practice tasks: ten normal shots per club, record typical carry and common miss, then change targets one shot at a time." width="1200" height="630" loading="lazy" decoding="async" />
- <figcaption>Original practice framework. Track repeatable shots and useful patterns rather than chasing a personal-best number.</figcaption>
+
 </figure>
 
 Pair that chart with our [30-minute practice plan](/articles/30-minute-practice-plan/) and [tee-shot decision guide](/articles/should-you-hit-driver-on-every-par-four/). Then review your last few rounds to decide whether approach play is actually where you are losing strokes.

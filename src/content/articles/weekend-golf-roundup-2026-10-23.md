@@ -7,7 +7,6 @@ category: Tour News
 readTime: 4 min read
 image: /images/articles/weekend-golf-roundup-2026-10-23.png
 imageAlt: "Break 90 Weekend Watch editorial graphic for October 23–25, 2026."
-imageCaption: "Original editorial graphic; this article is a dated Friday snapshot, not live scoring."
 ---
 
 Four tournaments give golf fans plenty to follow this weekend: a shared lead in Bermuda, a strong LPGA move in South Korea, a consequential DP World Tour card battle, and an opening statement from Darren Clarke.
