@@ -1,0 +1,24 @@
+{
+  "fedexcup-fall-finale-preview-2026": {
+    "checked": "2026-11-07",
+    "titleGraphic": {
+      "generator": "scripts/generate-fedexcup-fall-preview.mjs",
+      "type": "Original editorial SVG rendered to PNG and responsive WebP; no tournament photo or course depiction."
+    },
+    "photos": [
+      {
+        "src": "/images/news/aberg-travelers-2025.webp",
+        "smallSrc": "/images/news/aberg-travelers-2025-400.webp",
+        "sourceTitle": "Ludvig Åberg Travelers-038.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ludvig_%C3%85berg_Travelers-038.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ludvig_%C3%85berg_Travelers-038.jpg",
+        "author": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "captureDate": "2025-06-18",
+        "changes": "Resized to 800x1200 and 400x600, converted to WebP; no cropping. Derivatives retain CC BY-SA 4.0.",
+        "caption": "Archival photograph from 2025 Travelers Championship, not 2026 RSM Classic."
+      }
+    ]
+  }
+}
