@@ -110,6 +110,106 @@
       "articleId": "golf-books-for-breaking-90",
       "image": "/images/articles/golf-books-read-with-purpose.png",
       "note": "AI-created generic course scene, not a photograph of a named course; Read with a Purpose headline and original subtitle."
+    },
+    {
+      "productId": "durbles-enclosure",
+      "image": "/images/gear/durbles-enclosure.webp",
+      "referenceSource": "https://www.amazon.com/dp/B0FY36PBBG",
+      "referenceFile": "durbles.jpg",
+      "asin": "B0FY36PBBG",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is the actual PRODUCT reference; preserve its real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: real black padded square simulator enclosure screen with blackout side panels and forward wing safety nets in tastefully lit home indoor golf bay. No golfer. Wide enough to see enclosure entirely on right, screen can show softly lit generic fairway projection without text. Do not suggest projector or launch monitor included. Exact text at left: category \"HOME SIMULATION\", title \"DURBLES\nSIMULATOR ENCLOSURE\", supporting copy \"A framed impact screen\nfor your home golf setup.\". Keep all text inside comfortable margins, legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style closely."
+    },
+    {
+      "productId": "lydarz-feedback-mat",
+      "image": "/images/gear/lydarz-feedback-mat.webp",
+      "referenceSource": "https://lydarz.com/products/lydarz-golf-practice-mat-3-replaceable-mats-with-swing-feedback-no-slip-base",
+      "referenceFile": "lydarz.jpg",
+      "asin": "B0DPFLJTPQ",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is the actual PRODUCT reference; preserve its real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: mat on turf beside a club on sunlit practice range; preserve compact black rounded rubber base and bright green contact feedback insert with black radial alignment lines. Include two interchangeable turf inserts neatly beside it. No pile of colored balls. Exact text at left: category \"SWING PRACTICE\", title \"LYDARZ\nFEEDBACK MAT\", supporting copy \"See your strike.\nSwap your practice surface.\". Keep all text inside comfortable margins, legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style closely."
+    },
+    {
+      "productId": "squalline-trizone",
+      "image": "/images/gear/squalline-trizone.webp",
+      "referenceSource": "https://www.desertcart.in/products/664688977-trizone-pro-6x4-ft-premium-tri-turf-golf-hitting-mat",
+      "referenceFile": "squalline.jpg",
+      "asin": "B0D7Z1F9QY",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: real 6x4 foot rectangular fullstance golf mat at low angle in sunlit practice area, broad shortgreenturf right, narrow brighter longrough stripe towardleft and narrow darkerstrip farleft, thick black rubberfoam edge, with golfball and shortiron nearby. Do not copy person, do not add arbitrary traininglines or simulatedholelayout. Exact left text: category \"HOME PRACTICE\", title \"SQUALLINE\nTRIZONE PRO\", supporting copy \"Three turf zones.\nRoom for your stance.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
+    },
+    {
+      "productId": "blue-tees-rainmaker",
+      "image": "/images/gear/blue-tees-rainmaker.webp",
+      "referenceSource": "https://blueteesgolf.com/products/rainmaker",
+      "referenceFile": "rainmaker.jpg",
+      "asin": "B0GYDPSG58",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is the actual PRODUCT reference; preserve its real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: on turf in a warm indoor simulator room, show the real blue-gray rectangular upright monitor, black front, perforated radar panel, lower color screen and adjustable stand from reference. No extra included accessories. Exact text at left: category \"LAUNCH MONITORS\", title \"BLUE TEES\nRAINMAKER\", supporting copy \"Portable radar feedback.\nPractice at home or the range.\". Keep all text inside comfortable margins, legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style closely."
+    },
+    {
+      "productId": "mileseey-genesonic-pro",
+      "image": "/images/gear/mileseey-genesonic-pro.webp",
+      "referenceSource": "https://mileseeygolf.com/products/mileseey-genesonic-pro-detachable-gps-speaker",
+      "referenceFile": "genesonic-product.jpg",
+      "asin": "B0G7BCJYXJ",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: real tall black cylindrical mesh speaker with oval GPS handheld magnetically docked at front, as in product reference, on warm wooden golf cart seat overlooking a fairway. Preserve visible green display and speaker size, no awardbadges. Exact left text: category \"GPS & AUDIO\", title \"MILESEEY\nGENESONIC PRO\", supporting copy \"Golf audio.\nDetachable GPS distances.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
+    },
+    {
+      "productId": "mileseey-genepro-g1",
+      "image": "/images/gear/mileseey-genepro-g1.webp",
+      "referenceSource": "https://mileseeygolf.com/products/mileseey-genepro-g1-touchscreen-gps-rangefinder",
+      "referenceFile": "genepro.jpg",
+      "asin": "B0F4XQ8RN9",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is the actual PRODUCT reference; preserve its real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: the real silver-black rangefinder with two front optical lenses, red trim and side GPS touchscreen, resting on warm wooden golf cart bench overlooking fairway. Do not copy reference's award logos, ratings or badges. Exact text at left: category \"DISTANCES & GPS\", title \"MILESEEY\nGENEPRO G1\", supporting copy \"Laser distances.\nTouchscreen GPS planning.\". Keep all text inside comfortable margins, legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style closely."
+    },
+    {
+      "productId": "findway-stand-bag",
+      "image": "/images/gear/findway-stand-bag.webp",
+      "referenceSource": "https://www.findway.com/products/findway-14-way-golf-stand-bag",
+      "referenceFile": "findway.jpg",
+      "asin": "B0DRJSQ9RD",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is the actual PRODUCT reference; preserve its real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: white and black Findway stand bag standing with two black support legs on golf course grass at golden hour, preserve 14-way top and pockets dualstrap reference, no collage or inset. Exact text at left: category \"GOLF BAGS\", title \"FINDWAY\n14-WAY STAND BAG\", supporting copy \"Organize your clubs.\nCarry your next round.\". Keep all text inside comfortable margins, legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style closely."
+    },
+    {
+      "productId": "a2c-phone-holder",
+      "image": "/images/gear/a2c-phone-holder.webp",
+      "referenceSource": "https://www.apps2car.com/products/a2c-m40s-golf-magnetic-phone-holder",
+      "referenceFile": "a2c-product.jpg",
+      "asin": "B0D2X9PWLR",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: close view real compact iron-gray aluminum dual magnetic circular mount, orange ring and A2C logo on frontdisc and round rearbase connected byballjoint. Mount attached to a steel golf cart upright, unobstructed and prominent. No phone covering the mount. Fairway bokeh behind. Exact left text: category \"CART ESSENTIALS\", title \"A2C MAGNETIC\nPHONE HOLDER\", supporting copy \"Keep your phone\nwithin easy reach.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
+    },
+    {
+      "productId": "birdie79-liner",
+      "image": "/images/gear/birdie79-liner.webp",
+      "referenceSource": "https://www.desertcart.ae/products/452752841-360-degree-golf-ball-marker-alignment-tool-kit-3-pens",
+      "referenceFile": "birdie-kit.jpg",
+      "asin": "B0B1C8RR3N",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: the real black clamshell ball stencil tool with red end rings and slotted sides open around white golf ball, referenceform faithfully, on putting green with a nearby neatly drawn triple-line golf ball and three marker pens. Do not transform the tool into binoculars. Exact left text: category \"PUTTING ALIGNMENT\", title \"BIRDIE79\nBALL LINER\", supporting copy \"Mark your ball.\nSet your starting line.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
+    },
+    {
+      "productId": "callaway-supersoft",
+      "image": "/images/gear/callaway-supersoft.webp",
+      "referenceSource": "https://www.callawaygolf.com/balls/mens-golf-balls-supersoft/balls-2025-supersoft.html",
+      "referenceFile": "supersoft.jpg",
+      "asin": "B0DHT5XZR1",
+      "checked": "2026-11-07",
+      "note": "AI-created product showcase using a product reference; no current best-seller claim.",
+      "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: real 2025 white-and-blue Callaway Supersoft one-dozen box on grass at golden hour with two white Callaway Supersoft balls in front. Preserve packagebranding and blue diagonalaccents, exact whitevariant. No claims of straightshots in added copy. Exact left text: category \"GOLF BALLS\", title \"CALLAWAY\nSUPERSOFT\", supporting copy \"A soft-feel option\nfor your next round.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
     }
   ]
 }

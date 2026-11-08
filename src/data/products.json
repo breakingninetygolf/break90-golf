@@ -7,7 +7,7 @@
     "url": "https://www.amazon.com/dp/B008RATH18?tag=breakingninet-20",
     "image": "/images/gear/alignment-sticks.webp",
     "featured": true,
-    "imageAlt": "SKLZ Golf Alignment Sticks — illustrated product showcase"
+    "imageAlt": "SKLZ Golf Alignment Sticks \u2014 illustrated product showcase"
   },
   {
     "id": "putting-trainer",
@@ -17,7 +17,7 @@
     "url": "https://www.amazon.com/dp/B08VWH6Y58?tag=breakingninet-20",
     "image": "/images/gear/putting-trainer.webp",
     "featured": true,
-    "imageAlt": "PuttOUT Premium Pressure Putt Trainer — illustrated product showcase"
+    "imageAlt": "PuttOUT Premium Pressure Putt Trainer \u2014 illustrated product showcase"
   },
   {
     "id": "chipping-net",
@@ -27,7 +27,7 @@
     "url": "https://www.amazon.com/dp/B0047I2EQO?tag=breakingninet-20",
     "image": "/images/gear/chipping-net.webp",
     "featured": true,
-    "imageAlt": "Callaway Chip Shot Chipping Net — illustrated product showcase"
+    "imageAlt": "Callaway Chip Shot Chipping Net \u2014 illustrated product showcase"
   },
   {
     "id": "rapsodo-mlm2pro",
@@ -37,7 +37,7 @@
     "url": "https://www.amazon.com/dp/B0BTPZMCSF?tag=breakingninet-20",
     "image": "/images/gear/rapsodo-mlm2pro.webp",
     "featured": true,
-    "imageAlt": "Rapsodo MLM2PRO — illustrated product showcase"
+    "imageAlt": "Rapsodo MLM2PRO \u2014 illustrated product showcase"
   },
   {
     "id": "redtiger-rangefinder",
@@ -47,7 +47,7 @@
     "url": "https://www.amazon.com/dp/B0BVFP6KXC?tag=breakingninet-20",
     "image": "/images/gear/redtiger-rangefinder.webp",
     "featured": true,
-    "imageAlt": "REDTIGER Golf Rangefinder — illustrated product showcase"
+    "imageAlt": "REDTIGER Golf Rangefinder \u2014 illustrated product showcase"
   },
   {
     "id": "perfect-practice-mat",
@@ -57,7 +57,7 @@
     "url": "https://www.amazon.com/dp/B07YQ7935B?tag=breakingninet-20",
     "image": "/images/gear/perfect-practice-mat.webp",
     "featured": true,
-    "imageAlt": "Perfect Practice Standard Putting Mat — illustrated product showcase"
+    "imageAlt": "Perfect Practice Standard Putting Mat \u2014 illustrated product showcase"
   },
   {
     "id": "odyssey-putting-mirror",
@@ -67,7 +67,7 @@
     "url": "https://www.amazon.com/dp/B07YMJ7ZPM?tag=breakingninet-20",
     "image": "/images/gear/odyssey-putting-mirror.webp",
     "featured": true,
-    "imageAlt": "Odyssey Putting Mirror — illustrated product showcase"
+    "imageAlt": "Odyssey Putting Mirror \u2014 illustrated product showcase"
   },
   {
     "id": "gosports-hitting-mat",
@@ -77,7 +77,7 @@
     "url": "https://www.amazon.com/dp/B08BXBDRDY?tag=breakingninet-20",
     "image": "/images/gear/gosports-hitting-mat.webp",
     "featured": true,
-    "imageAlt": "GoSports Elite Hitting Mat — illustrated product showcase"
+    "imageAlt": "GoSports Elite Hitting Mat \u2014 illustrated product showcase"
   },
   {
     "id": "titleist-pro-v1",
@@ -87,7 +87,7 @@
     "url": "https://www.amazon.com/dp/B0BPF2D5P9?tag=breakingninet-20",
     "image": "/images/gear/titleist-pro-v1.webp",
     "featured": true,
-    "imageAlt": "Titleist Pro V1 Golf Balls — illustrated product showcase"
+    "imageAlt": "Titleist Pro V1 Golf Balls \u2014 illustrated product showcase"
   },
   {
     "id": "grooveit-brush",
@@ -97,7 +97,7 @@
     "url": "https://www.amazon.com/dp/B0FD8TX982?tag=breakingninet-20",
     "image": "/images/gear/grooveit-brush.webp",
     "featured": true,
-    "imageAlt": "Grooveit Wet Club Scrub — illustrated product showcase"
+    "imageAlt": "Grooveit Wet Club Scrub \u2014 illustrated product showcase"
   },
   {
     "id": "frogger-towel",
@@ -107,7 +107,7 @@
     "url": "https://www.amazon.com/dp/B002KW71N0?tag=breakingninet-20",
     "image": "/images/gear/frogger-towel.webp",
     "featured": true,
-    "imageAlt": "Frogger Amphibian Golf Towel — illustrated product showcase"
+    "imageAlt": "Frogger Amphibian Golf Towel \u2014 illustrated product showcase"
   },
   {
     "id": "gosports-elite-net",
@@ -117,6 +117,106 @@
     "url": "https://www.amazon.com/dp/B0CQSVW2BT?tag=breakingninet-20",
     "image": "/images/gear/gosports-elite-net.webp",
     "featured": true,
-    "imageAlt": "GoSports Elite Practice Net — illustrated product showcase"
+    "imageAlt": "GoSports Elite Practice Net \u2014 illustrated product showcase"
+  },
+  {
+    "id": "durbles-enclosure",
+    "name": "Durbles Golf Simulator Enclosure Kit",
+    "category": "Home simulation",
+    "description": "A framed impact screen with blackout panels and side netting for a home simulator bay. Check the selected size, room clearance and equipment included.",
+    "url": "https://www.amazon.com/dp/B0FY36PBBG?tag=breakingninet-20",
+    "image": "/images/gear/durbles-enclosure.webp",
+    "featured": false,
+    "imageAlt": "Durbles Golf Simulator Enclosure Kit \u2014 AI-created product showcase"
+  },
+  {
+    "id": "lydarz-feedback-mat",
+    "name": "LYDARZ Swing-Path Feedback Mat",
+    "category": "Swing practice",
+    "description": "A compact practice mat with interchangeable surfaces and a strike-feedback insert. Use it to observe contact marks during focused practice.",
+    "url": "https://www.amazon.com/dp/B0DPFLJTPQ?tag=breakingninet-20",
+    "image": "/images/gear/lydarz-feedback-mat.webp",
+    "featured": false,
+    "imageAlt": "LYDARZ Swing-Path Feedback Mat \u2014 AI-created product showcase"
+  },
+  {
+    "id": "squalline-trizone",
+    "name": "SQUALLINE TriZone Pro Hitting Mat",
+    "category": "Home practice",
+    "description": "A 6-by-4-foot stance and hitting mat with fairway, rough and tee turf zones. Check the selected dimensions and space around your swing.",
+    "url": "https://www.amazon.com/dp/B0D7Z1F9QY?tag=breakingninet-20",
+    "image": "/images/gear/squalline-trizone.webp",
+    "featured": false,
+    "imageAlt": "SQUALLINE TriZone Pro Hitting Mat \u2014 AI-created product showcase"
+  },
+  {
+    "id": "blue-tees-rainmaker",
+    "name": "Blue Tees Rainmaker Launch Monitor",
+    "category": "Launch monitors",
+    "description": "A portable Doppler radar launch monitor with a built-in color display for practice indoors or at the range. Check setup distances, app support and simulator requirements.",
+    "url": "https://www.amazon.com/dp/B0GYDPSG58?tag=breakingninet-20",
+    "image": "/images/gear/blue-tees-rainmaker.webp",
+    "featured": false,
+    "imageAlt": "Blue Tees Rainmaker Launch Monitor \u2014 AI-created product showcase"
+  },
+  {
+    "id": "mileseey-genesonic-pro",
+    "name": "MILESEEY GeneSonic Pro GPS Speaker",
+    "category": "GPS & audio",
+    "description": "A golf speaker with a detachable GPS handheld for viewing course distances. Compare the course coverage, app features and mounting options for your setup.",
+    "url": "https://www.amazon.com/dp/B0G7BCJYXJ?tag=breakingninet-20",
+    "image": "/images/gear/mileseey-genesonic-pro.webp",
+    "featured": false,
+    "imageAlt": "MILESEEY GeneSonic Pro GPS Speaker \u2014 AI-created product showcase"
+  },
+  {
+    "id": "mileseey-genepro-g1",
+    "name": "MILESEEY GenePro G1 Rangefinder",
+    "category": "Distances & GPS",
+    "description": "A laser rangefinder with a side touchscreen for GPS course views and planning. Confirm course coverage and the slope settings appropriate for your round.",
+    "url": "https://www.amazon.com/dp/B0F4XQ8RN9?tag=breakingninet-20",
+    "image": "/images/gear/mileseey-genepro-g1.webp",
+    "featured": false,
+    "imageAlt": "MILESEEY GenePro G1 Rangefinder \u2014 AI-created product showcase"
+  },
+  {
+    "id": "findway-stand-bag",
+    "name": "Findway 14-Way Golf Stand Bag",
+    "category": "Golf bags",
+    "description": "A stand bag with individual club dividers, storage pockets and a dual carrying strap. Check the selected color, bag weight and pocket layout.",
+    "url": "https://www.amazon.com/dp/B0DRJSQ9RD?tag=breakingninet-20",
+    "image": "/images/gear/findway-stand-bag.webp",
+    "featured": false,
+    "imageAlt": "Findway 14-Way Golf Stand Bag \u2014 AI-created product showcase"
+  },
+  {
+    "id": "a2c-phone-holder",
+    "name": "A2C Alloy Magnetic Phone Holder",
+    "category": "Cart essentials",
+    "description": "A compact magnetic mount for keeping a compatible phone within reach on a golf cart. Confirm phone or case compatibility and a suitable steel mounting surface.",
+    "url": "https://www.amazon.com/dp/B0D2X9PWLR?tag=breakingninet-20",
+    "image": "/images/gear/a2c-phone-holder.webp",
+    "featured": false,
+    "imageAlt": "A2C Alloy Magnetic Phone Holder \u2014 AI-created product showcase"
+  },
+  {
+    "id": "birdie79-liner",
+    "name": "BIRDIE79 360\u00b0 Ball Alignment Kit",
+    "category": "Putting alignment",
+    "description": "A ball stencil and marker-pen kit for adding putting alignment lines. Choose a marking style that gives you a clear starting-line reference.",
+    "url": "https://www.amazon.com/dp/B0B1C8RR3N?tag=breakingninet-20",
+    "image": "/images/gear/birdie79-liner.webp",
+    "featured": false,
+    "imageAlt": "BIRDIE79 360\u00b0 Ball Alignment Kit \u2014 AI-created product showcase"
+  },
+  {
+    "id": "callaway-supersoft",
+    "name": "Callaway Supersoft Golf Balls",
+    "category": "Golf balls",
+    "description": "The 2025 white Supersoft is a soft-feel ball option for your next round. This selection links to one dozen; confirm generation, quantity and color before buying.",
+    "url": "https://www.amazon.com/dp/B0DHT5XZR1?tag=breakingninet-20",
+    "image": "/images/gear/callaway-supersoft.webp",
+    "featured": false,
+    "imageAlt": "Callaway Supersoft Golf Balls \u2014 AI-created product showcase"
   }
 ]

@@ -39,3 +39,7 @@ Gear and book articles must appear on both the Playbook and the Gear page. Use c
 ## Michigan value-course hole studies
 
 The user requested AI-created overhead hole illustrations for the Michigan value-course guide (November 7, 2026). Keep them separate from course photographs and location maps. Source-ground each named hole in a documented routing map or hole guide, identify the hole numbers and named nine when relevant, and clearly label the result as an AI illustration, not to scale. Record sources and prompts in `src/data/course-hole-studies.json`. Never invent identifiable hole routing or use generic island scenery as a real course. Keep all location maps. The user requested removal of the old Leslie Park archival photograph.
+
+## Gear-page shopping notes
+
+User preference (November 7, 2026): keep the full affiliate disclosure, shopping notes, guide links and AI-image note at the bottom of the Gear page, after the product grid and Gear & Books articles. Product cards retain direct tagged Amazon buttons. Do not label the expanded product list as current Amazon best sellers without current evidence. Blue Tees ASIN B0GYDPSG58 was identified by the user as the Rainmaker launch monitor.
