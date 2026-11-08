@@ -5,7 +5,7 @@ description: "The run-in to the RSM Classic: dates, players to watch, TV windows
 date: 2026-11-07
 category: Tour News
 readTime: 7 min
-image: /images/articles/fedexcup-fall-finale-preview-2026.png
+image: /images/articles/fedexcup-fall-finale-preview-2026-photo.png
 imageAlt: "Sea Island Golf Club overlooking the coast, with dark green shading, lime accents and The Road to Sea Island title."
 ---
 

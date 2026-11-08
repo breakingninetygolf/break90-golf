@@ -16,7 +16,8 @@
       "captureDate": "2007-10-21",
       "changes": "Resized and cropped into a wide cover; added dark green shading and white/lime title overlay. Source course photo preserved; no AI landscape changes.",
       "creditLocation": "End of article; explanatory cover caption removed at user request.",
-      "overlayPrompt": "Create ONLY a transparent typography-and-shading OVERLAY layer for a 1200x630 golf article cover. Transparent background; no photograph, scenery, grass or golfers. Dark forest green gradient on left fading toward right. Bold condensed white headline THE ROAD TO / SEA ISLAND.; lime FEDEXCUP FALL category and rule; white THE RSM CLASSIC and NOVEMBER 19–22, 2026; small BREAK 90 GOLF at top right."
+      "overlayPrompt": "Create ONLY a transparent typography-and-shading OVERLAY layer for a 1200x630 golf article cover. Transparent background; no photograph, scenery, grass or golfers. Dark forest green gradient on left fading toward right. Bold condensed white headline THE ROAD TO / SEA ISLAND.; lime FEDEXCUP FALL category and rule; white THE RSM CLASSIC and NOVEMBER 19–22, 2026; small BREAK 90 GOLF at top right.",
+      "publishedSrc": "/images/articles/fedexcup-fall-finale-preview-2026-photo.png"
     },
     "photos": [
       {
