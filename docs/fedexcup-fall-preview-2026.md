@@ -19,3 +19,12 @@ Primary sources checked:
 - https://www.pgatour.com/article/news/how-it-works/how-it-works-2026-pga-tour-q-school-presented-by-korn-ferry — Dec10–13 final stage, five cards, playoff, two courses.
 
 Image provenance: src/data/news-image-provenance.json. Single selective licensed archival player photo with visible author/source/license/date/modification attribution. No unlicensed tournament or resort photos; original title graphic generated from SVG without invented course or athlete imagery.
+
+## Cover redesign, November 7
+
+User requested replacing the flat title graphic with a real course photograph and branded overlays, removing the explanatory cover caption, and adopting the photo-first direction for future main graphics. Preserved the earlier original typography graphic only in Git history. Used Dan Perry’s “Sea Island Golf Club, The Cloister, Georgia,” taken October 21, 2007, CC BY 2.0. Verified the license on the Flickr source, with a secondary licensed copy from Island Profiles because Flickr’s static image server returned429. No exact course/hole or current 2026 course condition is claimed. Credit at article end links to original author/source and license and records the crop/overlay. The final renderer uses the real photograph unchanged apart from resizing/cropping and composites a separate transparent typography layer; it does not publish regenerated scenery. Generator: scripts/generate-fedexcup-fall-preview.mjs.
+
+Source: https://www.flickr.com/photos/golf_pictures/2538908243/
+License: https://creativecommons.org/licenses/by/2.0/
+Downloaded licensed copy: https://islandprofiles.com/wp-content/uploads/2017/06/Sea-Island-Golf-Club-The-Cloister.jpg
+Secondary attribution: https://islandprofiles.com/the-golden-isles-cumberland-and-tybee-the-sea-islands-of-georgia

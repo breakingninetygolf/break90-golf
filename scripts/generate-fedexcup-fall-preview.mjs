@@ -1,12 +1,11 @@
 import fs from 'node:fs';
 import sharp from 'sharp';
-const slug='fedexcup-fall-finale-preview-2026';
-const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#365041" stroke-width="1" opacity=".35"/></pattern></defs><rect width="1200" height="630" fill="#121e18"/><rect width="1200" height="630" fill="url(#grid)"/><path d="M750-20H1220V650H560Z" fill="#203c2a"/><path d="M744-20L555 650" stroke="#c7ff35" stroke-width="2" opacity=".4"/><g font-family="DejaVu Sans,sans-serif"><text x="58" y="64" font-size="19" fill="#c7ff35" font-weight="bold" letter-spacing="2">BREAK 90 / WEEKEND WATCH</text><text x="55" y="165" font-size="63" fill="#fff" font-weight="bold" letter-spacing="-2">THE ROAD TO</text><text x="55" y="245" font-size="73" fill="#c7ff35" font-weight="bold" letter-spacing="-3">SEA ISLAND.</text><path d="M60 287H205" stroke="#c7ff35" stroke-width="7"/><text x="60" y="346" font-size="25" fill="#fff" font-weight="bold">FEDEXCUP FALL FINALE</text><text x="60" y="390" font-size="24" fill="#c6d4c9">THE RSM CLASSIC</text><text x="60" y="430" font-size="24" fill="#c6d4c9">NOVEMBER 19–22, 2026</text><text x="60" y="558" font-size="19" fill="#a9bbad">ONE TROPHY. SEVERAL RACES.</text><g transform="translate(800 95)"><text x="0" y="20" font-size="17" fill="#c7ff35" letter-spacing="3">KNOW THE LINES</text><text x="-3" y="123" font-size="100" font-weight="bold" fill="#fff">60</text><text x="0" y="155" font-size="18" fill="#c6d4c9">AON NEXT 10</text><path d="M0 180H320" stroke="#597561"/><text x="-3" y="282" font-size="100" font-weight="bold" fill="#c7ff35">100</text><text x="0" y="314" font-size="18" fill="#c6d4c9">FULL-FIELD STATUS</text><path d="M0 340H320" stroke="#597561"/><text x="-3" y="438" font-size="90" font-weight="bold" fill="#fff">125</text><text x="0" y="470" font-size="18" fill="#c6d4c9">CONDITIONAL STATUS LINE</text></g></g></svg>`;
-const root='public/images/articles/'+slug;
-fs.writeFileSync(root+'.svg',svg);
-await sharp(Buffer.from(svg)).png().toFile(root+'.png');
-await sharp(Buffer.from(svg)).webp({quality:88}).toFile(root+'.webp');
-await sharp(Buffer.from(svg)).resize(600).webp({quality:85}).toFile(root+'-600.webp');
-fs.mkdirSync('public/images/news',{recursive:true});
-const source=process.argv[2];
-if(source){await sharp(source).resize(800,1200,{fit:'inside'}).webp({quality:85}).toFile('public/images/news/aberg-travelers-2025.webp');await sharp(source).resize(400,600,{fit:'inside'}).webp({quality:82}).toFile('public/images/news/aberg-travelers-2025-400.webp');}
+// Preserve the real course photograph; typography is a separate transparent layer.
+const root='public/images/articles/fedexcup-fall-finale-preview-2026';
+const photo=await sharp('public/images/news/sea-island-dan-perry-2007.jpg').resize(800,630,{fit:'cover',position:'centre'}).toBuffer();
+const overlay=await sharp('public/images/news/sea-island-cover-overlay.webp').resize(1200,630,{fit:'fill'}).toBuffer();
+const shade=Buffer.from('<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><defs><linearGradient id="shade"><stop offset="0%" stop-color="#092316"/><stop offset="33.4%" stop-color="#092316"/><stop offset="68%" stop-color="#092316" stop-opacity="0"/><stop offset="100%" stop-color="#092316" stop-opacity="0"/></linearGradient></defs><rect width="1200" height="630" fill="url(#shade)"/></svg>');
+const cover=await sharp({create:{width:1200,height:630,channels:4,background:'#092316'}}).composite([{input:photo,left:400,top:0},{input:shade,left:0,top:0},{input:overlay,left:0,top:0}]).png().toBuffer();
+await sharp(cover).png({compressionLevel:9}).toFile(root+'.png');
+await sharp(cover).webp({quality:90}).toFile(root+'.webp');
+await sharp(cover).resize(600).webp({quality:86}).toFile(root+'-600.webp');

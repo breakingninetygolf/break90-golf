@@ -6,8 +6,7 @@ date: 2026-11-07
 category: Tour News
 readTime: 7 min
 image: /images/articles/fedexcup-fall-finale-preview-2026.png
-imageAlt: "Break 90 Golf FedExCup Fall finale graphic: the road to Sea Island, November 19–22, with 60, 100 and 125 as the key ranking lines."
-imageCaption: "Original Break 90 Golf editorial graphic. Ranking lines describe different eligibility outcomes; they are not a live leaderboard."
+imageAlt: "Sea Island Golf Club overlooking the coast, with dark green shading, lime accents and The Road to Sea Island title."
 ---
 
 The most revealing leaderboard in November might be the one showing who will have a place to play next year. The FedExCup Fall is heading toward its finish at Sea Island, where a birdie can change a player's schedule as much as his pay cheque.
@@ -97,3 +96,5 @@ RSM closes this full-field points run, but qualifying remains. [Final Stage of P
 Our watch list for Sea Island is simple: follow the trophy chase, the **60 line**, and the **100 line** together. Then look at who actually holds an exemption before interpreting the consequences. That is where the final Sunday becomes more than one winner and one score.
 
 [Follow the current official standings](https://www.pgatour.com/fedexcup) · [RSM Classic event page](https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overview) · [Back to Weekend Golf](/weekend-golf/)
+
+<p class="cover-credit">Cover photo: <a href="https://www.flickr.com/photos/golf_pictures/2538908243/">Dan Perry, <em>Sea Island Golf Club, The Cloister, Georgia</em></a> (2007), <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; cropped with branded overlays.</p>

@@ -30,7 +30,7 @@ Use only course-specific photos with documented reuse permission or a suitable l
 
 ## Weekend Watch news
 
-Follow `docs/weekend-watch-workflow.md` for Friday tournament roundups. Use category `Tour News`, dated editions, explicit cutoff and round-completion status, inline primary sources and original editorial graphics. Keep news separate from evergreen scoring guides; never present a static article as live scoring.
+Follow `docs/weekend-watch-workflow.md` for Friday tournament roundups. Use category `Tour News`, dated editions, explicit cutoff and round-completion status, inline primary sources and relevant licensed photographs with branded overlays. Keep news separate from evergreen scoring guides; never present a static article as live scoring.
 
 ## Gear & books articles
 
@@ -43,3 +43,7 @@ The user requested AI-created overhead hole illustrations for the Michigan value
 ## Gear-page shopping notes
 
 User preference (November 7, 2026): keep the full affiliate disclosure, shopping notes, guide links and AI-image note at the bottom of the Gear page, after the product grid and Gear & Books articles. Product cards retain direct tagged Amazon buttons. Do not label the expanded product list as current Amazon best sellers without current evidence. Blue Tees ASIN B0GYDPSG58 was identified by the user as the Rainmaker launch monitor.
+
+## Main article images and captions
+
+User preference (November 7, 2026): prefer real, relevant course or subject photographs for main article/share images. Give them the same premium feel as the product showcases: dark forest-green overlays, large condensed white headlines and lime accents. Keep the relevant photo visible. Use suitable licensed/permission-cleared images and retain source and license records. Do not fabricate a named course photograph. Do not add boilerplate such as “Original Break 90 Golf editorial graphic,” “not a live leaderboard,” or explanations of how a cover graphic was made. Keep any required photo credit concise at the end of the article, rather than adding an explanatory caption below the cover. Remove other existing captions only when requested; the user plans a separate sitewide cleanup.
