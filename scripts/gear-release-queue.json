@@ -10,9 +10,10 @@
         "asin": "B0FF7XDBCF",
         "variant": "Black, 12 balls",
         "source": "https://www.amazon.com/clp/B0FF7XDBCF",
-        "pending": "",
         "listingEvidence": "https://guatemala.yaxa.co/products/pelotas-de-golf-vice-pro-plus",
-        "verifiedAt": "2026-11-12"
+        "verifiedAt": "2026-11-12",
+        "image": "/images/gear/vice-pro-plus-golf-balls.webp",
+        "imageAlt": "Vice Pro Plus Golf Balls, Black, 12 balls — Break 90 Golf editorial illustration"
       },
       {
         "id": "vice-pure-golf-glove",
@@ -22,9 +23,10 @@
         "asin": "B08R415XR3",
         "variant": "White, left hand, large",
         "source": "https://www.amazon.com/dp/B08R415XR3",
-        "pending": "",
         "listingEvidence": "https://www.desertcart.ae/products/595494059-vice-pure-golf-glove-white",
-        "verifiedAt": "2026-11-12"
+        "verifiedAt": "2026-11-12",
+        "image": "/images/gear/vice-pure-golf-glove.webp",
+        "imageAlt": "Vice Pure Golf Glove, White, left hand, large — Break 90 Golf editorial illustration"
       },
       {
         "id": "bushnell-wingman-view-gps-speaker",
@@ -34,7 +36,10 @@
         "asin": "B0C3RCVW1T",
         "variant": "Wearable4U bundle with black earbuds, wall charger, and car charger",
         "source": "https://www.amazon.com/dp/B0C3RCVW1T",
-        "pending": "Confirm current U.S. purchase availability for the user-supplied Wearable4U bundle."
+        "image": "/images/gear/bushnell-wingman-view-gps-speaker.webp",
+        "imageAlt": "Bushnell Wingman View GPS Speaker, Wearable4U bundle with black earbuds, wall charger, and car charger — Break 90 Golf editorial illustration",
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed U.S. purchase availability for this exact Amazon listing."
       },
       {
         "id": "golf-is-not-a-game-of-perfect-bob-rotella",
@@ -44,7 +49,10 @@
         "asin": "068480364X",
         "variant": "Hardcover",
         "source": "https://www.amazon.com/dp/068480364X",
-        "pending": "Confirm current US purchase option."
+        "image": "/images/gear/golf-is-not-a-game-of-perfect-bob-rotella.webp",
+        "imageAlt": "Golf Is Not a Game of Perfect — Bob Rotella, Hardcover — Break 90 Golf editorial illustration",
+        "verifiedAt": "2026-11-12",
+        "verification": "Amazon US hardcover listing matched to ISBN 068480364X with an add-to-cart offer in the indexed page."
       },
       {
         "id": "desert-fox-golf-phone-caddy",
@@ -54,9 +62,10 @@
         "asin": "B08F3VSF4M",
         "variant": "Orange, strap-style",
         "source": "https://www.amazon.com/dp/B08F3VSF4M",
-        "pending": "",
         "listingEvidence": "https://www.desertcart.in/products/291745206-desert-fox-golf-phone-caddy-orange",
-        "verifiedAt": "2026-11-12"
+        "verifiedAt": "2026-11-12",
+        "image": "/images/gear/desert-fox-golf-phone-caddy.webp",
+        "imageAlt": "DESERT FOX GOLF Phone Caddy, Orange, strap-style — Break 90 Golf editorial illustration"
       }
     ]
   },

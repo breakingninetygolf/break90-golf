@@ -210,6 +210,36 @@
       "checked": "2026-11-07",
       "note": "AI-created product showcase using a product reference; no current best-seller claim.",
       "prompt": "Create a 3:2 landscape product showcase image for Break 90 Golf. Image1 is exact STYLE reference only: forest-green dark gradient on LEFT 50%, lime uppercase spaced category, very large bold condensed white product title, short lime rule, smaller white supporting copy, photographic product on RIGHT, warm natural light. Image2 is actual PRODUCT reference; preserve real form, branding, proportions, colors and distinguishing details, not source marketing graphics. Scene: real 2025 white-and-blue Callaway Supersoft one-dozen box on grass at golden hour with two white Callaway Supersoft balls in front. Preserve packagebranding and blue diagonalaccents, exact whitevariant. No claims of straightshots in added copy. Exact left text: category \"GOLF BALLS\", title \"CALLAWAY\nSUPERSOFT\", supporting copy \"A soft-feel option\nfor your next round.\". Keep all text inside comfortable margins and legible at card size. Product dominates right without covering text. No prices, stars, awards, buttons, claims of testing or top seller badges. Match the Rapsodo card's sophisticated visual style."
+    },
+    {
+      "productId": "vice-pro-plus-golf-balls",
+      "image": "/images/gear/vice-pro-plus-golf-balls.webp",
+      "referenceSource": "https://www.amazon.com/clp/B0FF7XDBCF",
+      "method": "Original Break 90 Golf editorial graphic with an illustrated category symbol and generated golf-course background. No retailer product photo or book cover used."
+    },
+    {
+      "productId": "vice-pure-golf-glove",
+      "image": "/images/gear/vice-pure-golf-glove.webp",
+      "referenceSource": "https://www.amazon.com/dp/B08R415XR3",
+      "method": "Original Break 90 Golf editorial graphic with an illustrated category symbol and generated golf-course background. No retailer product photo or book cover used."
+    },
+    {
+      "productId": "bushnell-wingman-view-gps-speaker",
+      "image": "/images/gear/bushnell-wingman-view-gps-speaker.webp",
+      "referenceSource": "https://www.amazon.com/dp/B0C3RCVW1T",
+      "method": "Original Break 90 Golf editorial graphic with an illustrated category symbol and generated golf-course background. No retailer product photo or book cover used."
+    },
+    {
+      "productId": "golf-is-not-a-game-of-perfect-bob-rotella",
+      "image": "/images/gear/golf-is-not-a-game-of-perfect-bob-rotella.webp",
+      "referenceSource": "https://www.amazon.com/dp/068480364X",
+      "method": "Original Break 90 Golf editorial graphic with an illustrated category symbol and generated golf-course background. No retailer product photo or book cover used."
+    },
+    {
+      "productId": "desert-fox-golf-phone-caddy",
+      "image": "/images/gear/desert-fox-golf-phone-caddy.webp",
+      "referenceSource": "https://www.amazon.com/dp/B08F3VSF4M",
+      "method": "Original Break 90 Golf editorial graphic with an illustrated category symbol and generated golf-course background. No retailer product photo or book cover used."
     }
   ]
 }
