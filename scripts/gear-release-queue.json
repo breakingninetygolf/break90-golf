@@ -7,10 +7,12 @@
         "name": "Vice Pro Plus Golf Balls",
         "category": "Golf Balls",
         "description": "Four-piece urethane golf balls for players with faster swings who want lower driver spin and more control on short shots.",
-        "asin": "B089W8NLZC",
-        "variant": "White, 12 balls",
-        "source": "https://www.productdome.com/us/p/B089W8NLZC/",
-        "pending": "Confirm exact US listing and pack availability."
+        "asin": "B0FF7XDBCF",
+        "variant": "Black, 12 balls",
+        "source": "https://www.amazon.com/clp/B0FF7XDBCF",
+        "pending": "",
+        "listingEvidence": "https://guatemala.yaxa.co/products/pelotas-de-golf-vice-pro-plus",
+        "verifiedAt": "2026-11-12"
       },
       {
         "id": "vice-pure-golf-glove",
@@ -19,8 +21,10 @@
         "description": "A leather golf glove with a close feel on the grip. The left-hand version is the usual fit for a right-handed swing.",
         "asin": "B08R415XR3",
         "variant": "White, left hand, large",
-        "source": "https://www.desertcart.ae/products/595494059-vice-pure-golf-glove-white",
-        "pending": "Confirm exact US listing and glove availability."
+        "source": "https://www.amazon.com/dp/B08R415XR3",
+        "pending": "",
+        "listingEvidence": "https://www.desertcart.ae/products/595494059-vice-pure-golf-glove-white",
+        "verifiedAt": "2026-11-12"
       },
       {
         "id": "bushnell-wingman-view-gps-speaker",
@@ -49,8 +53,9 @@
         "description": "An adjustable cradle that straps to a cart frame and keeps a scorecard or GPS app easy to reach between shots.",
         "asin": "B09QB88LKP",
         "variant": "Black, strap-style",
-        "source": "https://www.desertcart.in/products/400920192-strap-style-golf-cart-phone-holder-golf-cart-phone-mount",
-        "pending": "Confirm exact US listing and availability."
+        "source": "https://patents.justia.com/patent/D1041463",
+        "pending": "Original black strap-style Phone Caddy is B09QB88LKP. User-supplied B0FYS228V2 is the different Magnetic Phone Mount. Confirm which to publish.",
+        "alternativeAsin": "B0FYS228V2"
       }
     ]
   },
