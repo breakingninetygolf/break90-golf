@@ -1,0 +1,12 @@
+---
+import Base from '../../../layouts/Base.astro';
+import {categories,categoryFor,publishedProducts} from '../../../lib/daily-finds';
+export function getStaticPaths(){return categories.map(c=>({params:{slug:c.slug},props:{category:c}}))}
+const {category}=Astro.props;
+const matches=publishedProducts.filter(p=>categoryFor(p).slug===category.slug);
+---
+<Base title={`${category.name}: Golf Gear Finds | Break 90 Golf`} description={`${category.description} Browse Break 90 Golf's selected products, practical notes and direct Amazon links.`} noindex={matches.length===0}>
+<section class="section dark-section"><div class="container"><div class="eyebrow lime"><a href="/daily-finds/">DAILY GOLF FINDS</a> / CATEGORY</div><h1>{category.name.toUpperCase()}</h1><p>{category.description}</p></div></section>
+<section class="section"><div class="container"><p>{matches.length} featured {matches.length===1?'product':'products'} in this category.</p><div class="grid">{matches.map(p=><article class="card"><img src={p.image} alt={p.imageAlt} width="600" height="400" loading="lazy"/><div class="copy"><h2>{p.name}</h2><p>{p.description}</p><a class="btn dark" href={p.url} target="_blank" rel="sponsored nofollow noopener noreferrer">CHECK ON AMAZON ↗</a></div></article>)}</div><p><a href="/daily-finds/">← All Daily Golf Finds</a></p></div></section>
+</Base>
+<style>.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.card{background:white;border:1px solid #dce3da;overflow:hidden}.card img{width:100%;aspect-ratio:3/2;object-fit:cover}.copy{padding:24px}.copy p{line-height:1.6}@media(max-width:700px){.grid{grid-template-columns:1fr}}</style>
