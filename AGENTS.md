@@ -22,7 +22,7 @@ Every purchase CTA must use the approved dark rectangular style: `<a class="btn 
 
 ## Gear-page cards
 
-Keep gear cards simple: category, product name, short description and the approved dark Amazon affiliate button. Do not include a “Why it matters” section. Leave product images out until the user requests adding approved images.
+Keep gear cards simple: category, product name, short description and the approved dark Amazon affiliate button. Do not include a “Why it matters” section. Use one 3:2 landscape product showcase per Gear card. Match the existing PuttOUT Premium Pressure Putt Trainer and REDTIGER Golf Rangefinder images: warm golden-hour turf and trees, a dark forest-green fade on the left, a small lime uppercase category, a large condensed white product headline, a short lime rule, and up to two lines of factual white copy. Place a large, realistic illustration of the exact linked product or book edition on the right. Source-check the color, silhouette, and included accessories. Use original editorial artwork or permission-cleared imagery. Do not use generic category icons, outline symbols, or card frames in place of the product. Record visual references in `src/data/gear-image-provenance.json` and provide 1200px and 600px WebP sizes.
 
 ## Course photographs
 
