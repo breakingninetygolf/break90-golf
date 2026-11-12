@@ -1,0 +1,277 @@
+[
+  {
+    "day": 1,
+    "products": [
+      {
+        "id": "vice-pro-plus-golf-balls",
+        "name": "Vice Pro Plus Golf Balls",
+        "category": "Golf Balls",
+        "description": "Four-piece urethane golf balls for players with faster swings who want lower driver spin and more control on short shots.",
+        "asin": "B089W8NLZC",
+        "variant": "White, 12 balls",
+        "source": "https://www.productdome.com/us/p/B089W8NLZC/",
+        "pending": "Confirm exact US listing and pack availability."
+      },
+      {
+        "id": "vice-pure-golf-glove",
+        "name": "Vice Pure Golf Glove",
+        "category": "Golf Gloves",
+        "description": "A leather golf glove with a close feel on the grip. The left-hand version is the usual fit for a right-handed swing.",
+        "asin": "B08R415XR3",
+        "variant": "White, left hand, large",
+        "source": "https://www.desertcart.ae/products/595494059-vice-pure-golf-glove-white",
+        "pending": "Confirm exact US listing and glove availability."
+      },
+      {
+        "id": "bushnell-wingman-view-gps-speaker",
+        "name": "Bushnell Wingman View GPS Speaker",
+        "category": "Speakers & GPS",
+        "description": "A Bluetooth cart speaker with a distance display and audible GPS yardages for club selection on unfamiliar courses.",
+        "asin": "B0C4TP5FN2",
+        "variant": "Model 362210, confirm listing contents",
+        "source": "https://manuals.plus/asin/B0C4TP5FN2.pdf",
+        "pending": "Confirm exact US listing, variant, and availability."
+      },
+      {
+        "id": "golf-is-not-a-game-of-perfect-bob-rotella",
+        "name": "Golf Is Not a Game of Perfect — Bob Rotella",
+        "category": "Golf Books",
+        "description": "Bob Rotella uses stories from the course to show how to commit to a shot, build a routine, and reset after a mistake.",
+        "asin": "068480364X",
+        "variant": "Hardcover",
+        "source": "https://www.amazon.com/dp/068480364X",
+        "pending": "Confirm current US purchase option."
+      },
+      {
+        "id": "desert-fox-golf-phone-caddy",
+        "name": "DESERT FOX GOLF Phone Caddy",
+        "category": "Golf Cart Accessories",
+        "description": "An adjustable cradle that straps to a cart frame and keeps a scorecard or GPS app easy to reach between shots.",
+        "asin": "B09QB88LKP",
+        "variant": "Black, strap-style",
+        "source": "https://www.desertcart.in/products/400920192-strap-style-golf-cart-phone-holder-golf-cart-phone-mount",
+        "pending": "Confirm exact US listing and availability."
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "products": [
+      {
+        "id": "vice-pro-golf-balls",
+        "name": "Vice Pro Golf Balls",
+        "category": "Golf Balls",
+        "description": "A three-piece urethane ball for golfers looking for a balance of tee-shot distance and control on chips and pitches.",
+        "asin": "B089W9G9ZW",
+        "variant": "12 balls, confirm color",
+        "source": "https://www.amazon.com/dp/B089W9G9ZW?tag=perball-us-revlynk-20",
+        "pending": "Confirm the selected color and US purchase option."
+      },
+      {
+        "id": "stripebird-magnetic-golf-cart-phone-holder",
+        "name": "Stripebird Magnetic Golf Cart Phone Holder",
+        "category": "Golf Cart Accessories",
+        "description": "A magnetic phone holder that attaches to a compatible steel cart frame so scoring and yardage apps stay within reach.",
+        "asin": "B0B97WJDY7",
+        "variant": "Original, black",
+        "source": "https://golfcartshop.com/products/stripebird-original-magnetic-golf-cart-phone-holder-black-cell-phone-holder-golf-cart-with-neodymium-n52-magnets-golf-caddy-golf-cart-phone-mount-for-iphone-samsung-others",
+        "pending": "Confirm exact US listing and availability."
+      },
+      {
+        "id": "blue-tees-golf-player-gps-speaker",
+        "name": "Blue Tees Golf Player+ GPS Speaker",
+        "category": "Speakers & GPS",
+        "description": "A cart-mount GPS speaker with a touchscreen and audible distances for checking yardages without pulling out your phone.",
+        "asin": "B0CF9THQDK",
+        "variant": "Black Player+",
+        "source": "https://thereturnrunway.com/products/blue-tees-golf-player-gps-speaker-black",
+        "pending": "Confirm exact US listing and availability."
+      },
+      {
+        "id": "ben-hogan-s-five-lessons",
+        "name": "Ben Hogan's Five Lessons",
+        "category": "Golf Books",
+        "description": "Ben Hogan breaks down grip, stance, and swing fundamentals in illustrated lessons you can revisit before a range session.",
+        "asin": "0671612972",
+        "variant": "Paperback",
+        "source": "https://www.amazon.com/dp/0671612972",
+        "pending": "Confirm current US purchase option."
+      },
+      {
+        "id": "vice-duro-golf-glove",
+        "name": "Vice Duro Golf Glove",
+        "category": "Golf Gloves",
+        "description": "A synthetic golf glove with an adjustable closure for golfers who want an everyday glove for rounds and range sessions.",
+        "asin": "B0B1QF8JJ2",
+        "variant": "White, left hand, medium",
+        "source": "https://www.desertcart.in/products/526643082-vice-golf-duro",
+        "pending": "Confirm exact US listing and availability."
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "products": [
+      {
+        "id": "vice-pro-air-golf-balls",
+        "name": "Vice Pro Air Golf Balls",
+        "category": "Golf Balls",
+        "description": "A urethane golf ball designed to launch higher with less spin for players with slower to moderate swing speeds.",
+        "asin": "B0DYG895WM",
+        "variant": "White, 12 balls",
+        "source": "https://perball.com/balls/vice/pro-air-golf-balls",
+        "pending": "Confirm exact US listing, variant, and availability."
+      },
+      {
+        "id": "precision-pro-ace-smart-speaker",
+        "name": "Precision Pro ACE Smart Speaker",
+        "category": "Speakers & GPS",
+        "description": "A Bluetooth golf speaker with an LCD and audible GPS distances for checking yardages and planning layups from the cart.",
+        "asin": null,
+        "variant": "Gray ACE Smart Speaker",
+        "source": "https://www.2ndswing.com/golf-clubs/golf-gps-rangefinders/precision-pro-ace-smart-speaker-golf-gps-rangefinders/c2968981",
+        "pending": "No exact US Amazon listing found. The new unit at 2nd Swing is out of stock."
+      },
+      {
+        "id": "harvey-penick-s-little-red-book",
+        "name": "Harvey Penick's Little Red Book",
+        "category": "Golf Books",
+        "description": "Harvey Penick shares short, practical lessons about practice, tempo, and shot choices that are easy to revisit between rounds.",
+        "asin": "1451683219",
+        "variant": "Anniversary hardcover",
+        "source": "https://www.amazon.com/dp/1451683219",
+        "pending": "Confirm current US purchase option."
+      },
+      {
+        "id": "caddie-buddy-golf-cart-phone-mount",
+        "name": "Caddie Buddy Golf Cart Phone Mount",
+        "category": "Golf Cart Accessories",
+        "description": "A steering-wheel mount that keeps a phone or paper scorecard handy for recording scores when the cart is stopped.",
+        "asin": "B07TLYQMYM",
+        "variant": "Steering Wheel Phone Mount/Scorecard Pro",
+        "source": "https://www.amazon.com/dp/B07TLYQMYM",
+        "pending": "Confirm current US purchase option."
+      },
+      {
+        "id": "3-releases-the-short-game-system-daniel-grieve-kindle-edition",
+        "name": "3 Releases: The Short Game System — Daniel Grieve (Kindle Edition)",
+        "category": "Digital Golf Books",
+        "description": "Daniel Grieve teaches three greenside shots and explains how to choose among them based on the lie and landing area.",
+        "asin": "B0BFM6QKHD",
+        "variant": "English Kindle edition",
+        "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
+        "pending": "Confirm US Kindle edition and individual purchase eligibility on Amazon."
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "products": [
+      {
+        "id": "vice-tour-golf-balls",
+        "name": "Vice Tour Golf Balls",
+        "category": "Golf Balls",
+        "description": "A three-piece golf ball for golfers who want an everyday option to use consistently from the first tee through the putting green.",
+        "asin": "B08927FCHT",
+        "variant": "White, 12 balls",
+        "source": "https://brickseek.com/walmart-inventory-checker?sku=703317916",
+        "pending": "Confirm exact US listing and availability."
+      },
+      {
+        "id": "bushnell-wingman-mini",
+        "name": "Bushnell Wingman Mini",
+        "category": "Speakers & GPS",
+        "description": "A compact golf speaker with audible GPS distances and a carabiner for golfers who prefer a smaller unit on their bag.",
+        "asin": "B0C6YMBFC8",
+        "variant": "Silver/black with PlayBetter charger",
+        "source": "https://device.report/bushnell/wingman",
+        "pending": "Candidate is a charger bundle. Confirm standalone US listing."
+      },
+      {
+        "id": "how-champions-think-bob-rotella",
+        "name": "How Champions Think — Bob Rotella",
+        "category": "Golf Books",
+        "description": "Bob Rotella explores confidence, focus, and the habits that help athletes perform under pressure on and off the course.",
+        "asin": "1476788626",
+        "variant": "Hardcover",
+        "source": "https://www.goodreads.com/work/editions/45034355-how-champions-think-in-sports-and-in-life",
+        "pending": "Confirm exact US listing and availability."
+      },
+      {
+        "id": "wicked-smart-golf-michael-leonard-kindle-edition",
+        "name": "Wicked Smart Golf — Michael Leonard (Kindle Edition)",
+        "category": "Digital Golf Books",
+        "description": "Michael Leonard focuses on scoring through course management, a repeatable pre-shot routine, and better decisions under pressure.",
+        "asin": "B0B1JPJT56",
+        "variant": "English Kindle edition, first book",
+        "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
+        "pending": "Confirm US Kindle edition and individual purchase eligibility on Amazon."
+      },
+      {
+        "id": "the-four-foundations-of-golf-jon-sherman",
+        "name": "The Four Foundations of Golf — Jon Sherman",
+        "category": "Golf Books",
+        "description": "Jon Sherman connects practice, strategy, expectations, and mental habits to the decisions recreational golfers make every round.",
+        "asin": "B0B3RYB7ZF",
+        "variant": "Paperback",
+        "source": "https://www.amazon.com/dp/B0B3RYB7ZF",
+        "pending": "Confirm current US purchase option."
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "products": [
+      {
+        "id": "vice-drive-golf-balls",
+        "name": "Vice Drive Golf Balls",
+        "category": "Golf Balls",
+        "description": "A two-piece golf ball for recreational players who want a straightforward distance ball for regular rounds.",
+        "asin": "B0D1W2VJSB",
+        "variant": "Confirm color and quantity",
+        "source": "https://slickdeals.net/f/20220987-15-99-vice-drive-golf-balls-at-amazon",
+        "pending": "Confirm exact US listing, color, pack size, and availability."
+      },
+      {
+        "id": "jbl-clip-5-portable-bluetooth-speaker",
+        "name": "JBL Clip 5 Portable Bluetooth Speaker",
+        "category": "Speakers & Accessories",
+        "description": "A compact, clip-on Bluetooth speaker for carrying music on a golf bag or cart without taking up a cup holder.",
+        "asin": "B0D1J2GCJD",
+        "variant": "Black/orange JBLCLIP5BLKOAM",
+        "source": "https://www.amazon.com/dp/B0D1J2GCJD",
+        "pending": "Confirm current US purchase option and listed color."
+      },
+      {
+        "id": "a-course-called-ireland-tom-coyne",
+        "name": "A Course Called Ireland — Tom Coyne",
+        "category": "Golf Books",
+        "description": "Tom Coyne recounts walking Ireland’s coastline in search of links golf, local stories, and the next tee.",
+        "asin": "1592405282",
+        "variant": "2010 paperback",
+        "source": "https://www.penguinrandomhouse.com/books/301186/a-course-called-ireland-by-tom-coyne/",
+        "pending": "Confirm exact US listing and availability."
+      },
+      {
+        "id": "the-practice-manual-adam-young",
+        "name": "The Practice Manual — Adam Young",
+        "category": "Golf Books",
+        "description": "Adam Young explains how to structure range practice around feedback, skill development, and shots that transfer to the course.",
+        "asin": "1507723172",
+        "variant": "Paperback",
+        "source": "https://www.amazon.com/dp/1507723172",
+        "pending": "Confirm current US purchase option."
+      },
+      {
+        "id": "the-golfer-s-excuse-handbook-kurt-taylor",
+        "name": "The Golfer's Excuse Handbook — Kurt Taylor",
+        "category": "Golf Books",
+        "description": "A golf humor book full of excuses for bad bounces, missed putts, and the rounds your group will keep talking about.",
+        "asin": "B0BMJR3ZV8",
+        "variant": "Paperback",
+        "source": "https://www.amazon.com/dp/B0BMJR3ZV8",
+        "pending": "Confirm current US purchase option."
+      }
+    ]
+  }
+]
