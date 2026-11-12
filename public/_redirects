@@ -1,2 +1,5 @@
 /calculator /#break-90-math 301
 /calculator/ /#break-90-math 301
+/daily-finds /gear/ 301
+/daily-finds/ /gear/ 301
+/daily-finds/category/* /gear/ 301
