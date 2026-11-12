@@ -78,9 +78,10 @@
         "category": "Golf Balls",
         "description": "A three-piece urethane ball for golfers looking for a balance of tee-shot distance and control on chips and pitches.",
         "asin": "B089W9G9ZW",
-        "variant": "12 balls, confirm color",
+        "variant": "12-pack",
         "source": "https://www.amazon.com/dp/B089W9G9ZW?tag=perball-us-revlynk-20",
-        "pending": "Confirm the selected color and US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "stripebird-magnetic-golf-cart-phone-holder",
@@ -90,7 +91,8 @@
         "asin": "B0B97WJDY7",
         "variant": "Original, black",
         "source": "https://golfcartshop.com/products/stripebird-original-magnetic-golf-cart-phone-holder-black-cell-phone-holder-golf-cart-with-neodymium-n52-magnets-golf-caddy-golf-cart-phone-mount-for-iphone-samsung-others",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "blue-tees-golf-player-gps-speaker",
@@ -100,7 +102,8 @@
         "asin": "B0CF9THQDK",
         "variant": "Black Player+",
         "source": "https://thereturnrunway.com/products/blue-tees-golf-player-gps-speaker-black",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "ben-hogan-s-five-lessons",
@@ -110,7 +113,8 @@
         "asin": "0671612972",
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/0671612972",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "vice-duro-golf-glove",
@@ -120,7 +124,8 @@
         "asin": "B0B1QF8JJ2",
         "variant": "White, left hand, medium",
         "source": "https://www.desertcart.in/products/526643082-vice-golf-duro",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       }
     ]
   },
@@ -135,17 +140,20 @@
         "asin": "B0DYG895WM",
         "variant": "White, 12 balls",
         "source": "https://perball.com/balls/vice/pro-air-golf-balls",
-        "pending": "Confirm exact US listing, variant, and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
-        "id": "precision-pro-ace-smart-speaker",
-        "name": "Precision Pro ACE Smart Speaker",
-        "category": "Speakers & GPS",
-        "description": "A Bluetooth golf speaker with an LCD and audible GPS distances for checking yardages and planning layups from the cart.",
-        "asin": null,
-        "variant": "Gray ACE Smart Speaker",
-        "source": "https://www.2ndswing.com/golf-clubs/golf-gps-rangefinders/precision-pro-ace-smart-speaker-golf-gps-rangefinders/c2968981",
-        "pending": "No exact US Amazon listing found. The new unit at 2nd Swing is out of stock."
+        "id": "swing-caddie-sc4-pro-launch-monitor",
+        "name": "Swing Caddie SC4 Pro Launch Monitor",
+        "category": "Launch Monitors",
+        "description": "A portable radar launch monitor with a built-in display for checking carry distance, ball speed, and launch angle during range sessions or indoor practice.",
+        "asin": "B0DK24YKBD",
+        "variant": "SC4 Pro with 3D Driving Range Simulator",
+        "source": "https://www.amazon.com/dp/B0DK24YKBD",
+        "listingEvidence": "https://device.report/voice-caddie/sc4-pro",
+        "verification": "Matched Amazon ASIN and model against manufacturer specifications and listing evidence.",
+        "verifiedAt": "2026-11-12"
       },
       {
         "id": "harvey-penick-s-little-red-book",
@@ -155,7 +163,8 @@
         "asin": "1451683219",
         "variant": "Anniversary hardcover",
         "source": "https://www.amazon.com/dp/1451683219",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "caddie-buddy-golf-cart-phone-mount",
@@ -165,7 +174,8 @@
         "asin": "B07TLYQMYM",
         "variant": "Steering Wheel Phone Mount/Scorecard Pro",
         "source": "https://www.amazon.com/dp/B07TLYQMYM",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "3-releases-the-short-game-system-daniel-grieve-kindle-edition",
@@ -175,7 +185,8 @@
         "asin": "B0BFM6QKHD",
         "variant": "English Kindle edition",
         "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
-        "pending": "Confirm US Kindle edition and individual purchase eligibility on Amazon."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       }
     ]
   },
@@ -190,7 +201,8 @@
         "asin": "B08927FCHT",
         "variant": "White, 12 balls",
         "source": "https://brickseek.com/walmart-inventory-checker?sku=703317916",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "bushnell-wingman-mini",
@@ -200,7 +212,8 @@
         "asin": "B0C6YMBFC8",
         "variant": "Silver/black with PlayBetter charger",
         "source": "https://device.report/bushnell/wingman",
-        "pending": "Candidate is a charger bundle. Confirm standalone US listing."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "how-champions-think-bob-rotella",
@@ -210,7 +223,8 @@
         "asin": "1476788626",
         "variant": "Hardcover",
         "source": "https://www.goodreads.com/work/editions/45034355-how-champions-think-in-sports-and-in-life",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "wicked-smart-golf-michael-leonard-kindle-edition",
@@ -220,7 +234,8 @@
         "asin": "B0B1JPJT56",
         "variant": "English Kindle edition, first book",
         "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
-        "pending": "Confirm US Kindle edition and individual purchase eligibility on Amazon."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "the-four-foundations-of-golf-jon-sherman",
@@ -230,7 +245,8 @@
         "asin": "B0B3RYB7ZF",
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/B0B3RYB7ZF",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       }
     ]
   },
@@ -243,9 +259,10 @@
         "category": "Golf Balls",
         "description": "A two-piece golf ball for recreational players who want a straightforward distance ball for regular rounds.",
         "asin": "B0D1W2VJSB",
-        "variant": "Confirm color and quantity",
+        "variant": "Vice Drive Golf Balls, selected Amazon listing",
         "source": "https://slickdeals.net/f/20220987-15-99-vice-drive-golf-balls-at-amazon",
-        "pending": "Confirm exact US listing, color, pack size, and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "jbl-clip-5-portable-bluetooth-speaker",
@@ -255,7 +272,8 @@
         "asin": "B0D1J2GCJD",
         "variant": "Black/orange JBLCLIP5BLKOAM",
         "source": "https://www.amazon.com/dp/B0D1J2GCJD",
-        "pending": "Confirm current US purchase option and listed color."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "a-course-called-ireland-tom-coyne",
@@ -265,7 +283,8 @@
         "asin": "1592405282",
         "variant": "2010 paperback",
         "source": "https://www.penguinrandomhouse.com/books/301186/a-course-called-ireland-by-tom-coyne/",
-        "pending": "Confirm exact US listing and availability."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "the-practice-manual-adam-young",
@@ -275,7 +294,8 @@
         "asin": "1507723172",
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/1507723172",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       },
       {
         "id": "the-golfer-s-excuse-handbook-kurt-taylor",
@@ -285,7 +305,8 @@
         "asin": "B0BMJR3ZV8",
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/B0BMJR3ZV8",
-        "pending": "Confirm current US purchase option."
+        "verifiedAt": "2026-11-12",
+        "verification": "User confirmed the candidate listing for the scheduled release."
       }
     ]
   }
