@@ -78,10 +78,12 @@
         "category": "Golf Balls",
         "description": "A three-piece urethane ball for golfers looking for a balance of tee-shot distance and control on chips and pitches.",
         "asin": "B089W9G9ZW",
-        "variant": "12-pack",
+        "variant": "White, 12-pack",
         "source": "https://www.amazon.com/dp/B089W9G9ZW?tag=perball-us-revlynk-20",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/vice-pro-golf-balls-showcase.webp",
+        "imageAlt": "Editorial illustration of White Vice Pro golf ball on a sunlit fairway."
       },
       {
         "id": "stripebird-magnetic-golf-cart-phone-holder",
@@ -92,7 +94,9 @@
         "variant": "Original, black",
         "source": "https://golfcartshop.com/products/stripebird-original-magnetic-golf-cart-phone-holder-black-cell-phone-holder-golf-cart-with-neodymium-n52-magnets-golf-caddy-golf-cart-phone-mount-for-iphone-samsung-others",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/stripebird-magnetic-golf-cart-phone-holder-showcase.webp",
+        "imageAlt": "Editorial illustration of Black Stripebird magnetic phone holder on a golf cart frame."
       },
       {
         "id": "blue-tees-golf-player-gps-speaker",
@@ -103,7 +107,9 @@
         "variant": "Black Player+",
         "source": "https://thereturnrunway.com/products/blue-tees-golf-player-gps-speaker-black",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/blue-tees-golf-player-gps-speaker-showcase.webp",
+        "imageAlt": "Editorial illustration of Black Blue Tees Player+ speaker with GPS touchscreen."
       },
       {
         "id": "ben-hogan-s-five-lessons",
@@ -114,7 +120,9 @@
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/0671612972",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/ben-hogan-s-five-lessons-showcase.webp",
+        "imageAlt": "Editorial illustration of Ben Hogan’s Five Lessons paperback on a putting green."
       },
       {
         "id": "vice-duro-golf-glove",
@@ -125,7 +133,9 @@
         "variant": "White, left hand, medium",
         "source": "https://www.desertcart.in/products/526643082-vice-golf-duro",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/vice-duro-golf-glove-showcase.webp",
+        "imageAlt": "Editorial illustration of White Vice Duro left-hand golf glove on sunlit turf."
       }
     ]
   },

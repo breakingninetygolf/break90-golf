@@ -1,5 +1,50 @@
 [
   {
+    "id": "vice-pro-golf-balls",
+    "name": "Vice Pro Golf Balls",
+    "category": "Golf Balls",
+    "description": "A three-piece urethane ball for golfers looking for a balance of tee-shot distance and control on chips and pitches.",
+    "image": "/images/gear/vice-pro-golf-balls-showcase.webp",
+    "imageAlt": "Editorial illustration of White Vice Pro golf ball on a sunlit fairway.",
+    "url": "https://www.amazon.com/dp/B089W9G9ZW?tag=breakingninet-20"
+  },
+  {
+    "id": "stripebird-magnetic-golf-cart-phone-holder",
+    "name": "Stripebird Magnetic Golf Cart Phone Holder",
+    "category": "Golf Cart Accessories",
+    "description": "A magnetic phone holder that attaches to a compatible steel cart frame so scoring and yardage apps stay within reach.",
+    "image": "/images/gear/stripebird-magnetic-golf-cart-phone-holder-showcase.webp",
+    "imageAlt": "Editorial illustration of Black Stripebird magnetic phone holder on a golf cart frame.",
+    "url": "https://www.amazon.com/dp/B0B97WJDY7?tag=breakingninet-20"
+  },
+  {
+    "id": "blue-tees-golf-player-gps-speaker",
+    "name": "Blue Tees Golf Player+ GPS Speaker",
+    "category": "Speakers & GPS",
+    "description": "A cart-mount GPS speaker with a touchscreen and audible distances for checking yardages without pulling out your phone.",
+    "image": "/images/gear/blue-tees-golf-player-gps-speaker-showcase.webp",
+    "imageAlt": "Editorial illustration of Black Blue Tees Player+ speaker with GPS touchscreen.",
+    "url": "https://www.amazon.com/dp/B0CF9THQDK?tag=breakingninet-20"
+  },
+  {
+    "id": "ben-hogan-s-five-lessons",
+    "name": "Ben Hogan's Five Lessons",
+    "category": "Golf Books",
+    "description": "Ben Hogan breaks down grip, stance, and swing fundamentals in illustrated lessons you can revisit before a range session.",
+    "image": "/images/gear/ben-hogan-s-five-lessons-showcase.webp",
+    "imageAlt": "Editorial illustration of Ben Hogan’s Five Lessons paperback on a putting green.",
+    "url": "https://www.amazon.com/dp/0671612972?tag=breakingninet-20"
+  },
+  {
+    "id": "vice-duro-golf-glove",
+    "name": "Vice Duro Golf Glove",
+    "category": "Golf Gloves",
+    "description": "A synthetic golf glove with an adjustable closure for golfers who want an everyday glove for rounds and range sessions.",
+    "image": "/images/gear/vice-duro-golf-glove-showcase.webp",
+    "imageAlt": "Editorial illustration of White Vice Duro left-hand golf glove on sunlit turf.",
+    "url": "https://www.amazon.com/dp/B0B1QF8JJ2?tag=breakingninet-20"
+  },
+  {
     "id": "vice-pro-plus-golf-balls",
     "name": "Vice Pro Plus Golf Balls",
     "category": "Golf Balls",

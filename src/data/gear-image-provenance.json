@@ -240,6 +240,36 @@
       "image": "/images/gear/desert-fox-golf-phone-caddy-showcase.webp",
       "referenceSource": "https://www.desertfoxgolf.com/pages/about",
       "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "vice-pro-golf-balls",
+      "image": "/images/gear/vice-pro-golf-balls-showcase.webp",
+      "referenceSource": "https://www.desertcart.ae/products/239137070-pro-2020-12-golf-balls-features-3-piece-cast-urethane-maximum-control-high-short-game-spin-more-colors-neon-lime-red-profile-designed-for-advanced-golfers",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "stripebird-magnetic-golf-cart-phone-holder",
+      "image": "/images/gear/stripebird-magnetic-golf-cart-phone-holder-showcase.webp",
+      "referenceSource": "https://stripebird.com/products/original-golf-magnetic-phone-holder",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "blue-tees-golf-player-gps-speaker",
+      "image": "/images/gear/blue-tees-golf-player-gps-speaker-showcase.webp",
+      "referenceSource": "https://manuals.plus/asin/B0CF9THQDK",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "ben-hogan-s-five-lessons",
+      "image": "/images/gear/ben-hogan-s-five-lessons-showcase.webp",
+      "referenceSource": "https://www.strangebooks.co.uk/title/the-modern-fundamentals-of-golf/",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "vice-duro-golf-glove",
+      "image": "/images/gear/vice-duro-golf-glove-showcase.webp",
+      "referenceSource": "https://www.vicegolf.com/products/vice-golf-duro-white",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
     }
   ]
 }
