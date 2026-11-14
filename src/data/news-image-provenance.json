@@ -34,5 +34,18 @@
         "caption": "Archival photograph from 2025 Travelers Championship, not 2026 RSM Classic."
       }
     ]
+  },
+  "weekend-golf-roundup-2026-11-13": {
+    "checked": "2026-11-13",
+    "titleGraphic": {
+      "sourceTitle": "Rory McIlroy Travelers-075.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rory_McIlroy_Travelers-075.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rory_McIlroy_Travelers-075.jpg",
+      "author": "Bryan Berlin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped and resized with dark green shading and white/lime typography. All three cover versions retain CC BY-SA 4.0.",
+      "publishedSrc": "/images/articles/weekend-golf-roundup-2026-11-13.png"
+    }
   }
 }
