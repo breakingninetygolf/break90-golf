@@ -1,5 +1,50 @@
 [
   {
+    "id": "vice-pro-air-golf-balls",
+    "name": "Vice Pro Air Golf Balls",
+    "category": "Golf Balls",
+    "description": "A urethane golf ball designed to launch higher with less spin for players with slower to moderate swing speeds.",
+    "image": "/images/gear/vice-pro-air-golf-balls-showcase.webp",
+    "imageAlt": "Editorial illustration of White Vice Pro Air golf ball on sunlit turf.",
+    "url": "https://www.amazon.com/dp/B0DYG895WM?tag=breakingninet-20"
+  },
+  {
+    "id": "swing-caddie-sc4-pro-launch-monitor",
+    "name": "Swing Caddie SC4 Pro Launch Monitor",
+    "category": "Launch Monitors",
+    "description": "A portable radar launch monitor with a built-in display for checking carry distance, ball speed, and launch angle during range sessions or indoor practice.",
+    "image": "/images/gear/swing-caddie-sc4-pro-launch-monitor-showcase.webp",
+    "imageAlt": "Editorial illustration of Swing Caddie SC4 Pro radar launch monitor.",
+    "url": "https://www.amazon.com/dp/B0DK24YKBD?tag=breakingninet-20"
+  },
+  {
+    "id": "harvey-penick-s-little-red-book",
+    "name": "Harvey Penick's Little Red Book",
+    "category": "Golf Books",
+    "description": "Harvey Penick shares short, practical lessons about practice, tempo, and shot choices that are easy to revisit between rounds.",
+    "image": "/images/gear/harvey-penick-s-little-red-book-showcase.webp",
+    "imageAlt": "Editorial illustration of Harvey Penick’s Little Red Book anniversary hardcover.",
+    "url": "https://www.amazon.com/dp/1451683219?tag=breakingninet-20"
+  },
+  {
+    "id": "caddie-buddy-golf-cart-phone-mount",
+    "name": "Caddie Buddy Golf Cart Phone Mount",
+    "category": "Golf Cart Accessories",
+    "description": "A steering-wheel mount that keeps a phone or paper scorecard handy for recording scores when the cart is stopped.",
+    "image": "/images/gear/caddie-buddy-golf-cart-phone-mount-showcase.webp",
+    "imageAlt": "Editorial illustration of Caddie Buddy phone mount attached to a golf cart steering wheel.",
+    "url": "https://www.amazon.com/dp/B07TLYQMYM?tag=breakingninet-20"
+  },
+  {
+    "id": "3-releases-the-short-game-system-daniel-grieve-kindle-edition",
+    "name": "3 Releases: The Short Game System — Daniel Grieve (Kindle Edition)",
+    "category": "Digital Golf Books",
+    "description": "Daniel Grieve teaches three greenside shots and explains how to choose among them based on the lie and landing area.",
+    "image": "/images/gear/3-releases-the-short-game-system-daniel-grieve-kindle-edition-showcase.webp",
+    "imageAlt": "Editorial illustration of Daniel Grieve’s 3 Releases Kindle edition on an e-reader.",
+    "url": "https://www.amazon.com/dp/B0BFM6QKHD?tag=breakingninet-20"
+  },
+  {
     "id": "vice-pro-golf-balls",
     "name": "Vice Pro Golf Balls",
     "category": "Golf Balls",

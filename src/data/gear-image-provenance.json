@@ -270,6 +270,36 @@
       "image": "/images/gear/vice-duro-golf-glove-showcase.webp",
       "referenceSource": "https://www.vicegolf.com/products/vice-golf-duro-white",
       "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "vice-pro-air-golf-balls",
+      "image": "/images/gear/vice-pro-air-golf-balls-showcase.webp",
+      "referenceSource": "https://www.vicegolf.com/golf-balls/vice-golf-pro-air-white",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "swing-caddie-sc4-pro-launch-monitor",
+      "image": "/images/gear/swing-caddie-sc4-pro-launch-monitor-showcase.webp",
+      "referenceSource": "https://voicecaddie.com/products/sc4-pro",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "harvey-penick-s-little-red-book",
+      "image": "/images/gear/harvey-penick-s-little-red-book-showcase.webp",
+      "referenceSource": "https://www.simonandschuster.com/books/Harvey-Penicks-Little-Red-Book/Harvey-Penick/9781451683219",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "caddie-buddy-golf-cart-phone-mount",
+      "image": "/images/gear/caddie-buddy-golf-cart-phone-mount-showcase.webp",
+      "referenceSource": "https://www.ebay.com/itm/293225060224",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
+    },
+    {
+      "productId": "3-releases-the-short-game-system-daniel-grieve-kindle-edition",
+      "image": "/images/gear/3-releases-the-short-game-system-daniel-grieve-kindle-edition-showcase.webp",
+      "referenceSource": "https://www.snaintongolf.co.uk/dan-grieve-3-releases-the-short-game-system-book",
+      "method": "Original generated editorial showcase based on a product reference and the Break 90 Golf PuttOUT and REDTIGER art direction."
     }
   ]
 }

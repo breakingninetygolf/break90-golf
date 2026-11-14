@@ -151,7 +151,9 @@
         "variant": "White, 12 balls",
         "source": "https://perball.com/balls/vice/pro-air-golf-balls",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/vice-pro-air-golf-balls-showcase.webp",
+        "imageAlt": "Editorial illustration of White Vice Pro Air golf ball on sunlit turf."
       },
       {
         "id": "swing-caddie-sc4-pro-launch-monitor",
@@ -163,7 +165,9 @@
         "source": "https://www.amazon.com/dp/B0DK24YKBD",
         "listingEvidence": "https://device.report/voice-caddie/sc4-pro",
         "verification": "Matched Amazon ASIN and model against manufacturer specifications and listing evidence.",
-        "verifiedAt": "2026-11-12"
+        "verifiedAt": "2026-11-12",
+        "image": "/images/gear/swing-caddie-sc4-pro-launch-monitor-showcase.webp",
+        "imageAlt": "Editorial illustration of Swing Caddie SC4 Pro radar launch monitor."
       },
       {
         "id": "harvey-penick-s-little-red-book",
@@ -174,7 +178,9 @@
         "variant": "Anniversary hardcover",
         "source": "https://www.amazon.com/dp/1451683219",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/harvey-penick-s-little-red-book-showcase.webp",
+        "imageAlt": "Editorial illustration of Harvey Penick’s Little Red Book anniversary hardcover."
       },
       {
         "id": "caddie-buddy-golf-cart-phone-mount",
@@ -185,7 +191,9 @@
         "variant": "Steering Wheel Phone Mount/Scorecard Pro",
         "source": "https://www.amazon.com/dp/B07TLYQMYM",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/caddie-buddy-golf-cart-phone-mount-showcase.webp",
+        "imageAlt": "Editorial illustration of Caddie Buddy phone mount attached to a golf cart steering wheel."
       },
       {
         "id": "3-releases-the-short-game-system-daniel-grieve-kindle-edition",
@@ -196,7 +204,9 @@
         "variant": "English Kindle edition",
         "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/3-releases-the-short-game-system-daniel-grieve-kindle-edition-showcase.webp",
+        "imageAlt": "Editorial illustration of Daniel Grieve’s 3 Releases Kindle edition on an e-reader."
       }
     ]
   },
