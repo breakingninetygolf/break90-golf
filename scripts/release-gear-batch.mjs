@@ -7,17 +7,22 @@ const batches = readJson('scripts/gear-release-queue.json');
 const presentIds = new Set(catalog.map(product => product.id));
 const presentNames = new Set(catalog.map(product => product.name.toLowerCase()));
 const presentAsins = new Set(catalog.map(product => product.url?.match(/\/dp\/([A-Z0-9]{10})/)?.[1]));
-const pending = batches.find(batch => !batch.products.every(product => presentIds.has(product.id)));
+const catalogById = new Map(catalog.map(product => [product.id, product]));
+const alreadyPublished = product =>
+  catalogById.get(product.id)?.url === `https://www.amazon.com/dp/${product.asin}?tag=breakingninet-20`;
+const pending = batches.find(batch => !batch.products.every(alreadyPublished));
 if (!pending) {
   console.log('All five Gear batches are in the catalog.');
   process.exit(0);
 }
 
-if (pending.products.length !== 5 || pending.products.some(product => presentIds.has(product.id))) {
-  throw new Error(`Gear batch ${pending.day} must contain five unpublished products.`);
+if (pending.products.length !== 5) {
+  throw new Error(`Gear batch ${pending.day} must contain five approved products.`);
 }
 
-const blockers = pending.products.filter(product => product.pending || !product.verifiedAt);
+const unpublished = pending.products.filter(product => !alreadyPublished(product));
+
+const blockers = unpublished.filter(product => product.pending || !product.verifiedAt);
 if (blockers.length) {
   throw new Error(blockers.map(product => `${product.name}: ${product.pending || 'Missing verification date.'}`).join('\n'));
 }
@@ -34,7 +39,7 @@ if (previous) {
   }
 }
 
-const additions = pending.products.map(({ id, name, category, description, asin, image, imageAlt, source, variant }) => {
+const additions = unpublished.map(({ id, name, category, description, asin, image, imageAlt, source, variant }) => {
   if (!/^[A-Z0-9]{10}$/.test(asin) || !source || !variant ||
       !/^\/images\/gear\/[a-z0-9-]+\.webp$/.test(image) || !imageAlt ||
       !existsSync(`public${image}`) || !existsSync(`public${image.replace('.webp', '-600.webp')}`)) {
@@ -53,4 +58,4 @@ const additions = pending.products.map(({ id, name, category, description, asin,
 });
 
 writeFileSync(catalogPath, JSON.stringify([...additions, ...catalog], null, 2) + '\n');
-console.log(`Prepared five products for Gear Day ${pending.day}.`);
+console.log(`Prepared ${additions.length} new products for Gear Day ${pending.day}.`);

@@ -1,5 +1,50 @@
 [
   {
+    "id": "not-suck",
+    "name": "How To Not Suck at Golf — J Parlo",
+    "category": "Golf Books",
+    "description": "A humorous look at common amateur golf mistakes, from on-course decisions to the expectations you bring to each round.",
+    "image": "/images/gear/not-suck-cover.webp",
+    "imageAlt": "How To Not Suck at Golf by J Parlo, with the red book cover",
+    "url": "https://www.amazon.com/dp/B0GGNQMG2T?tag=breakingninet-20"
+  },
+  {
+    "id": "course-strategy",
+    "name": "Golf Course Strategy for Lower Scores: The Mindset of a Strategic Golfer — J Parlo",
+    "category": "Digital Golf Books",
+    "description": "A Kindle guide to choosing targets, weighing risk and using your own club distances to make better decisions on the course.",
+    "image": "/images/gear/course-strategy-cover.webp",
+    "imageAlt": "Golf Course Strategy for Lower Scores by J Parlo book cover showcase",
+    "url": "https://www.amazon.com/dp/B0F4RG41F4?tag=breakingninet-20"
+  },
+  {
+    "id": "the-four-foundations-of-golf-jon-sherman",
+    "name": "The Four Foundations of Golf — Jon Sherman",
+    "category": "Golf Books",
+    "description": "Jon Sherman connects practice, strategy, expectations, and mental habits to the decisions recreational golfers make every round.",
+    "image": "/images/gear/four-foundations.webp",
+    "imageAlt": "The Four Foundations of Golf by Jon Sherman book cover showcase",
+    "url": "https://www.amazon.com/dp/B0B3RYB7ZF?tag=breakingninet-20"
+  },
+  {
+    "id": "garmin-r10",
+    "name": "Garmin Approach R10 Launch Monitor",
+    "category": "Launch Monitors",
+    "description": "A portable radar launch monitor for range sessions and at-home practice with a phone or tablet.",
+    "image": "/images/gear/garmin-r10.webp",
+    "imageAlt": "Garmin Approach R10 portable launch monitor showcase",
+    "url": "https://www.amazon.com/dp/B095QX1FSR?tag=breakingninet-20"
+  },
+  {
+    "id": "mevo-gen2",
+    "name": "FlightScope Mevo Gen2 Launch Monitor",
+    "category": "Launch Monitors",
+    "description": "A portable launch monitor that combines radar and camera tracking for indoor and outdoor practice.",
+    "image": "/images/gear/mevo-gen2.webp",
+    "imageAlt": "FlightScope Mevo Gen2 launch monitor showcase",
+    "url": "https://www.amazon.com/dp/B0FK8M3VLB?tag=breakingninet-20"
+  },
+  {
     "id": "vice-pro-air-golf-balls",
     "name": "Vice Pro Air Golf Balls",
     "category": "Golf Balls",
