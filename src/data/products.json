@@ -1,5 +1,50 @@
 [
   {
+    "id": "vice-tour-golf-balls",
+    "name": "Vice Tour Golf Balls",
+    "category": "Golf Balls",
+    "description": "A three-piece golf ball for golfers who want an everyday option to use consistently from the first tee through the putting green.",
+    "image": "/images/gear/vice-tour-golf-balls-showcase.webp",
+    "imageAlt": "Editorial illustration of White Vice Tour golf ball on sunlit turf.",
+    "url": "https://www.amazon.com/dp/B08927FCHT?tag=breakingninet-20"
+  },
+  {
+    "id": "bushnell-wingman-mini",
+    "name": "Bushnell Wingman Mini",
+    "category": "Speakers & GPS",
+    "description": "A compact golf speaker with audible GPS distances and a carabiner for golfers who prefer a smaller unit on their bag.",
+    "image": "/images/gear/bushnell-wingman-mini-showcase.webp",
+    "imageAlt": "Editorial illustration of Silver and black Bushnell Wingman Mini with PlayBetter charger.",
+    "url": "https://www.amazon.com/dp/B0C6YMBFC8?tag=breakingninet-20"
+  },
+  {
+    "id": "how-champions-think-bob-rotella",
+    "name": "How Champions Think — Bob Rotella",
+    "category": "Golf Books",
+    "description": "Bob Rotella explores confidence, focus, and the habits that help athletes perform under pressure on and off the course.",
+    "image": "/images/gear/how-champions-think-bob-rotella-showcase.webp",
+    "imageAlt": "Editorial illustration of Bob Rotella’s How Champions Think hardcover.",
+    "url": "https://www.amazon.com/dp/1476788626?tag=breakingninet-20"
+  },
+  {
+    "id": "wicked-smart-golf-michael-leonard-kindle-edition",
+    "name": "Wicked Smart Golf — Michael Leonard (Kindle Edition)",
+    "category": "Digital Golf Books",
+    "description": "Michael Leonard focuses on scoring through course management, a repeatable pre-shot routine, and better decisions under pressure.",
+    "image": "/images/gear/wicked-smart-golf-michael-leonard-kindle-edition-showcase.webp",
+    "imageAlt": "Editorial illustration of Michael Leonard’s Wicked Smart Golf Kindle edition on an e-reader.",
+    "url": "https://www.amazon.com/dp/B0B1JPJT56?tag=breakingninet-20"
+  },
+  {
+    "id": "the-four-foundations-of-golf-jon-sherman",
+    "name": "The Four Foundations of Golf — Jon Sherman",
+    "category": "Golf Books",
+    "description": "Jon Sherman connects practice, strategy, expectations, and mental habits to the decisions recreational golfers make every round.",
+    "image": "/images/gear/the-four-foundations-of-golf-jon-sherman-showcase.webp",
+    "imageAlt": "Editorial illustration of Jon Sherman’s The Four Foundations of Golf paperback.",
+    "url": "https://www.amazon.com/dp/B0B3RYB7ZF?tag=breakingninet-20"
+  },
+  {
     "id": "not-suck",
     "name": "How To Not Suck at Golf — J Parlo",
     "category": "Golf Books",
@@ -16,15 +61,6 @@
     "image": "/images/gear/course-strategy-cover.webp",
     "imageAlt": "Golf Course Strategy for Lower Scores by J Parlo book cover showcase",
     "url": ""
-  },
-  {
-    "id": "the-four-foundations-of-golf-jon-sherman",
-    "name": "The Four Foundations of Golf — Jon Sherman",
-    "category": "Golf Books",
-    "description": "Jon Sherman connects practice, strategy, expectations, and mental habits to the decisions recreational golfers make every round.",
-    "image": "/images/gear/four-foundations.webp",
-    "imageAlt": "The Four Foundations of Golf by Jon Sherman book cover showcase",
-    "url": "https://www.amazon.com/dp/B0B3RYB7ZF?tag=breakingninet-20"
   },
   {
     "id": "garmin-r10",

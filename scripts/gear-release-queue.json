@@ -222,7 +222,9 @@
         "variant": "White, 12 balls",
         "source": "https://brickseek.com/walmart-inventory-checker?sku=703317916",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/vice-tour-golf-balls-showcase.webp",
+        "imageAlt": "Editorial illustration of White Vice Tour golf ball on sunlit turf."
       },
       {
         "id": "bushnell-wingman-mini",
@@ -233,7 +235,9 @@
         "variant": "Silver/black with PlayBetter charger",
         "source": "https://device.report/bushnell/wingman",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/bushnell-wingman-mini-showcase.webp",
+        "imageAlt": "Editorial illustration of Silver and black Bushnell Wingman Mini with PlayBetter charger."
       },
       {
         "id": "how-champions-think-bob-rotella",
@@ -244,7 +248,9 @@
         "variant": "Hardcover",
         "source": "https://www.goodreads.com/work/editions/45034355-how-champions-think-in-sports-and-in-life",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/how-champions-think-bob-rotella-showcase.webp",
+        "imageAlt": "Editorial illustration of Bob Rotella’s How Champions Think hardcover."
       },
       {
         "id": "wicked-smart-golf-michael-leonard-kindle-edition",
@@ -255,7 +261,9 @@
         "variant": "English Kindle edition, first book",
         "source": "https://www.kindleranker.com/kindle_categories/159846011/US/",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/wicked-smart-golf-michael-leonard-kindle-edition-showcase.webp",
+        "imageAlt": "Editorial illustration of Michael Leonard’s Wicked Smart Golf Kindle edition on an e-reader."
       },
       {
         "id": "the-four-foundations-of-golf-jon-sherman",
@@ -266,7 +274,9 @@
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/B0B3RYB7ZF",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/the-four-foundations-of-golf-jon-sherman-showcase.webp",
+        "imageAlt": "Editorial illustration of Jon Sherman’s The Four Foundations of Golf paperback."
       }
     ]
   },
