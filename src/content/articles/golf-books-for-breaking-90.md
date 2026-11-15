@@ -106,7 +106,7 @@ This book takes a sarcastic approach to common amateur habits. Its Amazon descri
 
 <a class="btn dark" href="https://www.amazon.com/dp/B0GGNQMG2T?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check How To Not Suck at Golf on Amazon ↗</a>
 
-## Golf Course Strategy For Lower Scores: The Mindset of a Strategic Golfer — J Parlo
+## Golf Course Strategy For Lower Scores: The Mindset of a Strategic Golfer — J M Parlo
 
 <figure class="product-showcase"><img src="/images/gear/course-strategy-cover.webp" srcset="/images/gear/course-strategy-cover-600.webp 600w, /images/gear/course-strategy-cover.webp 1200w" sizes="(max-width: 850px) calc(100vw - 32px), 760px" alt="Golf Course Strategy For Lower Scores — illustrated reading pick" width="1200" height="800" loading="lazy" decoding="async"/></figure>
 
@@ -114,7 +114,7 @@ This book takes a sarcastic approach to common amateur habits. Its Amazon descri
 
 The book's retail description emphasizes target selection, risk-reward decisions, club distances and knowing your tendencies. That makes it relevant if your main question is how to make better choices with the game you already have.
 
-**Why consider it:** its stated focus is the decisions around a shot rather than a complete swing rebuild. The Kindle listing names J Parlo; paperback retailers list J M Parlo, so check the edition you want.
+**Why consider it:** its stated focus is the decisions around a shot rather than a complete swing rebuild.
 
 **Make it practical:** before your next round, write down a conservative tee-shot option for a hole that regularly causes trouble. After the round, record the choice you made and why. This is our suggested exercise, not a passage from the book.
 
@@ -122,7 +122,7 @@ The book's retail description emphasizes target selection, risk-reward decisions
 
 **Choose something else if:** you primarily want detailed mechanical instruction.
 
-<a class="btn dark" href="https://www.amazon.com/dp/B0F4RG41F4?tag=breakingninet-20" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Golf Course Strategy For Lower Scores on Amazon ↗</a>
+Paperback edition by J M Parlo, ISBN 9798319043290. [Edition details](https://bookshop.org/p/books/golf-course-strategy-for-lower-scores-the-mindset-of-a-strategic-golfer-j-m-parlo/c01fd441b444c3f9?ean=9798319043290).
 
 ## Read one. Try one thing. Keep notes.
 
