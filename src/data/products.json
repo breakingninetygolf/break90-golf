@@ -1,5 +1,50 @@
 [
   {
+    "id": "vice-drive-golf-balls",
+    "name": "Vice Drive Golf Balls",
+    "category": "Golf Balls",
+    "description": "A two-piece golf ball for recreational players who want a straightforward distance ball for regular rounds.",
+    "image": "/images/gear/vice-drive-golf-balls-showcase.webp",
+    "imageAlt": "Editorial illustration of Blue Vice Drive golf ball on sunlit turf.",
+    "url": "https://www.amazon.com/dp/B0D1W2VJSB?tag=breakingninet-20"
+  },
+  {
+    "id": "jbl-clip-5-portable-bluetooth-speaker",
+    "name": "JBL Clip 5 Portable Bluetooth Speaker",
+    "category": "Speakers & Accessories",
+    "description": "A compact, clip-on Bluetooth speaker for carrying music on a golf bag or cart without taking up a cup holder.",
+    "image": "/images/gear/jbl-clip-5-portable-bluetooth-speaker-showcase.webp",
+    "imageAlt": "Editorial illustration of Black and orange JBL Clip 5 with integrated carabiner.",
+    "url": "https://www.amazon.com/dp/B0D1J2GCJD?tag=breakingninet-20"
+  },
+  {
+    "id": "a-course-called-ireland-tom-coyne",
+    "name": "A Course Called Ireland — Tom Coyne",
+    "category": "Golf Books",
+    "description": "Tom Coyne recounts walking Ireland’s coastline in search of links golf, local stories, and the next tee.",
+    "image": "/images/gear/a-course-called-ireland-tom-coyne-showcase.webp",
+    "imageAlt": "Editorial illustration of Tom Coyne’s A Course Called Ireland paperback.",
+    "url": "https://www.amazon.com/dp/1592405282?tag=breakingninet-20"
+  },
+  {
+    "id": "the-practice-manual-adam-young",
+    "name": "The Practice Manual — Adam Young",
+    "category": "Golf Books",
+    "description": "Adam Young explains how to structure range practice around feedback, skill development, and shots that transfer to the course.",
+    "image": "/images/gear/the-practice-manual-adam-young-showcase.webp",
+    "imageAlt": "Editorial illustration of Adam Young’s The Practice Manual paperback.",
+    "url": "https://www.amazon.com/dp/1507723172?tag=breakingninet-20"
+  },
+  {
+    "id": "the-golfer-s-excuse-handbook-kurt-taylor",
+    "name": "The Golfer's Excuse Handbook — Kurt Taylor",
+    "category": "Golf Books",
+    "description": "A golf humor book full of excuses for bad bounces, missed putts, and the rounds your group will keep talking about.",
+    "image": "/images/gear/the-golfer-s-excuse-handbook-kurt-taylor-showcase.webp",
+    "imageAlt": "Editorial illustration of Kurt Taylor’s The Golfer’s Excuse Handbook paperback.",
+    "url": "https://www.amazon.com/dp/B0BMJR3ZV8?tag=breakingninet-20"
+  },
+  {
     "id": "vice-tour-golf-balls",
     "name": "Vice Tour Golf Balls",
     "category": "Golf Balls",

@@ -289,10 +289,13 @@
         "category": "Golf Balls",
         "description": "A two-piece golf ball for recreational players who want a straightforward distance ball for regular rounds.",
         "asin": "B0D1W2VJSB",
-        "variant": "Vice Drive Golf Balls, selected Amazon listing",
+        "variant": "Blue, 12 balls",
         "source": "https://slickdeals.net/f/20220987-15-99-vice-drive-golf-balls-at-amazon",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "listingEvidence": "https://www.ubuy.co.nl/nl/product/LS4B0IYFU-vice-drive-golf-balls",
+        "image": "/images/gear/vice-drive-golf-balls-showcase.webp",
+        "imageAlt": "Editorial illustration of Blue Vice Drive golf ball on sunlit turf."
       },
       {
         "id": "jbl-clip-5-portable-bluetooth-speaker",
@@ -303,7 +306,9 @@
         "variant": "Black/orange JBLCLIP5BLKOAM",
         "source": "https://www.amazon.com/dp/B0D1J2GCJD",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/jbl-clip-5-portable-bluetooth-speaker-showcase.webp",
+        "imageAlt": "Editorial illustration of Black and orange JBL Clip 5 with integrated carabiner."
       },
       {
         "id": "a-course-called-ireland-tom-coyne",
@@ -314,7 +319,9 @@
         "variant": "2010 paperback",
         "source": "https://www.penguinrandomhouse.com/books/301186/a-course-called-ireland-by-tom-coyne/",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/a-course-called-ireland-tom-coyne-showcase.webp",
+        "imageAlt": "Editorial illustration of Tom Coyne’s A Course Called Ireland paperback."
       },
       {
         "id": "the-practice-manual-adam-young",
@@ -325,7 +332,9 @@
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/1507723172",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/the-practice-manual-adam-young-showcase.webp",
+        "imageAlt": "Editorial illustration of Adam Young’s The Practice Manual paperback."
       },
       {
         "id": "the-golfer-s-excuse-handbook-kurt-taylor",
@@ -336,7 +345,9 @@
         "variant": "Paperback",
         "source": "https://www.amazon.com/dp/B0BMJR3ZV8",
         "verifiedAt": "2026-11-12",
-        "verification": "User confirmed the candidate listing for the scheduled release."
+        "verification": "User confirmed the candidate listing for the scheduled release.",
+        "image": "/images/gear/the-golfer-s-excuse-handbook-kurt-taylor-showcase.webp",
+        "imageAlt": "Editorial illustration of Kurt Taylor’s The Golfer’s Excuse Handbook paperback."
       }
     ]
   }
