@@ -1,0 +1,6 @@
+import sharp from 'sharp';
+const root='public/images/articles/weekend-golf-roundup-2026-11-20';
+const photo=await sharp('public/images/news/sea-island-dan-perry-2007.jpg').resize(1200,630,{fit:'cover'}).toBuffer();
+const svg=Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><defs><linearGradient id="g"><stop stop-color="#092316" stop-opacity=".97"/><stop offset="1" stop-color="#092316" stop-opacity=".1"/></linearGradient></defs><rect width="1200" height="630" fill="url(#g)"/><g font-family="DejaVu Sans" font-weight="bold"><text x="60" y="85" fill="#c7ff35" font-size="24">BREAK 90 GOLF / WEEKEND WATCH</text><g fill="white" font-family="DejaVu Sans" font-stretch="condensed" font-size="72"><text x="55" y="220">THE FINAL</text><text x="55" y="310">WEEKEND.</text></g><rect x="60" y="350" width="110" height="7" fill="#c7ff35"/><text x="60" y="420" fill="white" font-size="28">SEA ISLAND + NAPLES</text><text x="60" y="535" fill="#c7ff35" font-size="25">NOVEMBER 20–22, 2026</text></g></svg>`);
+const b=await sharp(photo).composite([{input:svg}]).png().toBuffer();
+await sharp(b).png().toFile(root+'.png');await sharp(b).webp({quality:88}).toFile(root+'.webp');await sharp(b).resize(600).webp({quality:85}).toFile(root+'-600.webp');
